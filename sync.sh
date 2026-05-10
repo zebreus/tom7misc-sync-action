@@ -14,6 +14,8 @@ git config user.name "github-actions"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
 # Restore svnsync lock files (excluded from git)
+mkdir -p $UPSTREAM_DIR_NAME/db
+mkdir -p $UPSTREAM_DIR_NAME/locks
 touch $UPSTREAM_DIR_NAME/db/txn-current-lock
 touch $UPSTREAM_DIR_NAME/db/write-lock
 touch $UPSTREAM_DIR_NAME/locks/db.lock
