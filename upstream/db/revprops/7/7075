@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-10T17:09:41.806274Z
+K 7
+svn:log
+V 75
+Measure stretch factor, add database tuning, more fields in db, clean up...
+END
