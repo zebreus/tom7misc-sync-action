@@ -14,22 +14,23 @@ git config user.name "github-actions"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
 # Restore svnsync lock files (excluded from git)
-mkdir -p $UPSTREAM_DIR_NAME/db
-mkdir -p $UPSTREAM_DIR_NAME/locks
-mkdir -p $UPSTREAM_DIR_NAME/db/transactions
-mkdir -p $UPSTREAM_DIR_NAME/db/txn-protorevs
-touch $UPSTREAM_DIR_NAME/db/txn-current-lock
-touch $UPSTREAM_DIR_NAME/db/write-lock
-touch $UPSTREAM_DIR_NAME/locks/db.lock
-touch $UPSTREAM_DIR_NAME/locks/db-logs.lock
+mkdir -p "$UPSTREAM_DIR"/db
+mkdir -p "$UPSTREAM_DIR"/locks
+mkdir -p "$UPSTREAM_DIR"/db/transactions
+mkdir -p "$UPSTREAM_DIR"/db/txn-protorevs
+touch "$UPSTREAM_DIR"/db/txn-current-lock
+touch "$UPSTREAM_DIR"/db/write-lock
+touch "$UPSTREAM_DIR"/locks/db.lock
+touch "$UPSTREAM_DIR"/locks/db-logs.lock
 
 # Sync upstream
 svnsync sync "file://$UPSTREAM_DIR"
 
+# Early exit if there are no changes
 git add $UPSTREAM_DIR_NAME
 git diff --cached --quiet && echo "No SVN changes" && exit 0
 
-# Clone downstream URL
+# Clone downstream repo
 git clone "$DOWNSTREAM_URL" "$DOWNSTREAM_DIR"
 
 # Prepare downstream for git-svn
@@ -47,10 +48,11 @@ cp "$REPO_DIR/$GIT_SVN_STATE/index" "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origi
 cp "$REPO_DIR/$GIT_SVN_STATE/.rev_map" "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/.rev_map.$UUID"
 
 cd "$DOWNSTREAM_DIR" || exit 1
-git config svn-remote.svn.url "file://$REPO_DIR/$UPSTREAM_DIR_NAME"
+git config svn-remote.svn.url "file://${UPSTREAM_DIR}"
 git config svn-remote.svn.fetch 'trunk:refs/remotes/origin/trunk'
 git svn fetch --authors-file="$REPO_DIR/authors.txt"
-git rebase refs/remotes/origin/trunk
+git reset --hard refs/remotes/origin/trunk
+git clean -fdx
 
 cd "$REPO_DIR" || exit 1
 # Store git-svn state for next sync
@@ -59,16 +61,16 @@ cp "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/.rev_map."* "$GIT_SVN_STA
 
 git add $GIT_SVN_STATE
 
-git commit -m "Sync SVN to r$(svnlook youngest $UPSTREAM_DIR_NAME)"
+git commit -m "Sync SVN to r$(svnlook youngest "$UPSTREAM_DIR")"
 
 # Assert that we can push to both repos
-git push origin main --dry-run
+git push --dry-run
 cd "$DOWNSTREAM_DIR"
-git push origin main --dry-run 
+git push --dry-run --force
 cd "$REPO_DIR"
 
 # Push to both repos
-git push origin main
+git push
 cd "$DOWNSTREAM_DIR"
-git push origin main
+git push --force
 cd "$REPO_DIR"
