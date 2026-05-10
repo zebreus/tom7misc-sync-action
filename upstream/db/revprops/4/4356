@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-05-09T23:06:09.419219Z
+K 7
+svn:log
+V 231
+Add wrapper for rectangle packing (using stb library which is embedded in the .cc file). Main thing this does is search for a working output rectangle size using that single algorithm. This can get more interesting later if needed.
+END

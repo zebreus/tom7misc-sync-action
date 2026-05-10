@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-13T03:41:55.849872Z
+K 7
+svn:log
+V 94
+Separate out UTF8 from util.h, and create a header-only utf8.h. Consolidate some duplications.
+END

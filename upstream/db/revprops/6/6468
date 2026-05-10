@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-05-09T19:48:26.614413Z
+K 7
+svn:log
+V 146
+Switch to 50 attempts, which will double the speed. The error is essentially indistinguishable from 200 attempts after this point. See howmanyrep.
+END

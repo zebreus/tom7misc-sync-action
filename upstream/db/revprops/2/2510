@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-05-24T16:22:00.982190Z
+K 7
+svn:log
+V 77
+Fixed -- the bug was actually that I was passing in the wrong 'current' value
+END

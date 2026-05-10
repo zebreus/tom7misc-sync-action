@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-09-15T21:02:17.002992Z
+K 7
+svn:log
+V 104
+On windows 10, enable ANSI support without ansicon. Switch to 60 threads (maybe should come from config)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-02T03:29:46.622802Z
+K 7
+svn:log
+V 44
+pass whole layer to forward pass destination
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-05T19:42:37.443128Z
+K 7
+svn:log
+V 202
+Actually it works for all inputs without modification. I guess the problem is not actually hard, it just defies my brain to come up with systematic solutions. Parameterize depth. Next try parallelizing.
+END

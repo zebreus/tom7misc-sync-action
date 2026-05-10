@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2009-03-26T22:40:24.014052Z
+K 7
+svn:log
+V 77
+fix worst garbage on screen in fullscreen. get rid of unused difficulty stuff
+END

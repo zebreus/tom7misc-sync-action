@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-09-02T21:02:40.915126Z
+K 7
+svn:log
+V 118
+Change ANSI::Composite to use rasterized color arrays. Provide routine to make them. Also implement Decompose finally.
+END

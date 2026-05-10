@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-29T21:55:35.117824Z
+K 7
+svn:log
+V 422
+Several improvements to cart. Show some activity on-screen before connecting to ppuppy, in order to confirm that all is ok. also it is funny-looking. Slapdash javascript tool for drawing designs/making tables for this. Move to c++ for makeimage, and add mirroring option. mirror cart to 32k so that it works whether that address line is connected or not (I believe it is connected on pcb but pretty sure not on prototype).
+END

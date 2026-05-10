@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-07-31T17:41:53.911499Z
+K 7
+svn:log
+V 164
+Fix some old bad style habits with regexes. Update docs a little. Fix clang warnings except in ObjC code. Use standards in a few places where it is easy to upgrade.
+END

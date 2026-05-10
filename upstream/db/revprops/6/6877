@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-04T17:04:35.715385Z
+K 7
+svn:log
+V 119
+Got this compiling with clang64 on msys2, which is my preferred way to do it in 2026. Will retire the mingw build soon.
+END

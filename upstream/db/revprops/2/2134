@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-01-02T02:29:27.279114Z
+K 7
+svn:log
+V 54
+Big performance improvement for sparse MIDIs (typical)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-09T19:30:31.476345Z
+K 7
+svn:log
+V 87
+No longer need karatsuba or fft code, as GMP does the multiplications. It's faster, too
+END

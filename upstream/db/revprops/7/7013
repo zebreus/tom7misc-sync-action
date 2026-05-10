@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-18T14:05:54.794284Z
+K 7
+svn:log
+V 147
+DNC: Migrate packet-parser and packet-writer to cc-lib. Keep the big-endian default but also allow little-endian. Misc changes elsewhere in here...
+END

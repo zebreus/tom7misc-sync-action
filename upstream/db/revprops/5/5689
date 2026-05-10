@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-18T12:01:50.983273Z
+K 7
+svn:log
+V 107
+Add abstract boxes and glue algorithm; not everything is implemented but it should already be pretty useful
+END

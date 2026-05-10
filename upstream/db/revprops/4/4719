@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-09-24T14:08:11.322992Z
+K 7
+svn:log
+V 111
+Explicitly test queen-side castling rules about 'castling through check' (it is correct but easy to get wrong).
+END

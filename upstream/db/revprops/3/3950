@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-06-08T13:51:41.695225Z
+K 7
+svn:log
+V 103
+viewer enhancements for video, including chess 'fonts'. pass.exe can cat without IVs when just reading.
+END

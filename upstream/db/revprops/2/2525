@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-06-27T13:57:58.926562Z
+K 7
+svn:log
+V 43
+Remove fceuindbg, which was constexpr false
+END

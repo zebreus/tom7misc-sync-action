@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-24T23:08:03.038040Z
+K 7
+svn:log
+V 151
+Fix self check that is too strict. Maybe should just be removed (see note). Add test for this behavior, though, which we should definitely be covering.
+END

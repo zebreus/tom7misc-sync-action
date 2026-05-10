@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-01-29T20:06:44.986073Z
+K 7
+svn:log
+V 63
+This is the correct way to write. Separate read-only dump util.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-09-05T15:21:55.156229Z
+K 7
+svn:log
+V 286
+Near-total rewrite of Solution (now value semantics), updated the rest of the program to use these, more const-correctness where it makes sense, commented-out old style solution manager, fixed bug where only one solution is stored, other cleanup and performance improvements on the way.
+END

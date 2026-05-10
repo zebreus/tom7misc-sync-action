@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2009-01-29T23:50:51.208585Z
+K 7
+svn:log
+V 80
+Enable locking and clean up some code. But still seeing a crash with drums work?
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-03T18:24:29.063495Z
+K 7
+svn:log
+V 194
+Somehow have achieved reasonable training. Added eval stuff like in vector version, switched to accessor methods for ImageA and ImageRGBA. Moved SDFConfig to FontProblem (a little more natural).
+END

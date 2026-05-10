@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-05-26T02:53:04.055766Z
+K 7
+svn:log
+V 92
+Fix bug with mov format which was causing Premiere to take a long time to process the movies
+END

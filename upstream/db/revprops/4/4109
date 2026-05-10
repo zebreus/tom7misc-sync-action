@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-05-22T21:46:26.167213Z
+K 7
+svn:log
+V 94
+Read and insert AM2315 readings. Pull out periodically class. Show RH in table view at least. 
+END

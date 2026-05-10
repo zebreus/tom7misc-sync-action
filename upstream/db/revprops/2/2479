@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-04-19T15:31:51.551339Z
+K 7
+svn:log
+V 69
+Explorer works, outputting to console, and can be made more efficient
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-30T03:55:24.035698Z
+K 7
+svn:log
+V 72
+move scheduling magic into its own file so that snes demo can try it too
+END

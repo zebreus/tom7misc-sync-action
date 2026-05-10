@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-29T20:10:58.163766Z
+K 7
+svn:log
+V 53
+Add nanoseconds to ansi time; tiny other improvements
+END

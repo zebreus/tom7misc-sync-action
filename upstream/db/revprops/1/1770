@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2012-11-24T16:55:58.921575Z
+K 7
+svn:log
+V 149
+Improved diagnostics. How can the number of orderings go down when I skip the start menu? Because some memory locations then become totally constant?
+END

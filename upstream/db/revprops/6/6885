@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-15T04:51:56.408060Z
+K 7
+svn:log
+V 28
+Start on a simple SVG parser
+END

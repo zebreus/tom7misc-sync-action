@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2011-03-27T15:00:40.532463Z
+K 7
+svn:log
+V 105
+Modifications to utils during wishlist work. Made it possible to supply initialization vector to md5 hash
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-03-27T21:20:34.384032Z
+K 7
+svn:log
+V 50
+'cheat' keys that move the player based on cameras
+END

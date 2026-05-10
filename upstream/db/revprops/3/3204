@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-25T14:13:35.291252Z
+K 7
+svn:log
+V 148
+Fix another dumb bug in optimization. Add unblocking internal bug when a for loop is completely unreachable. Other dumb bug was in paper.c itself :)
+END

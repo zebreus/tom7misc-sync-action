@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-30T15:36:08.474885Z
+K 7
+svn:log
+V 119
+Add truncated tetrahedron. Determine rendering scale automatically from diameter. Add names and use those in filenames.
+END

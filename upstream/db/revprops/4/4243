@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-23T20:43:09.373673Z
+K 7
+svn:log
+V 161
+new layer weight visualization tool. new operation in cull.exe to remove totally unreferenced nodes. make possible to cull multiple layers in the same invocation
+END

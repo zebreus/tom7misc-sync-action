@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-29T20:27:38.221792Z
+K 7
+svn:log
+V 79
+Fix bugs in ansi_test (out of date) and add support for RGB colors in decompose
+END

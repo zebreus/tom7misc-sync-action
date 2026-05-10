@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-03-26T16:42:30.429899Z
+K 7
+svn:log
+V 123
+Some progress on determining y location, but the correct location is filtered in zelda. Need to solve for constant offsets.
+END

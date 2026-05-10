@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-10T19:20:00.556109Z
+K 7
+svn:log
+V 111
+Getting closer to concrete implementations of this stuff. Added PDFDocument and support for its built-in fonts.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-14T19:00:58.897263Z
+K 7
+svn:log
+V 56
+Fix formatting in cleandb, fix compilation, fix makefile
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-03-05T20:44:16.861025Z
+K 7
+svn:log
+V 56
+Program to summarize MNIST results for paper; add plus64
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-26T03:23:14.017363Z
+K 7
+svn:log
+V 199
+Wrote some more text. Reasonable rendering of author names in citations. Don't keep starting from the root with depth 0 if the first rephrasing is invalid. Add string uppercase and lowercase primops.
+END

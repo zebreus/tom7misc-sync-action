@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-04-17T22:02:22.471025Z
+K 7
+svn:log
+V 140
+Split up tempo object files and revert to c++17 to try to fix unknown problem (might actually just be that the database has gotten too big?)
+END

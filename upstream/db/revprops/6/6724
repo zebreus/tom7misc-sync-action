@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-09-21T18:11:16.863299Z
+K 7
+svn:log
+V 80
+Remove enormous, useless json parser from llama, and remote model fetching stuff
+END

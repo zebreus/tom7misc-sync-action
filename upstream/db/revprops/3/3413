@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-02-11T15:41:45.436915Z
+K 7
+svn:log
+V 78
+Make this compile again, since I made Page and VPage private in fceulib/cart.h
+END

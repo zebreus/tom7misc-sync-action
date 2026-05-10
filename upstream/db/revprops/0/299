@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-06-14T02:29:58.744428Z
+K 7
+svn:log
+V 116
+some progress on getting datatypes to work. need to implement mu dicts. alert testcase does nothing, suspiciously...
+END

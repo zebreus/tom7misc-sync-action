@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-22T19:10:47.448182Z
+K 7
+svn:log
+V 73
+Fix syntax errors from blind hacking on the plane, and clean up some text
+END

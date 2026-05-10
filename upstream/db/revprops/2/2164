@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-03-08T03:17:33.319643Z
+K 7
+svn:log
+V 205
+Fix bug where king/queen were swapped (hehe), write a little about Chesstego, some more idea. n.b. this version can reproduce the winning solution for chesstego when black has no pieces but white is normal
+END

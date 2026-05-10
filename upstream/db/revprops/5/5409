@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-27T16:32:45.366461Z
+K 7
+svn:log
+V 72
+I tried to be cool with designated initializers and burned myself. Fixed
+END

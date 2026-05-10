@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2012-12-26T20:31:25.736707Z
+K 7
+svn:log
+V 34
+Compile with std=c++0x on mingw64.
+END

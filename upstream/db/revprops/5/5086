@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-16T04:36:30.270676Z
+K 7
+svn:log
+V 158
+Implement some of the 128-bit arithmetic with inline ptx. The code looks better (fewer instructions) but not proven with benchmarks yet. At 2,364,000,000,000.
+END

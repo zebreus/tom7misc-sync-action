@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-02-03T22:38:33.888491Z
+K 7
+svn:log
+V 143
+Bad idea: I thought that I could ReadFile from /proc by seeing fseek/ftell fail, but that doesn't work and this code has been wrong for decades
+END

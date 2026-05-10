@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-06T17:33:12.382300Z
+K 7
+svn:log
+V 86
+find home world in the canonical way to prevent duplicates if also explicitly declared
+END

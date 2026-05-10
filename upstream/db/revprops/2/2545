@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-07-14T22:21:03.318732Z
+K 7
+svn:log
+V 249
+Fix a bunch of bugs that I'm surprised didn't manifest earlier (probably due to fc objects being allocated with 'new' now). Uninitialized fields that probably used to be static. x6502 was memsetting over its fc field, ugh. valgrind looking clean now
+END

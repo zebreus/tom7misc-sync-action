@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-10-16T15:20:38.881789Z
+K 7
+svn:log
+V 248
+Add nontrivial training test. It doesn't converge in 100k iteratinos, but it does make some progress so it may be 'correct'. Make model-dump-as-image tools run again (they ignore some new complexities though). Add command-line boolean network tool.
+END

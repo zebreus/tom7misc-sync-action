@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-03-31T04:20:18.372320Z
+K 7
+svn:log
+V 141
+Nandwork is implemented; need just to finish the code that initializes it, the code that runs it, and the code that pulls the state out again
+END

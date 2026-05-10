@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-16T01:47:29.496494Z
+K 7
+svn:log
+V 147
+Ultrasimplified dma bit loop is substantially faster (though at the expense of not outputting the correct sound) and preserves cpu behavior exactly
+END

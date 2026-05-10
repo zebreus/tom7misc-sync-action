@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-10-09T14:59:31.651932Z
+K 7
+svn:log
+V 102
+Fix several bugs in tabled derivative calculation, and make it suitable for downshift2. Looks good now
+END

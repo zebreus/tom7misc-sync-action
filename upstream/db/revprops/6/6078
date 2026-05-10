@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-09T15:02:29.755593Z
+K 7
+svn:log
+V 93
+Move math out of bit7-classic page since it now has a proper home. Tweaks to 2x and light 2x.
+END

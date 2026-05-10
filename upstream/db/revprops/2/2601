@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-09-05T19:05:22.100127Z
+K 7
+svn:log
+V 138
+Re-enable tengen.cc, which uses the old interface and should be in mappers/. Disable tracing, oops. Expect this one to be clean v rev 2599
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-25T13:11:54.440492Z
+K 7
+svn:log
+V 149
+Move some more core functions to intervals.h, add tests. Notes about subtlety in FrameFromViewPos (but the bug was actually just in the test itself).
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-18T23:47:09.820834Z
+K 7
+svn:log
+V 111
+Compute header values better. Set to what I think are the minimal values, giving an executable of 409600 bytes.
+END

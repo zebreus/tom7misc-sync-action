@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-10-22T04:28:26.910449Z
+K 7
+svn:log
+V 55
+Avoid 'print' at polymorphic type, so I can simplify it
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-05T02:16:58.426910Z
+K 7
+svn:log
+V 85
+Start wrapping these things into heap-allocated objects so that it is 'thread' 'safe'
+END

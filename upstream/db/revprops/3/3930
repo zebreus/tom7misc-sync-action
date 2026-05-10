@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-04-27T20:03:20.094175Z
+K 7
+svn:log
+V 82
+Add CryptRand, which stinks for multiple reasons but at least works on x64 windows
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-04-25T03:29:46.066599Z
+K 7
+svn:log
+V 153
+Compile-time template parameters instead of is_123 runtime flags in boards/. Use 'final override' and 'final' structs wherever it makes sense in boards/.
+END

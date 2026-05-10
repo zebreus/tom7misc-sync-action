@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-07T16:54:36.473486Z
+K 7
+svn:log
+V 63
+Disable newppu. Clean up some unused counters and style (mmc5).
+END

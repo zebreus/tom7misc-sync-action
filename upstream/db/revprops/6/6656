@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-10T14:10:02.218224Z
+K 7
+svn:log
+V 150
+Switch to variant payload (format breaking) so that I can store bias. Fix bug with disc timer that shows disc initialization is indeed 96% of the cost
+END

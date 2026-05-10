@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-25T02:36:02.901638Z
+K 7
+svn:log
+V 48
+Add accessors for just numerator and denominator
+END

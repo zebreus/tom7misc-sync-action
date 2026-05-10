@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-20T18:59:07.322611Z
+K 7
+svn:log
+V 147
+Progress on chess. Further improvements in error messages. Found a bug with capturing polymorphic variables in mutually recursive functions, though
+END

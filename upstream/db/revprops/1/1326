@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-07-11T22:41:36.402729Z
+K 7
+svn:log
+V 73
+big performance improvement in split_maths. add split_vec and split_case.
+END

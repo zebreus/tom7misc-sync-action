@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-04-01T14:48:07.218406Z
+K 7
+svn:log
+V 68
+Assume C++ for stb_image too, and only store the header in one place
+END

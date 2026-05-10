@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-28T19:50:43.870675Z
+K 7
+svn:log
+V 137
+Added QuickHull implementation and debugged it. Surprisingly, it is slower than the naive gift-wrapping algorithm, even for 200 points :(
+END

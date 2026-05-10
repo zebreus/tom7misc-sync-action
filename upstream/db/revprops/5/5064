@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-10T14:58:25.255455Z
+K 7
+svn:log
+V 115
+Fix likely bug where gcd(-x, 0) was returning -x. Doesn't affect coverage tests, so I think this is just a mistake.
+END

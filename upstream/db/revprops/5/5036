@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-04T16:29:31.970995Z
+K 7
+svn:log
+V 75
+Much cleaner factor interface; it's responsible for its own allocation now.
+END

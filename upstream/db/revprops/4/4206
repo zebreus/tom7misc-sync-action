@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-19T23:06:19.855952Z
+K 7
+svn:log
+V 200
+Got train compiling. Move render style stuff to Network object. Initialize dense layers; no special training support yet. Make UI an object with local state. Add 'Top' for win32 builds (not yet used).
+END

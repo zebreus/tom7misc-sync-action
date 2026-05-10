@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-23T02:20:23.862408Z
+K 7
+svn:log
+V 114
+Use PolyType for exp vars. Use BigInt. Rename ast -> el. Add some base types and the easiest cases of elaboration.
+END

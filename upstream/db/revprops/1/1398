@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-09-27T03:53:59.679236Z
+K 7
+svn:log
+V 119
+finish implementation of world, except joints. still need to fill out the stubs, especially in body, island, toi-solver
+END

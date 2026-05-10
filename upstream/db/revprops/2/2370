@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-11T04:40:43.792108Z
+K 7
+svn:log
+V 193
+Add comprehensive test mode for emulator_test. Objectify Cart, which means touching almost every board and mapper. In case anyone is keeping track, for the record: I did this change by hand. :/
+END

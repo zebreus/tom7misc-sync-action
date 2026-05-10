@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-09-09T20:21:55.588654Z
+K 7
+svn:log
+V 119
+Moved home pos and projections to config file, hoping that it would work around the compiler bug, but it didn't help :(
+END

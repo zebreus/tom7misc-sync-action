@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-12-26T18:44:32.266068Z
+K 7
+svn:log
+V 131
+Add some missing Greek letters and some homoglyphs. A little bit of tweaking. Added light version of Katakana in FixederSysLight2x.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-06T13:45:34.369538Z
+K 7
+svn:log
+V 70
+Merge upstream stb_truetype, keeping a few small changes (typos, etc.)
+END

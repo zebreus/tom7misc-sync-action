@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-07-25T15:17:37.266430Z
+K 7
+svn:log
+V 81
+Improve em divisor for bitmap fonts, which also fixes the -1 coordinates issue.
+
+
+END

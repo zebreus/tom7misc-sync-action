@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-25T21:39:44.180595Z
+K 7
+svn:log
+V 188
+Manage the free variable counts iteratively in the VarUse pass. This was causing n^2 behavior and was most of what the simplification phase was spending time on. Yields about a 6x speedup.
+END

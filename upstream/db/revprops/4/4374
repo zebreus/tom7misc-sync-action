@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-07-17T18:45:43.549488Z
+K 7
+svn:log
+V 198
+Add DFX snooty pixel font. Make makegrid able to expand a font to add space. Fix bug in island-finder that caused it to produce the wrong output on 'landscape' inputs. Notes on supporting kerning.
+
+
+END

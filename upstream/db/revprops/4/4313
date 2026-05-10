@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-03-18T04:19:43.019774Z
+K 7
+svn:log
+V 33
+Find loops and render them, works
+END

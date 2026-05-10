@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-28T20:14:56.723612Z
+K 7
+svn:log
+V 41
+Reducing use of DivideBigNbrByMaxPowerOf2
+END

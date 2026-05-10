@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-07T21:23:46.579759Z
+K 7
+svn:log
+V 36
+Port db files to new aphasia2 syntax
+END

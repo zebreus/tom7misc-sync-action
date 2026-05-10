@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-07T13:36:16.202896Z
+K 7
+svn:log
+V 63
+Split unicode font into type0/cid. Still needs testing, cleanup
+END

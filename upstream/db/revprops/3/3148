@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-07T00:37:42.783831Z
+K 7
+svn:log
+V 197
+Make minimum displacement 0x20. Print out instruction bytes that aren't printable; in the current tests, the only remaining violations are INT 21 (expected, for tests) and the known bug in store16.
+END

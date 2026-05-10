@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-12T18:57:33.372308Z
+K 7
+svn:log
+V 141
+Some more on the paper, but mostly hacking on paper.c; implemented pointer-to-int and vice-versa casts, plus output debugging symbols finally
+END

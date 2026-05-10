@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-12-15T15:35:37.199791Z
+K 7
+svn:log
+V 42
+Generate with a chosen symbol from cmdline
+END

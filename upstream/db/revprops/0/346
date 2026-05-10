@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-07-09T23:10:22.764800Z
+K 7
+svn:log
+V 47
+very simple dead code elimination for js, helps
+END

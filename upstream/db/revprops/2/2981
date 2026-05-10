@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-10-08T15:19:05.252714Z
+K 7
+svn:log
+V 296
+Checkpoint this broken thing. I started thinking about a good way to do convolutional nets, and froze the previous version as mtoz-flat. Convolutional net is not implemented, it's just some notes and broken code. Checkpointing for posterity so that I can compare between R9 290X and Geforce 1080.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-02T04:42:51.507202Z
+K 7
+svn:log
+V 75
+Add CRT version of decryption. For exotic 16-factor keys, it is 100x faster
+END

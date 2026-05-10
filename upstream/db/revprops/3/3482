@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-06T19:13:45.835640Z
+K 7
+svn:log
+V 180
+More notes, work on breakout; add gpio 'direct access' code that is supposedly faster than bcm lib (but actually it appears to use the same approach, maybe without memory barrier)?
+END

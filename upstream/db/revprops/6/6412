@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-04-05T22:18:51.832115Z
+K 7
+svn:log
+V 60
+Make space for Latin Extended A (and B, etc.) in fixedersys.
+END

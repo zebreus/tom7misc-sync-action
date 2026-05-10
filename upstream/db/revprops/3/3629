@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-07-01T16:03:06.010965Z
+K 7
+svn:log
+V 92
+Fix bug in mtrandom shuffle. Add units option in textsvg, viewport too. reindent some source
+END

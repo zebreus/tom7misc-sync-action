@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-12T12:30:18.143088Z
+K 7
+svn:log
+V 197
+Move lots of Bigival code into .cc file. Test NiceSin/NiceCos. Document inv_epsilon goals and status. Better status in inub. Take patch indices on command line now that this can run in a few hours.
+END

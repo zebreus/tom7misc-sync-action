@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-20T23:17:52.232709Z
+K 7
+svn:log
+V 165
+Wow, hot performance tip: restrict (=noalias) on all the pointer arguments really helps the compiler (pipelining?). Another 20% throughput improvement from just that
+END

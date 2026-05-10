@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-09-06T22:27:31.350226Z
+K 7
+svn:log
+V 82
+local exns implemented. causes a bit of a code blow-up, but that is inline's fault
+END

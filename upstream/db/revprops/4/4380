@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-08-01T19:36:21.556904Z
+K 7
+svn:log
+V 75
+Move autoparallel to cc-lib. Fix lowercase compilation with new g++ headers
+END

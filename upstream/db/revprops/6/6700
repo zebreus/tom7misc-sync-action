@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-26T02:22:43.158936Z
+K 7
+svn:log
+V 75
+Improve the performance of some rational comparison stuff; tweaks in Cosine
+END

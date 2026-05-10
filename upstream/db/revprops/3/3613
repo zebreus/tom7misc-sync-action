@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-05-19T03:10:47.437579Z
+K 7
+svn:log
+V 72
+Finally use the scroll offset trick in 565 conversion; looks pretty good
+END

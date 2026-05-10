@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-14T14:46:44.533412Z
+K 7
+svn:log
+V 97
+Add APP patterns to EL and SUMCASE to IL, but pattern compilation is not implemented for them yet
+END

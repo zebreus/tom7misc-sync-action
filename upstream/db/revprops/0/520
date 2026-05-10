@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-31T20:30:55.296343Z
+K 7
+svn:log
+V 45
+implement ast_cmp directly for de bruin. easy
+END

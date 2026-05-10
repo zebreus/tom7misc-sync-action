@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-13T04:09:58.433126Z
+K 7
+svn:log
+V 59
+Add intcase construct; ready to implement int patterns next
+END

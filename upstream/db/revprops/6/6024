@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-09-30T22:11:25.394784Z
+K 7
+svn:log
+V 54
+First version of maze solver, which does not work well
+END

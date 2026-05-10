@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-18T13:43:24.611964Z
+K 7
+svn:log
+V 31
+Fix bug in unicode quote hotkey
+END

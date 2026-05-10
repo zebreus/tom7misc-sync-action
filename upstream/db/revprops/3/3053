@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-12-27T20:13:16.420001Z
+K 7
+svn:log
+V 88
+Implement shifts, implicit conversions for some ops (more to go); add unconditional jump
+END

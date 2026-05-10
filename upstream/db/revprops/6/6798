@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-11-16T04:25:50.500374Z
+K 7
+svn:log
+V 56
+Sync everything. Modernize re2 stringpiece, printf, etc.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-30T13:30:50.198127Z
+K 7
+svn:log
+V 60
+Modernize and fix compilation after recent cleanup of cc-lib
+END

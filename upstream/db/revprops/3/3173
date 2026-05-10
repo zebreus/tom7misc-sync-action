@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-13T03:48:53.156573Z
+K 7
+svn:log
+V 218
+Insert all the parts in the paper. Make ASCII sigbovik logo, by making a program that converts PNG files. Add %insert command to twocolumn syntax. Insert the source code to paper.c. Now just need to write the paper....
+END

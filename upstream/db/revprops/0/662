@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-11-21T20:51:31.022362Z
+K 7
+svn:log
+V 54
+implement newvtag and vexception, cleanup mobile stuff
+END

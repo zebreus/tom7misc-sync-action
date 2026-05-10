@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-06-08T15:52:32.046754Z
+K 7
+svn:log
+V 46
+generalize cursor to delta streams of anything
+END

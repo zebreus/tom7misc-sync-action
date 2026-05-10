@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-08T14:39:22.579686Z
+K 7
+svn:log
+V 318
+Couple fixes to PDF export: Fonts were missing /Widths, which is apparently required (thanks mixmix for the lead). The /FontName should also apparently start with a slash; Chrome doesn't care but pdf.js sure does. With these changes, the test PDFs look reasonable in Firefox. Illustrator still won't open them, though.
+END

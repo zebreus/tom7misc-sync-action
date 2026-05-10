@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-10T03:41:19.445905Z
+K 7
+svn:log
+V 63
+Compute area of hulls and rule out patches that way. No joy yet
+END

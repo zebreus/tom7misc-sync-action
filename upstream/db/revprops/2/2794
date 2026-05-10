@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-04T12:31:44.906179Z
+K 7
+svn:log
+V 217
+Make old-style bank switching (*ROM_BANK) member functions of INes and fix up call sites. Use 'final' in mappers/, and template bools where appropriate. Unwrap a macro in mapper. A little bit of code cleanup and docs.
+END

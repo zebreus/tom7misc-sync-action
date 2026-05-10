@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-09-03T04:02:55.931394Z
+K 7
+svn:log
+V 159
+Stage projection in pactom, and reindent map.sml. In segments, fix bug with segment parsing (lat/lon mixup) and check that things are working by dumping an SVG
+END

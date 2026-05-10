@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-03-24T16:58:28.994433Z
+K 7
+svn:log
+V 104
+Import BCM2835 lib for raspberry pi. Demonstrate gpio toggling, which I was able to observe on the scope
+END

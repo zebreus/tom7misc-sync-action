@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-03-28T17:11:34.668053Z
+K 7
+svn:log
+V 112
+Works for lolo. disabled caching because zelda is actually much more finicky than I thought; needs investigation
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-23T03:25:54.550117Z
+K 7
+svn:log
+V 115
+Clean up TextProps vs FontDescription. Support dx/dy on manually-created boxes, fixing the inline Gutenberg hyphen.
+END

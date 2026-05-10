@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-21T04:01:49.853108Z
+K 7
+svn:log
+V 112
+Did some of the SVG->PDF transformation. It is kinda working, but I need to finish it, and the colors look wrong
+END

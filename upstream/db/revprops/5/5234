@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-21T22:48:30.703871Z
+K 7
+svn:log
+V 90
+Record interesting coverage in grid. Steps towards dynamic numer of solutions in quadmodll
+END

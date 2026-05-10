@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-12T19:27:17.402411Z
+K 7
+svn:log
+V 80
+Switch to int64 interface. Internally, do SolveQuadraticEqModPowerOf2 with int64
+END

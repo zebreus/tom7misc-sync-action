@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-12T13:34:48.802327Z
+K 7
+svn:log
+V 81
+Add always-dead strategy. This does work sometimes but it's pretty memory hungry.
+END

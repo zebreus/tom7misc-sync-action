@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-12T13:58:19.071179Z
+K 7
+svn:log
+V 133
+Retire deprecated stl_decl, which I'm not using but is included in basically everything. Add some documentation for PRINTF_ATTRIBUTE.
+END

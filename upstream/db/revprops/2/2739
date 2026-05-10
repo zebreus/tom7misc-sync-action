@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-03-12T19:48:19.084209Z
+K 7
+svn:log
+V 34
+It works! GL_MODULATE was the key.
+END

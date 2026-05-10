@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-03-04T03:13:40.072367Z
+K 7
+svn:log
+V 55
+Blind player that always reports one king for each side
+END

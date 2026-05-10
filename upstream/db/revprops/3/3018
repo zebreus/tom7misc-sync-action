@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-11-30T04:14:58.950729Z
+K 7
+svn:log
+V 123
+Try writing a 'valid' relocation table. Seems to work, but it may be overwriting the first instruction (only?) of our code.
+END

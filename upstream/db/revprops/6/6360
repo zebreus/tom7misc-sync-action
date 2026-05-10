@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-08T17:51:12.930031Z
+K 7
+svn:log
+V 54
+Unicode fonts are working in PDFs (and BoVeX) now, yay
+END

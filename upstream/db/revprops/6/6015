@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-09-28T14:44:14.892245Z
+K 7
+svn:log
+V 255
+Remove docid.h and a bunch of basictypes.h. This is old stuff from Google's 'base' library that is dead, but ends up being included in almost any project using cc-lib. Add test for top_n to make sure it still compiles, since that is also an old GTL thing.
+END

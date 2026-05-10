@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-06-26T03:35:12.022385Z
+K 7
+svn:log
+V 142
+Finished converting GPU side to half precision. It may have a real bug or may just be failing to converge because of underflow. Next, debug...
+END

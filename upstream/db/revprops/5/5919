@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-16T19:48:14.319239Z
+K 7
+svn:log
+V 116
+Fix long-standing bug in BufferedFile. Add support for streaming compressed (ccz) wikipedia file instead of raw XML.
+END

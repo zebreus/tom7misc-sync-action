@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-05-08T20:15:41.437295Z
+K 7
+svn:log
+V 85
+Successfully split out UI parts of net (to play.ts) and encapsulate in classes mostly
+END

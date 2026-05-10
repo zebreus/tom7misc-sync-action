@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-01-03T18:33:49.347155Z
+K 7
+svn:log
+V 95
+Import oping with simplified makefile. Relicense pingu as GPL so oping code can be incorporated
+END

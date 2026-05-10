@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-14T04:10:39.790207Z
+K 7
+svn:log
+V 94
+Use random depth in encoding search, yielding a bunch of improved solutions. Some misc cleanup
+END

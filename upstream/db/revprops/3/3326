@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-09-10T15:04:15.750359Z
+K 7
+svn:log
+V 117
+Was unable to get the new version of mlton to compile on windows. This seems to work around the mlton bug (for now?).
+END

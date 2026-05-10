@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-11-28T05:10:23.473090Z
+K 7
+svn:log
+V 145
+Some direct 16-to-16 transformations (which makes this test case worse for a known reason); fix a stupid bug, which must be my cue to go to sleep
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-11-11T23:30:01.945928Z
+K 7
+svn:log
+V 57
+Fix bug (letters need to be sorted). Implement pixel font
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-12-30T20:14:09.245616Z
+K 7
+svn:log
+V 79
+Implement integer promotions (probably buggy); small improvements in ckit, docs
+END

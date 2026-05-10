@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-16T03:33:14.639180Z
+K 7
+svn:log
+V 151
+add and fix bug with unhold optimization for closure: mkenv is sensitive to the current world now, and go closure conversion wasn't setting it properly
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-07-02T17:53:50.049692Z
+K 7
+svn:log
+V 82
+Move ttf wrapper and bezier library from lowercase project to cc-lib, for reuse.
+
+
+END

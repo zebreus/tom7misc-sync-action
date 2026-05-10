@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-02T13:22:14.983501Z
+K 7
+svn:log
+V 91
+Clean up ines cart sizing code a bit. Document some new understanding about bank switching.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-05T20:13:42.419553Z
+K 7
+svn:log
+V 82
+Parallelize and add ansi status while running. Solves first phase of all in 20 sec
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-02T17:07:51.054135Z
+K 7
+svn:log
+V 280
+Also compute bounding ball for view positions and test those against the patch's planes. The balls can reject positions that the AABBs cannot. Looks like this is improving the fraction of samples that are actually in the patch, and AABB efficiency for hull points is more like 20%
+END

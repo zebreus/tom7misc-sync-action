@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-04-23T21:25:14.244412Z
+K 7
+svn:log
+V 65
+Fix compilation of geom utils, add very basic test for bresenham.
+END

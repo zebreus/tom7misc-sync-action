@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-30T12:50:06.330086Z
+K 7
+svn:log
+V 172
+In ANSI library, correct some misunderstandings about bright/dark colors. This changes some escape sequences so it's not backwards compatible, but it was just wrong before.
+END

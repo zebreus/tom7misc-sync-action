@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-01-28T15:50:19.155045Z
+K 7
+svn:log
+V 80
+Make ReadFile and friends avoid copying, also fixing a g++ unused result warning
+END

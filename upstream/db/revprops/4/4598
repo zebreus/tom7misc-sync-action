@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-03-23T04:01:40.571758Z
+K 7
+svn:log
+V 156
+Add 'fast' versions of RNG and NextPiece. Make movie test can test more than 8 bytes. Improve encoding search by reusing prefixes of existing good solutions
+END

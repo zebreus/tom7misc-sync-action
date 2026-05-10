@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-06T12:33:29.965380Z
+K 7
+svn:log
+V 50
+Remove obsolete casts.h. bit_cast is now in c++20.
+END

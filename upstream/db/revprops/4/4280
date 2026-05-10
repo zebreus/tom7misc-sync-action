@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-16T19:25:43.410239Z
+K 7
+svn:log
+V 86
+Add direct bitmap 8x8 generation, which is about twice as fast as the naive conversion
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-20T14:17:10.561817Z
+K 7
+svn:log
+V 97
+Delete lug and ctpg, which died to me. Working on compilation with clang on msys2; fix some tests
+END

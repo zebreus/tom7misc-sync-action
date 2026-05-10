@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-18T16:14:40.845659Z
+K 7
+svn:log
+V 96
+Use 64 bit integers in GetNextConvergent, a hot spot. Fix missing return when gcd p,q,r isn't 1.
+END

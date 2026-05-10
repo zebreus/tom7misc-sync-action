@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-04-14T15:41:36.332328Z
+K 7
+svn:log
+V 105
+Parse CRD format. Stop synchronizing counters. Move 'clean.exe' to avoid 'make clean'. Upgrade gcc to 9.2
+END

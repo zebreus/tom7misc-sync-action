@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-09-16T21:46:34.962665Z
+K 7
+svn:log
+V 74
+Use random-pool and emulator-pool in autolives too. also, check them in :)
+END

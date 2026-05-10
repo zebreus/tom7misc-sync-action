@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-07T00:02:34.212682Z
+K 7
+svn:log
+V 139
+Put relocations after CS, so that it's not corrupting code, and do so using a printable word. Some debugging code and simple seg:off solver
+END

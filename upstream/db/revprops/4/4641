@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-06-26T17:22:35.522206Z
+K 7
+svn:log
+V 49
+Hmm, accumulating gradients as float doesn't help
+END

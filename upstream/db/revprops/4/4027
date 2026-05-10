@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-02-01T20:05:33.478485Z
+K 7
+svn:log
+V 74
+Suppress emacs backups, make gen work without third useless arg, add ezgen
+END

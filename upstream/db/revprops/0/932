@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-12-02T05:48:32.007177Z
+K 7
+svn:log
+V 54
+generate output as unabbreviated UTF8 strings. painful
+END

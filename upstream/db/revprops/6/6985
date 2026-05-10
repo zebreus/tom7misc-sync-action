@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-22T12:59:47.884059Z
+K 7
+svn:log
+V 74
+sget works for legacy tls. :) Still plenty of things that can be improved.
+END

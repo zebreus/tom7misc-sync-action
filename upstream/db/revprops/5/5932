@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-20T22:35:45.052705Z
+K 7
+svn:log
+V 73
+Get BoVeX compiling with g++ (13.2.0). Still many warnings, some annoying
+END

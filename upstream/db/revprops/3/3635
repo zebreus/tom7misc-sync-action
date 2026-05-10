@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-08-05T16:01:31.990382Z
+K 7
+svn:log
+V 40
+Add Hashing utility, fix typo in arcfour
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-21T15:22:47.387035Z
+K 7
+svn:log
+V 192
+Count the number of errors, and return a positive error when there are any errors (rather than assuming the computed distance will be positive). Should help with self-inconsistent 'solutions'.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-04-26T19:29:46.920553Z
+K 7
+svn:log
+V 39
+Make most X6502_ stuff member functions
+END

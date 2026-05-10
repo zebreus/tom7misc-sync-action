@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-08-18T22:57:34.169571Z
+K 7
+svn:log
+V 63
+Refactor TalkDocument in preparation for adding a movie backend
+END

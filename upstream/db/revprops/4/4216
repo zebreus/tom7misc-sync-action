@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-28T23:03:23.668008Z
+K 7
+svn:log
+V 87
+New heuristic version of this that's simpler and probably faster. Still untested though
+END

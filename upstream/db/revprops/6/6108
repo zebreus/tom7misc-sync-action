@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-23T14:17:58.240883Z
+K 7
+svn:log
+V 126
+Added some more instructions. Now this gets hundreds of iterations deep, but I think the RTS imprecision is finally biting me.
+END

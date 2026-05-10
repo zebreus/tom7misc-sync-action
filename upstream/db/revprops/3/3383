@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-01-21T17:42:09.926002Z
+K 7
+svn:log
+V 79
+Experiment with player sync, explicit grid exploration, grid eligibility bugfix
+END

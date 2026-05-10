@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-15T23:59:50.276272Z
+K 7
+svn:log
+V 117
+Migrate more util functions to C++20isms. Retire top-level itos and stoi, which seem unused in code I'm still fond of
+END

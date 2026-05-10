@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-11-01T22:32:49.571473Z
+K 7
+svn:log
+V 64
+Load certs, fix some bugs; server-side handshake is working now.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-10-11T23:19:35.618140Z
+K 7
+svn:log
+V 68
+Improve output during experiments. Set better default for batch size
+END

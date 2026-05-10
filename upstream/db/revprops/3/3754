@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-11-03T20:59:44.956199Z
+K 7
+svn:log
+V 287
+Tested on hundreds of millions of games so I think it's likely correct now, at least for the sake of accepting legal moves. Add skeleton of paper with my guesses prior to getting any results. Some performance improvements. Finally, track fates of pieces as necessary for the computation.
+END

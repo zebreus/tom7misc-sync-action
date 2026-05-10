@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-07-05T14:55:14.305416Z
+K 7
+svn:log
+V 133
+Finished off Cyrillic codepage (except for combining characters) in 1x. Did some easy AA in 2x, but it needs a serious pass of course
+END

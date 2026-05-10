@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-07T16:13:23.512099Z
+K 7
+svn:log
+V 83
+Possibly dead-end noodling trying to simplify the way this is called; commented-out
+END

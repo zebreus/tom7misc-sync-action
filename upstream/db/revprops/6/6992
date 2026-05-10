@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-25T03:04:11.363816Z
+K 7
+svn:log
+V 79
+Merge .emacs on windows into dotemacs, and do some things a more principled way
+END

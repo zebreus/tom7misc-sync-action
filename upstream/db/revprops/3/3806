@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-12-31T22:19:10.880358Z
+K 7
+svn:log
+V 109
+Fix compilation. Add support for RELU and LEAKY_RELU; display error. Network still gets stuck all the time...
+END

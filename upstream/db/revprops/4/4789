@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-01-13T01:56:20.487991Z
+K 7
+svn:log
+V 70
+Working version of acronymine server, maybe working nextword predictor
+END

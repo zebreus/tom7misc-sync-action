@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-07-16T13:07:16.307002Z
+K 7
+svn:log
+V 122
+Use multiple GPU threads. Batch first pass, which helps a lot -- we're now maxing out the GPU, and Try is finally material
+END

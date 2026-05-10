@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-03T05:01:39.613202Z
+K 7
+svn:log
+V 149
+Fix silly bug in closure conversion of recursive functions. Undid bad idea with 'call'. Implement more of to-bytecode. Add decompose simplifications.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-05-23T15:35:46.224656Z
+K 7
+svn:log
+V 67
+implement console mode. sdl_net works on linux in console mode, yay
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-25T02:29:04.551765Z
+K 7
+svn:log
+V 91
+Also fix compilation of this project with clang and recent cc-lib changes; tidy up a little
+END

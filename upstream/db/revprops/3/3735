@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-10-11T19:55:29.139698Z
+K 7
+svn:log
+V 151
+Improve UI a bit for the case where there are 60 threads. More benchmark results, improved. Make batch size and probability to keep node experimentable
+END

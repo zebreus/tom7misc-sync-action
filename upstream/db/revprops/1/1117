@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2009-09-13T19:12:43.969857Z
+K 7
+svn:log
+V 78
+http is working. need to get rid of debugging printouts and polish ntohl stuff
+END

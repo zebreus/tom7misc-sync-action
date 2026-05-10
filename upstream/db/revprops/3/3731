@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-10-06T22:03:04.545226Z
+K 7
+svn:log
+V 142
+Do batched updates to tree, which helps a lot with utilization. Also, fix NES frame counter, showing that we actually get like 100kFPS, not 13
+END

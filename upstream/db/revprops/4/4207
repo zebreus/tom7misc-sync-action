@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-20T23:01:37.073327Z
+K 7
+svn:log
+V 128
+Optimize some CL code, especially for dense layers. Makes it a little more complicated but +18% throughput is hard to argue with
+END

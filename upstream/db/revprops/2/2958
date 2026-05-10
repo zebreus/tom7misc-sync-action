@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-09-03T18:33:16.725222Z
+K 7
+svn:log
+V 62
+Fix color-channel issues on macOS, I think. More code cleanup.
+END

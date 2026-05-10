@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-07-08T14:25:39.088354Z
+K 7
+svn:log
+V 25
+Don't need to use globals
+END

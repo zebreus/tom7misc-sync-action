@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-26T04:36:38.557183Z
+K 7
+svn:log
+V 116
+Non-linear scaling of slack penalty. It's obvious when you think about it, and improves some common bad cases a lot.
+END

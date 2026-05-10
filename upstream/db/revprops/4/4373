@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-07-06T19:39:22.096232Z
+K 7
+svn:log
+V 49
+Remove colinear points in outline. Add dfx-wetar.
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-12T14:11:25.016638Z
+K 7
+svn:log
+V 108
+Delete some crap in here that's obviously unnecessary. Fix definition (!) in header (!) of PATH_SEPARATOR.
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-07-19T13:00:22.415722Z
+K 7
+svn:log
+V 131
+Potential early exit during trial division; doesn't help that much with the filters already in place, but it does get hit sometimes
+END

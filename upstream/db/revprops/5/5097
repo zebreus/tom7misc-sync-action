@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-17T15:10:19.204519Z
+K 7
+svn:log
+V 54
+Clean out some uses of global TestNbr and NumberLength
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-15T18:28:05.477636Z
+K 7
+svn:log
+V 103
+Add header for recursive solutions when discr=5. Remove 'clean' subobject which is no longer necessary.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-11-05T03:15:45.911327Z
+K 7
+svn:log
+V 103
+Standardize include guards, at least for source native to cc-lib. The __ prefix is actually reserved...
+END

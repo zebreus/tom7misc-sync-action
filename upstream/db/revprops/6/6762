@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-10-26T19:39:57.707964Z
+K 7
+svn:log
+V 105
+Fix some problems in the PDF library, including one that would drop fancy quote characters from paper.pdf
+END

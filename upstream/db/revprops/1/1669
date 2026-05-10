@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2012-04-14T23:13:35.737343Z
+K 7
+svn:log
+V 56
+make midi loading compatible with -sequence-unit warning
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-09T15:17:50.150720Z
+K 7
+svn:log
+V 141
+Ah, the 'problem' was just that some callers do multiplication in place (result is the same as a factor). The difference must be elsewhere...
+END

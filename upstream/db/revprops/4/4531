@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-06T03:51:45.927255Z
+K 7
+svn:log
+V 136
+Cleanup phase, reorganize code, serialization. Can solve almost all of them, although there is a bug where the pile may have extra crap.
+END

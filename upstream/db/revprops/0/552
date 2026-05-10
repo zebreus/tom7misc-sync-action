@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-09-12T20:43:10.762293Z
+K 7
+svn:log
+V 76
+elevating SAY to real construct so as to implement imports. doesn't work yet
+END

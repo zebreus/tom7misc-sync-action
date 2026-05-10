@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-17T20:42:25.164548Z
+K 7
+svn:log
+V 29
+Get rid of output global, too
+END

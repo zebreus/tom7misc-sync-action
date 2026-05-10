@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-19T13:50:00.093921Z
+K 7
+svn:log
+V 81
+Modeling loop is coming together. Still need to do a hundred instructions, though
+END

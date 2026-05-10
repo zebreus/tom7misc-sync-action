@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-02T16:03:07.461787Z
+K 7
+svn:log
+V 200
+Implement frameoffset and mov. Print code and size just for fun. Add 'builtins' to CIL, specifically so that we can exit the program; still need to generate these. Note that CIL.Add was totally wrong.
+END

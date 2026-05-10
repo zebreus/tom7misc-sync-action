@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-01-25T03:45:20.096898Z
+K 7
+svn:log
+V 64
+Fix bug in n-markov-controller; make warmup settable from config
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-02-14T21:20:09.033928Z
+K 7
+svn:log
+V 71
+proper cps language with hoas wizard interface; du info in build system
+END

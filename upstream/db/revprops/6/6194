@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-26T18:46:05.717173Z
+K 7
+svn:log
+V 79
+Fix bug with incomplete implementation of Faces::Faces. tosvg command-line args
+END

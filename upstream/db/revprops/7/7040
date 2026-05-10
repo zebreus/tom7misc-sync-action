@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-24T04:15:16.178513Z
+K 7
+svn:log
+V 56
+Clean up a bit, and add faster non-debugging IsNet test.
+END

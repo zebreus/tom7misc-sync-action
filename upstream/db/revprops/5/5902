@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-06T03:54:40.216045Z
+K 7
+svn:log
+V 129
+Add justification modes for greedy algorithm so I can make slide for that. Some more animations / polish. Nearly there (still)...
+END

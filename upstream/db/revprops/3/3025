@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-12-03T01:42:44.960669Z
+K 7
+svn:log
+V 58
+Rewrote tactics to use Machine; fixed bugs; getting better
+END

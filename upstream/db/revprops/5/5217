@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-14T20:14:42.360029Z
+K 7
+svn:log
+V 167
+Full STARTROPICS sync. Get a bunch of stuff compiling again (recent and older cc-lib changes); fix some compiler warnings; maybe some stray files I forgot to check in.
+END

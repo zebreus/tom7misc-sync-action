@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-09-03T14:36:00.605036Z
+K 7
+svn:log
+V 240
+Change default install dir on windows. Makefile prevents releasing in console mode, and strips before making installer. Clean out some old comments in makefile. Modernize a bunch of Extent -> unique_ptr stuff, and related style improvements
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-22T01:07:27.602231Z
+K 7
+svn:log
+V 61
+Try to determine the best palette for each image; kinda works
+END

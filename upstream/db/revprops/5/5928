@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-19T19:42:25.412578Z
+K 7
+svn:log
+V 115
+Compress embedded TTFs in written PDFs (when the compression option is enabled). Other stuff is not yet compressed.
+END

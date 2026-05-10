@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-22T02:57:59.160319Z
+K 7
+svn:log
+V 146
+Do the TODO to propagate page size (from doc-info) to talk screen size, so there's no longer any need to repeat this on the maketalk command line.
+END

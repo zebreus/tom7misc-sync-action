@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-10-09T15:28:22.634915Z
+K 7
+svn:log
+V 114
+Select the platform that has at least one GPU, and print some info about them at start. benchmark results for 1080
+END

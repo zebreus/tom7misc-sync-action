@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-24T02:20:58.698353Z
+K 7
+svn:log
+V 66
+Improve sin/cos with strength reduction. Add patch sample for json
+END

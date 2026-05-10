@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-05-14T22:55:50.882974Z
+K 7
+svn:log
+V 50
+Persist uids across reload. set_nick functionality
+END

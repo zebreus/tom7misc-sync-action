@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-07T12:51:58.711743Z
+K 7
+svn:log
+V 79
+make sure this works with big.h changes; some modernization and clang fixes too
+END

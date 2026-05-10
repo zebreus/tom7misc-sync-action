@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-22T03:24:46.667064Z
+K 7
+svn:log
+V 284
+Fix the interaction between style that's smeared over several paragraphs and rephrase-paragraph. It works for the simple case and could be extended to nested stuff, but time is running thin. Trim surrounding whitespace to match the rephrase input, since it often adds a leading space.
+END

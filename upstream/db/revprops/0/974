@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-12-25T02:22:48.191865Z
+K 7
+svn:log
+V 128
+Finally found working FixedSys without shitty anti-aliasing for OS X. Configured dotemacs to detect OSX emacs and use that font.
+END

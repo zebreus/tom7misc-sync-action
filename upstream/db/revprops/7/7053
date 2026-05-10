@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-02T03:33:57.571019Z
+K 7
+svn:log
+V 125
+Split this up so that it can run the sampler and measurement in parallel. Retry when we get numer=0, increasing the precision
+END

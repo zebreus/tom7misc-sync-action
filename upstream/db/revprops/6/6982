@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-21T19:07:03.874352Z
+K 7
+svn:log
+V 68
+Add some serialization/parsing for the client side of the connection
+END

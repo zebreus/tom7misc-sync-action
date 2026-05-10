@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-05T04:01:39.939196Z
+K 7
+svn:log
+V 110
+Made a lot of progress on the sticky mutually-recursive-globals thing, but there seems to be 'one more bug'...
+END

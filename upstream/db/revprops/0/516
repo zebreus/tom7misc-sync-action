@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-29T20:15:00.519280Z
+K 7
+svn:log
+V 95
+marshaling of datatypes works now. added AST conformance test in preparation for de bruijn hell
+END

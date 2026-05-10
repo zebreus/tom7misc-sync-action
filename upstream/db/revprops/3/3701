@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-09-09T15:36:45.569689Z
+K 7
+svn:log
+V 97
+Add scoring for the actual value of lives and size of decrement. Results from previous experiment
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-09-15T00:05:22.170307Z
+K 7
+svn:log
+V 59
+Add static_assert hints for functions like ParallelTabulate
+END

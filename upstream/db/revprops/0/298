@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-06-13T22:32:43.248709Z
+K 7
+svn:log
+V 287
+working on getting polygen at IL working and also sums all throughout. one issue is that the code generated for a sumcase tries to access the inner sum variable in the default, which we no longer allow because there's no simple way to type-check it. so we need to undo that optimization.
+END

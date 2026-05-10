@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2009-02-04T04:35:49.844929Z
+K 7
+svn:log
+V 50
+split out config menu into its own module and file
+END

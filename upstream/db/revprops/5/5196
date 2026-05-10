@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-13T14:11:39.955687Z
+K 7
+svn:log
+V 234
+Delete some dead code and globals. Fix copy/paste bug (I think) in original code where we used L (maybe initialized by accident) instead of H (the one we just computed locally) for the discriminant. But, potentially suspicious change.
+END

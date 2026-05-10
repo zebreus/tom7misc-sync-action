@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-12-22T15:40:02.889727Z
+K 7
+svn:log
+V 125
+Also fix popCount for bigword; not tested. Implement RGB to LAB conversion and DeltaE (ported from cc-lib) for the heck of it
+END

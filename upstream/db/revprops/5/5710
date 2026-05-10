@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-20T13:13:02.089178Z
+K 7
+svn:log
+V 169
+Improve monospace generator so that it gets more random when it generates duplicates. Add monospace rendering. Keep around individual font style names for advanced uses.
+END

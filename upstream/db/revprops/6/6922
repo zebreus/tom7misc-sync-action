@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-09T22:32:31.657977Z
+K 7
+svn:log
+V 54
+Improve footnote layout (use body font) and fix a bug.
+END

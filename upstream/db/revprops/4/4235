@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-14T04:09:59.039802Z
+K 7
+svn:log
+V 108
+Much better decay factor, at least for this problem after 200k rounds. Long term eval export to spreadsheets
+END

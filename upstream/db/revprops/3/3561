@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-29T14:29:15.811363Z
+K 7
+svn:log
+V 81
+A bit more cleanup, but it looks like the screen output is pretty well-optimized.
+END

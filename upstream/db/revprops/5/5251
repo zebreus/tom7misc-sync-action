@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-24T02:45:23.162716Z
+K 7
+svn:log
+V 32
+Don't return duplicate solutions
+END

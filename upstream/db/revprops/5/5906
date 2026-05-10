@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-09T19:34:30.933111Z
+K 7
+svn:log
+V 136
+Dynamic node construction concatenates adjacent text nodes like I always wanted. Do some execution tests without simplification as well.
+END

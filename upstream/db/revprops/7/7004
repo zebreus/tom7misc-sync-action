@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-09T13:22:36.524292Z
+K 7
+svn:log
+V 116
+Migrate dr_wav to just wav, and make a simplified wrapper for it, and tests. Upgrade stb_image_resize from upstream.
+END

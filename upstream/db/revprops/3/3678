@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-08-20T03:57:19.550491Z
+K 7
+svn:log
+V 295
+Support y scroll in autocamera, though this doesn't really seem to help. Add several more games to eval, some with ground truth. Switch to new compact FM7 format and check these in. New features in debug-autocamera, like command-line flags for X/YLOC and -,+ to search for second player manually
+END

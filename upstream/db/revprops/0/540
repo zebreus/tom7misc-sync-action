@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-09-10T17:49:33.537109Z
+K 7
+svn:log
+V 112
+trying chat demo. adding some primops on server and client. found bug with declaring a function at another world
+END

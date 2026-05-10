@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-10-11T15:20:16.535216Z
+K 7
+svn:log
+V 112
+Fix serious and subtle bugs with ADC. Implement overflow flag. Adds some tests and note some other bugs spotted.
+END

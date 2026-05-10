@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-23T13:26:57.572989Z
+K 7
+svn:log
+V 44
+Further optimization/tuning of GPU factoring
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-14T03:29:18.990474Z
+K 7
+svn:log
+V 115
+more 64ing. Switch to native factoring. Preprocess prime powers in quadmodll. Simplify away some unnecessary stuff.
+END

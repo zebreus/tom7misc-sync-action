@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-20T15:13:23.063832Z
+K 7
+svn:log
+V 40
+Fix compiler warnings etc. for clang 17.
+END

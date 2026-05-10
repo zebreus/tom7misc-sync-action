@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-06-08T04:22:10.523186Z
+K 7
+svn:log
+V 47
+Get this compiling without _Float16 extensions.
+END

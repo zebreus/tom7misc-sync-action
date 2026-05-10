@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-23T13:24:35.100893Z
+K 7
+svn:log
+V 337
+Rethink this whole thing. SimpleBounds is what we actually want here for interval arithmetic; Truncate can't actually guarantee anything about the error introduced. Checking in those changes for posterity, but I will probably revert to the previous version of Truncate since my changes were invasive and I probably will not even use them
+END

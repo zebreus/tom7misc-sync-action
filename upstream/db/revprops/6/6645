@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-09T11:38:52.352846Z
+K 7
+svn:log
+V 251
+Remove some int64 overloads for BigInt, since constructing a small BigInt is ~free now. Increase test coverage of BigRat move/copy/big/small in anticipation of GmpRepRat (which is started but still a mess and not hooked up). Add a few more benchmarks.
+END

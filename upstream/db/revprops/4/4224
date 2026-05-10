@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-31T23:27:47.297264Z
+K 7
+svn:log
+V 71
+Incomplete rewrite of training to allow multiple models to be cotrained
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-23T04:07:23.477860Z
+K 7
+svn:log
+V 174
+Confirm that JumpInd should get its argument from the top of the stack. This is actually nice for compiling 'return'. Update the comments to be accurate at the top of asm.sml
+END

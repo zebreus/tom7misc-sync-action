@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-10-04T13:42:36.759447Z
+K 7
+svn:log
+V 104
+Add ARGB version of image since that's what SDL seems to want, and it's doing some byte shuffling anyway
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-12-28T04:49:15.772915Z
+K 7
+svn:log
+V 75
+Sync metroid. 1D grid rendering (old), some work on paper and sampler (new)
+END

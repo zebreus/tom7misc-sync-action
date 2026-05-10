@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-01-29T04:00:16.456270Z
+K 7
+svn:log
+V 47
+Clean up; move some macro hax to real functions
+END

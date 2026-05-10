@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-05-25T15:51:55.395374Z
+K 7
+svn:log
+V 98
+Add bresenham-based circle drawing and triangle rasterization (with temporary test code in viewer)
+END

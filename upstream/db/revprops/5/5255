@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-25T23:07:10.368712Z
+K 7
+svn:log
+V 80
+Heap-allocate MontgomeryParams to reduce stack usage (three MAX_LEN limb arrays)
+END

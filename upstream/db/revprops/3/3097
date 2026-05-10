@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-20T19:23:17.927619Z
+K 7
+svn:log
+V 141
+Pure formatting change: Try to standardize on two-space indent, especially in the bodies of signatures and structures. No functional changes.
+END

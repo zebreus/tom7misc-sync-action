@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-05-11T18:27:02.198981Z
+K 7
+svn:log
+V 62
+About to switch to being sample-based, rather than frame-based
+END

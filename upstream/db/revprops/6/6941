@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-23T07:41:57.599623Z
+K 7
+svn:log
+V 67
+Parser combinator lib: Implement n-ary fixed point, for some reason
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-22T16:06:09.957886Z
+K 7
+svn:log
+V 222
+Remove FRAMESKIP. Clean up code, including some FCEU prefixes. Update TODO. DISABLE_SOUND inside FlushEmulateSound. Add CPUStateChecksum and put it in emulator_test a little, but first let's run a test to get a new golden.
+END

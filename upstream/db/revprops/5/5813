@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-13T20:22:39.912569Z
+K 7
+svn:log
+V 104
+Restore mouse cursor and make sure it's copied in. Add wordle slide. Start on extended bullet rendering.
+END

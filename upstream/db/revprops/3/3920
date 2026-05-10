@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-04-14T22:27:07.050160Z
+K 7
+svn:log
+V 107
+Generate game of length 17696; I think this is likely the best, but need to do a bit more careful thinking.
+END

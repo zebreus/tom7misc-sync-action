@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-09-24T14:57:47.703312Z
+K 7
+svn:log
+V 91
+Add benchmark for chess eval, from pluginvert. Normalize board to white-to-move. Not tested
+END

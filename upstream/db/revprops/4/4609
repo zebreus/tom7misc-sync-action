@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-04-16T04:49:11.321074Z
+K 7
+svn:log
+V 84
+Fix silly bug parsing genome. Add color option in viewping, adjust paths, add readme
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-04T22:52:59.542817Z
+K 7
+svn:log
+V 139
+Use external factoring routine (moved to factoring/ in case I need it. It's faster than the one in BigInt for big numbers; that's for sure)
+END

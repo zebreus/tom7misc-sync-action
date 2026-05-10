@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-07T04:42:44.017705Z
+K 7
+svn:log
+V 75
+Fix bug in emulator-pool. Detect levels that don't even load and mark them.
+END

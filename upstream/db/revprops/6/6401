@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-29T20:10:20.912401Z
+K 7
+svn:log
+V 174
+Try computing hull first in smallest-sphere, which helps some tail cases. There are still times when it takes minutes or hours, though. Sync some more progress on maper (COD)
+END

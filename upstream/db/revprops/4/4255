@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-07T16:03:50.204930Z
+K 7
+svn:log
+V 193
+Retire aphasia.el, which should no longer be needed (and to encourage me to port the db syntax). Fix tab settings to not insert tabs in c++, which must have gotten broken when I upgraded emacs?
+END

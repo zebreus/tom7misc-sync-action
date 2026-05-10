@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-20T14:19:30.625229Z
+K 7
+svn:log
+V 104
+Fix some bugs in SVG and improve group flattening. Just convert QuadBezier to Cubic to simplify matters.
+END

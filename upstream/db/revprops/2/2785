@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-04-01T13:57:31.395726Z
+K 7
+svn:log
+V 121
+Some tweaks for rendering video (new on/off options, wireframe); controller freelook; asynchronous queue for video frames
+END

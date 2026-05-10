@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-01-30T01:52:24.771270Z
+K 7
+svn:log
+V 65
+Move some more macro hax to real functions, tweak for performance
+END

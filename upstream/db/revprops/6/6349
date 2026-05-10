@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-06T14:07:18.156439Z
+K 7
+svn:log
+V 147
+Got through refactoring widths and stuff; existing code should now work again (with better compatibility). Unicode does not work but is coming soon
+END

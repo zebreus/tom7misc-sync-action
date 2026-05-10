@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-27T18:11:21.690496Z
+K 7
+svn:log
+V 95
+Finally got this working on GPU, with a nice speedup. Add standalone program to tune parameters
+END

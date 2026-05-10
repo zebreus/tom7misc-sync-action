@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-11-06T15:04:43.561975Z
+K 7
+svn:log
+V 88
+Improved CopyImage which is 7x faster for large copies, and correct for overlapping ones
+END

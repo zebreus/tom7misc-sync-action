@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-11T03:26:23.093885Z
+K 7
+svn:log
+V 134
+New option for bias in widen (might be bad idea). Additional computations in sdf-info. Move ttf code into ttf.cc and clean up a little
+END

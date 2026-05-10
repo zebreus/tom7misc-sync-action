@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-29T19:30:14.845207Z
+K 7
+svn:log
+V 49
+Add tool that dumps all of the defined codepoints
+END

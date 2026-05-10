@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-17T00:28:05.487613Z
+K 7
+svn:log
+V 58
+Fix bug (from original code) where we could take sqrt(-1).
+END

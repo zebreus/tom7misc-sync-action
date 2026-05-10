@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-03T05:49:41.324683Z
+K 7
+svn:log
+V 104
+Fix a bug (stroke color) in SVG-to-PDF and add support for dashed lines too. Wrote a little bit of paper
+END

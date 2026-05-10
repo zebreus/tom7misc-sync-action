@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-01-12T20:34:25.704079Z
+K 7
+svn:log
+V 57
+Parallel accumulate function, but it wasn't what I wanted
+END

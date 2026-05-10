@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-12-17T02:03:47.792012Z
+K 7
+svn:log
+V 71
+Rename this so it can be linked in the same binary as regular Alpertron
+END

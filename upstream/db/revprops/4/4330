@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-04-16T23:17:51.878194Z
+K 7
+svn:log
+V 154
+Consolidate graphics loading into a class that doesn't depend on SDL, so that I can make screenshot.exe headless. screenshot.exe is broken by this, though
+END

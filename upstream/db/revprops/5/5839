@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-24T22:28:10.816643Z
+K 7
+svn:log
+V 26
+FEN parsing is working now
+END

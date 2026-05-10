@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2006-11-29T21:42:43.284225Z
+K 7
+svn:log
+V 56
+major breakage as I upgrade to new representations, etc.
+END

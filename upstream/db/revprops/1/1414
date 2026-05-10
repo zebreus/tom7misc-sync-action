@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-11-20T17:25:31.948804Z
+K 7
+svn:log
+V 70
+had to restage contactmanager so that it could be accessed in body.sml
+END

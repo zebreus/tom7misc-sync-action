@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-09T16:57:36.178792Z
+K 7
+svn:log
+V 73
+Precompute sin/cos of inner 2d rotation, since we use that over and over.
+END

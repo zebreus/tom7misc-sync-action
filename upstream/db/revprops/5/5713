@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-21T03:24:31.191428Z
+K 7
+svn:log
+V 64
+Improve citation rendering, but the excess spaces are an eyesore
+END

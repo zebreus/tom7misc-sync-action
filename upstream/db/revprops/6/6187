@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-22T23:38:17.559716Z
+K 7
+svn:log
+V 248
+Fix bugs with 'parallel' solver (and 'special'). These were aligning one face but often not the other. Additionally, rotate such that the first aligned face is a vertical line in the projected shadow; this makes the solutions look especially clean.
+END

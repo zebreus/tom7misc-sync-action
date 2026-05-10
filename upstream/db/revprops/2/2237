@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-06-23T16:06:49.612960Z
+K 7
+svn:log
+V 67
+Get to work on IntervalCover. Be more principled about basic types.
+END

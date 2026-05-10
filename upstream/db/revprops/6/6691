@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-23T16:29:09.314910Z
+K 7
+svn:log
+V 152
+Implement small value optimization for BigRat. Pretty nice win (20%) in Cosine and maybe more in Sqrt (though this benchmark is noisy). More is possible
+END

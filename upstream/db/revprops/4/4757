@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-11-22T18:18:11.162803Z
+K 7
+svn:log
+V 74
+Fix bug with ImageFRGBA, add obvious bounds function, make LatLon copyable
+END

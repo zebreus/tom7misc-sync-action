@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-03-09T19:33:39.657945Z
+K 7
+svn:log
+V 33
+Implemented spycheck (not tested)
+END

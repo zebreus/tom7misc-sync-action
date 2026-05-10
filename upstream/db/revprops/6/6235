@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-09T23:24:30.674332Z
+K 7
+svn:log
+V 137
+Something about the native quaternion rotation is just wrong, but I can't figure out what. Converting to a rotation frame is fine, though
+END

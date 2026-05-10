@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-20T15:39:02.282963Z
+K 7
+svn:log
+V 139
+2k words version doesn't make progress, but we don't actually need this toy problem for anything. Fix serialization to use uints everywhere
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-10T03:00:45.016769Z
+K 7
+svn:log
+V 85
+Maybe a viable start on AOT. Far from working but doesn't crash the compiler at least
+END

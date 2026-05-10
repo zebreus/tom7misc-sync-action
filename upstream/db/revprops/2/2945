@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-29T04:29:29.685088Z
+K 7
+svn:log
+V 196
+Made MoveEnt into a template function, simplified all the preprocessor garbage in the switch statement. Cleaned up some more warnings and deleted some more dead macros in move.h. Looking better...
+END

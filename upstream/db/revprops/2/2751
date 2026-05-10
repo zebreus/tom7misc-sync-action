@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-03-20T17:28:20.104500Z
+K 7
+svn:log
+V 98
+Add extremely basic config file support, read scroll position and x-scroll-aware boxes computation
+END

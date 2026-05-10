@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-13T23:09:52.544441Z
+K 7
+svn:log
+V 71
+Use FunctionalSet. Start adding some more primops for paragraph parsing
+END

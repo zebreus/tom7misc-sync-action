@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-28T23:12:34.528225Z
+K 7
+svn:log
+V 44
+Add resampler, make some multithreaded stuff
+END

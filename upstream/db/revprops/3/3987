@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-12-15T15:47:54.008370Z
+K 7
+svn:log
+V 33
+Add notes about how st_read works
+END

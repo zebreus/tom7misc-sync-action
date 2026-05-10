@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-12-02T17:30:51.419331Z
+K 7
+svn:log
+V 174
+Separate tryfilter into its own thread, and CPU now targets tryfilter as well. This is 2x as fast :) Start simplifying Try, since the tryfilter is now a nontrivial bottleneck
+END

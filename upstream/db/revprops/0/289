@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-06-11T19:56:04.789657Z
+K 7
+svn:log
+V 200
+add worldkind support. worldkinds are just constants that describe what kind of code each world wants. only 'bytecode' and 'javascript' are currently supported, and we require that home be javascript.
+END

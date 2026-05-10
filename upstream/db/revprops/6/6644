@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-09T03:12:04.399914Z
+K 7
+svn:log
+V 185
+Cold start needs a more tolerant ViewBoundsTrig, but this is easy. Make it possible for the thing to end once all work is consumed. ToSTL generates inner, outer, and residue now (video)
+END

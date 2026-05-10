@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-10T00:06:10.665401Z
+K 7
+svn:log
+V 52
+Harness copies to some native format; debug printout
+END

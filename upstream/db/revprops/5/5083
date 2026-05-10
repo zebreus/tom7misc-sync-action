@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-14T03:57:12.480341Z
+K 7
+svn:log
+V 35
+3x speedup with GPU factoring, nice
+END

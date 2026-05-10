@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-19T22:13:30.120551Z
+K 7
+svn:log
+V 193
+Identify another savestate problem and fix it. Clean up x6502 a little on the way, and mmc5. Starting to wonder if I should just be saving the value of every static variable in the savestate...
+END

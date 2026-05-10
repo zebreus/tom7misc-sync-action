@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-18T23:31:21.215944Z
+K 7
+svn:log
+V 119
+Use svn repo version in build, not 'last changed', so that we reflect potential changes to dependencies like cc-lib too
+END

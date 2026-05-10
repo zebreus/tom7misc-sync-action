@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-05-14T01:22:18.999722Z
+K 7
+svn:log
+V 149
+Script should know the total audio samples, so it can do a common calculation itself. Display the length of unlabeled segments in the script display.
+END

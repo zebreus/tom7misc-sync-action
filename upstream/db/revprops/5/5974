@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-08-24T02:58:55.779910Z
+K 7
+svn:log
+V 144
+Add Cyrillic supplement to Cyrillic codepage. Draw many of the 1x characters and anti-alias some for 2x. Improved a few assorted glyphs as well.
+END

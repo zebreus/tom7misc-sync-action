@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-02-17T23:34:44.025329Z
+K 7
+svn:log
+V 101
+Got SDL and SDL_net working with mingw64, though not in a nice way. Start adding marionet to playfun.
+END

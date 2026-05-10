@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-10-31T18:39:17.348508Z
+K 7
+svn:log
+V 62
+Add timing info; partial sync of multi-training-example branch
+END

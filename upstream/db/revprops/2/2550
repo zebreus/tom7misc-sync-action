@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-07-26T17:27:45.386955Z
+K 7
+svn:log
+V 123
+Replace INPUTC with InputC interface, upgrade all those inputs. Fix writable strings. During outage, this was fceulib-next3
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-15T22:09:37.230042Z
+K 7
+svn:log
+V 128
+Tried a few strategies for getting 'empirically' good random streams without a lot of computation in each node. This looks good.
+END

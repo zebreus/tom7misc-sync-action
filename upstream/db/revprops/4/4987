@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-08-12T18:25:02.898131Z
+K 7
+svn:log
+V 111
+Make a little library for manipulating polynomials, since I'll just screw up if I try to do the algebra by hand
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-09-03T18:31:50.977255Z
+K 7
+svn:log
+V 51
+Fix channel-order issues in several sdlutil methods
+END

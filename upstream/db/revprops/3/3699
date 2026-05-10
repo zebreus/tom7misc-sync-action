@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-09-08T17:59:13.636992Z
+K 7
+svn:log
+V 57
+Added lives/health metadata to most games in the database
+END

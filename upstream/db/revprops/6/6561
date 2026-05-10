@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-06-21T18:36:33.127420Z
+K 7
+svn:log
+V 73
+Modernize. Add portrait. Finally fix issue with chrono_literals in clangd
+END

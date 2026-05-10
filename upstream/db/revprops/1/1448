@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-12-12T23:16:13.634014Z
+K 7
+svn:log
+V 104
+Fix bug in dynamic-tree, add some tracing, fix assert in sweep_normalize, and remark on doc bug in box2d
+END

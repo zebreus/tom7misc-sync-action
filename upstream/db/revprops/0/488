@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-23T20:28:20.011655Z
+K 7
+svn:log
+V 133
+cxpoint. known is buggy because it doesn't bind the variables that it names. going to try a different strategy which should be easier
+END

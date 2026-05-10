@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-02-03T16:28:05.820634Z
+K 7
+svn:log
+V 78
+Stub for temperature probe. Cleanup and installation instructions for dotemacs
+END

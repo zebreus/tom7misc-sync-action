@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-04-24T18:28:42.885480Z
+K 7
+svn:log
+V 78
+Oops, fix serious bug that left endpoints of read/write handler ranges not set
+END

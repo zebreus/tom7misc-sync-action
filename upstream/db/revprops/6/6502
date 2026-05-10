@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-05-17T15:23:47.929195Z
+K 7
+svn:log
+V 77
+Add batch insert with ideal axis and split point selection. Does seem to help
+END

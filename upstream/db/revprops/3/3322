@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-09-07T03:08:15.662756Z
+K 7
+svn:log
+V 116
+Fix inverse_gnomonic, verify that it's reasonable with test. Seems to trigger internal compiler error in mlton still
+END

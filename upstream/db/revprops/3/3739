@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-10-23T03:38:59.651675Z
+K 7
+svn:log
+V 135
+Next experiment doesn't try to maximize score in marathon node (prevent hugging right wall) and also aborts it if we seem really stuck.
+END

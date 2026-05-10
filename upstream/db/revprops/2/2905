@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-21T19:53:30.630182Z
+K 7
+svn:log
+V 41
+Recompress all explat pngs with zopflipng
+END

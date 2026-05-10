@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-10T12:52:49.196748Z
+K 7
+svn:log
+V 88
+Precompute 3d area vector, which makes the area test super cheap (0.014% of total time).
+END

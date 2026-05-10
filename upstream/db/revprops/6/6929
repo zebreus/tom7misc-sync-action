@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-19T01:50:21.998348Z
+K 7
+svn:log
+V 70
+Add dense-int-set (size at construction time) since it keeps coming up
+END

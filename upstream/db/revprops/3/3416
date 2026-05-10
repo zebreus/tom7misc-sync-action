@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-02-11T22:24:33.168728Z
+K 7
+svn:log
+V 98
+Working on autocamera; contra is tricky. playback.exe can show sprite table and sprite indices now
+END

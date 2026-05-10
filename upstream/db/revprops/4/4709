@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-09-14T01:34:59.919892Z
+K 7
+svn:log
+V 68
+Fix bug in opt.cc where it could sample outside the specified bounds
+END

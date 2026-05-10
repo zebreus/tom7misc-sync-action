@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-11T05:21:18.832138Z
+K 7
+svn:log
+V 153
+Explicitly list out the modules that need to be objectified. Move decls to the headers of the modules where they're defined, and delete some unused ones.
+END

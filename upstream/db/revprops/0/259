@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-05-29T19:34:59.048816Z
+K 7
+svn:log
+V 129
+enough nonsense; make the tpack construct take an explicit dictionary and check that invariant in typechecker. fixes dictdict bug
+END

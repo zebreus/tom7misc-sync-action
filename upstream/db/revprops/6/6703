@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-27T01:14:55.502259Z
+K 7
+svn:log
+V 99
+He wisely spent his evening rewriting format strings to avoid warnings on a compiler he rarely uses
+END

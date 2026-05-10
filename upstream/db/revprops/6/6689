@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-23T14:41:56.467060Z
+K 7
+svn:log
+V 48
+Improve inner loop of Sin/Cos by reducing copies
+END

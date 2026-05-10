@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-12-30T22:38:24.188159Z
+K 7
+svn:log
+V 79
+renew tool basically works, but could use some additional automation/robustness
+END

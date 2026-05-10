@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-07-11T15:07:48.532810Z
+K 7
+svn:log
+V 123
+Same treatment for X6502 object; wasn't that bad. Also format a few files, but probably should do this at a separate commit
+END

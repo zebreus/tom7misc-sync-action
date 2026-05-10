@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-01-25T16:55:11.740864Z
+K 7
+svn:log
+V 86
+Fix a bunch of warnings in here after enabling -Wall. Some format string stuff remains
+END

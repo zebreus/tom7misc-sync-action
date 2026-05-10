@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-02-21T18:34:22.610328Z
+K 7
+svn:log
+V 118
+This version of playfun works pretty well, though it sometimes drops packets, and mario gets stuck in a local maximum.
+END

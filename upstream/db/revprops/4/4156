@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-09-19T18:02:23.322374Z
+K 7
+svn:log
+V 113
+Use different implementation of MD5 (from fceultra; GPL) to avoid the Init() method, strict aliasing issues, etc.
+END

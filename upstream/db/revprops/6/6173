@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-17T05:19:43.506092Z
+K 7
+svn:log
+V 227
+Add solution database using sqlite. Add some more polyhedra. At some point I screwed up the ConvexHull function extremely badly; I fixed that problem but it still has some issues with colinear and coincident points. Tomorrow...
+END

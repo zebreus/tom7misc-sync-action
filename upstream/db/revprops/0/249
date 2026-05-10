@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-05-21T20:06:37.708457Z
+K 7
+svn:log
+V 155
+add optimization (eta reduction) in order to diagnose problem with recursive closures; find out that they're not implemented at all; add more overt message
+END

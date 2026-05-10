@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-15T05:04:09.468957Z
+K 7
+svn:log
+V 263
+New ByteSet implementation with manual bit manipulation. Got sucked into fighting Clang for the implementation of ByteSet::Size; I won but it got the last laugh by scaring me with Heisenbugs when I use inline asm. Checking this in for posterity before cleaning up
+END

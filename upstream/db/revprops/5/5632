@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-07T23:37:35.937937Z
+K 7
+svn:log
+V 53
+Added simple brute forcing of arithmetic progressions
+END

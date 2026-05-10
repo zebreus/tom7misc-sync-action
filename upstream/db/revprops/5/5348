@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-12T18:37:12.269208Z
+K 7
+svn:log
+V 81
+Use modular inverse to compute modular division, deleting a bunch of complex code
+END

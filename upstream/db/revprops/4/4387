@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-08-16T04:07:12.648575Z
+K 7
+svn:log
+V 220
+Version with 2D palette, which makes for a smaller network and kinda works, although it appears to be worse. Implemented first real attempt at convolution array layer type. Still need to implement updateweights, at least
+END

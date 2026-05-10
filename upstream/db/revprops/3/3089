@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-18T15:44:34.226438Z
+K 7
+svn:log
+V 102
+My local modifications to dos_execute.cpp; svn ignores; installation notes; dos.sh uses local copy now
+END

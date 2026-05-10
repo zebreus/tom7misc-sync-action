@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-08T04:43:48.669955Z
+K 7
+svn:log
+V 142
+pack-boxes natively returning the vector of boxes is cleaner. use an output argument (ref), which I might like better than these obj backdoors
+END

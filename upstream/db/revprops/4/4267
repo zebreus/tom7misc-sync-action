@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-12T23:59:24.219714Z
+K 7
+svn:log
+V 105
+Hah, actually it is substantially faster if you don't ignore the bound and remove the debugging assertino
+END

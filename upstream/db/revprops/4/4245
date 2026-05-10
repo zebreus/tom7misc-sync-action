@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-24T04:57:54.383441Z
+K 7
+svn:log
+V 51
+Start on code to explicitly generate image features
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-09T13:54:51.102141Z
+K 7
+svn:log
+V 83
+OK, as usual, it turned out to just be a stack overflow. Always look for this first
+END

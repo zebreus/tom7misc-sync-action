@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2009-01-02T03:49:38.878940Z
+K 7
+svn:log
+V 67
+XML shouldn't be in fxlib, I think? Add some color parsing routines
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-08T20:51:17.410993Z
+K 7
+svn:log
+V 64
+Add outline text; move some std::string args to std::string_view
+END

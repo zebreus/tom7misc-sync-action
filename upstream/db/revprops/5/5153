@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-03T12:28:02.174388Z
+K 7
+svn:log
+V 48
+Add some coverage. CheckSolutionSquareDiscr args
+END

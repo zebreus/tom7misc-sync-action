@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-29T00:09:40.401666Z
+K 7
+svn:log
+V 79
+OK, this approach works fine for simple shapes. Added simple try-out mode in UI
+END

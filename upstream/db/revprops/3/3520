@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-15T04:24:23.310923Z
+K 7
+svn:log
+V 70
+Make address decoding and data encoding reflect the new simpler wiring
+END

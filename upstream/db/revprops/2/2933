@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-27T23:30:34.215985Z
+K 7
+svn:log
+V 56
+Started rewriting move.h to remove the most insane parts
+END

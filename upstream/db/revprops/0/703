@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-01-05T04:54:27.112017Z
+K 7
+svn:log
+V 92
+expensive but accurate waveform generation (still aliases, but that is acceptable/desirable)
+END

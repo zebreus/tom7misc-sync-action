@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2012-04-02T02:55:50.918855Z
+K 7
+svn:log
+V 24
+Works, but only for n=1!
+END

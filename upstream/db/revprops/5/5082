@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-13T03:27:58.264170Z
+K 7
+svn:log
+V 190
+Deterministic test is the way to go :) Now only fails to factor about 0.07% of random 64-bit numbers. Could be improved, but this should be pretty practical since we also have a CPU routine.
+END

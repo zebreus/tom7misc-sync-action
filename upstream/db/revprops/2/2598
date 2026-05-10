@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-08-30T15:23:47.347551Z
+K 7
+svn:log
+V 59
+Re-enable old-style mappers for regression as I upgrade 'em
+END

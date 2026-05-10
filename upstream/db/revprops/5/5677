@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-16T19:48:02.202024Z
+K 7
+svn:log
+V 122
+Add string-replace and int-to-float primops. New columnar text layout; untested. There is another compiler bug, I think...
+END

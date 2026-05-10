@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-11-30T05:20:16.741315Z
+K 7
+svn:log
+V 83
+added trie. probably works, but not tested (except for internal offsetvector stuff)
+END

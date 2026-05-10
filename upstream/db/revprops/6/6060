@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-29T22:54:39.045212Z
+K 7
+svn:log
+V 164
+Add FillRect to ImageRGBA. Add support for 32BPP surfaces without alpha in sdlutil, so that I can blit to screen. Switch to compositing with ImageRGBA in dtas/play.
+END

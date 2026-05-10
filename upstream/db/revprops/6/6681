@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-19T03:50:00.129593Z
+K 7
+svn:log
+V 210
+Improve performance of AABB2. Improve speed of iboard by checking for completely-done cubes quickly. Also do this at startup of inub. Don't save empty cubes. Move IsDiscOutsideEdge to intervals.h and add tests.
+END

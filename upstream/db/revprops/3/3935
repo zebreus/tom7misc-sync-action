@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-05-11T20:06:27.841307Z
+K 7
+svn:log
+V 97
+Branch chess viewer. Make utility for loading font at arbitrary scale, since this is a common use
+END

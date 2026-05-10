@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-01-05T01:24:38.010011Z
+K 7
+svn:log
+V 65
+Got this benchmark working. Not so bad. Add some notes to HACKING
+END

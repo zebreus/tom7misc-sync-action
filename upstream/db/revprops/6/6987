@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-22T20:40:59.086099Z
+K 7
+svn:log
+V 59
+Add chunked http parsing; use stdin so it can work in emacs
+END

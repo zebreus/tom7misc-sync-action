@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-09-02T01:24:31.061957Z
+K 7
+svn:log
+V 65
+Also run negative x within bounds. Some re-running of old results
+END

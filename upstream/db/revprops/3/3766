@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-11-10T14:33:52.289844Z
+K 7
+svn:log
+V 184
+Allow low ascii. Use binary output mode to avoid carriage returns, and embed decoder to avoid cat/dos2unix. Move file output to its own routine. Verbosity levels. Hoist some constants.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-07T04:30:29.988394Z
+K 7
+svn:log
+V 89
+Make cityhash use #include city/city.h (working towards this standard throughout cc-lib).
+END

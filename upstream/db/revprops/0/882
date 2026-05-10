@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sirmob
+K 8
+svn:date
+V 27
+2008-08-21T02:47:59.845980Z
+K 7
+svn:log
+V 146
+Fix test, fix error in SHA1 code - was previously returning a 128-byte final Cons cell instead of two 64 bit Cons cells when (length mod 64 > 55).
+END

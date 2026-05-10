@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-01-19T03:02:19.590126Z
+K 7
+svn:log
+V 59
+Remove warning about textformat. It's ready to use I think.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-08-10T03:00:43.353383Z
+K 7
+svn:log
+V 53
+Fix bugs (I think) in LAB conversion; add basic tests
+END

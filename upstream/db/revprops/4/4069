@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-04-14T17:56:41.278209Z
+K 7
+svn:log
+V 52
+Update to g++ 9.2, c++17, merge to cc-lib threadutil
+END

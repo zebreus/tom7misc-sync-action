@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-22T02:32:00.655160Z
+K 7
+svn:log
+V 82
+Start splitting out some of this code so it can be used in stuff like offline eval
+END

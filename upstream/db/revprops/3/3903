@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-03-24T22:52:47.799028Z
+K 7
+svn:log
+V 75
+First version of piface confirms it works (thank goodness) on simple inputs
+END

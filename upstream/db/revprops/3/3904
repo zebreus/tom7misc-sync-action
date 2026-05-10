@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-03-24T22:54:07.745492Z
+K 7
+svn:log
+V 39
+allow this to load with emacs-nox on pi
+END

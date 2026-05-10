@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-03-06T16:52:59.080604Z
+K 7
+svn:log
+V 184
+Clean up comments on optimizer and add some ideas. Draw 'metrics' in trace-sdf. Sketch export representation; not implemented. Add heuristic to guess the right edge, which works great.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-03-26T21:43:32.084397Z
+K 7
+svn:log
+V 235
+Consequentiality testing. Works great for top-down games, but probably needs to take into account (well, not this testing, rather, the fact that we're not finding consequential memory locations) scroll position for side-scrollin' games
+END

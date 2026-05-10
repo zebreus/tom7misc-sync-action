@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-06-05T14:52:19.950487Z
+K 7
+svn:log
+V 62
+Some old stuff I never committed. Fixed a bug in CopyFrom, too
+END

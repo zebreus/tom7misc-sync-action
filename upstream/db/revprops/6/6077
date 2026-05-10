@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-09T14:38:29.361893Z
+K 7
+svn:log
+V 82
+OK, this can parse the input now, but most instructions are not actually generated
+END

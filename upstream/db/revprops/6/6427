@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-04-19T13:20:40.669672Z
+K 7
+svn:log
+V 61
+Yocto had incorrect implementation of operator* on quats, ugh
+END

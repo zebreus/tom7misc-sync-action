@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-24T19:54:31.619100Z
+K 7
+svn:log
+V 114
+makefeatures basically works but may be generating a lot of correlated features, duh. Enhancements to autoparallel
+END

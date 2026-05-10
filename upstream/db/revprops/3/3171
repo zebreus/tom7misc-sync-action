@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-12T22:14:13.743802Z
+K 7
+svn:log
+V 147
+Do a few hacks to get the title to be more sightly, since that's sort of important. Could also force the start_ip, perhaps, but this is pretty good
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-12T04:42:39.371623Z
+K 7
+svn:log
+V 69
+Fix some typos and other problems; add section on exiting the program
+END

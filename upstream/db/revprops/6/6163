@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-14T17:00:30.261323Z
+K 7
+svn:log
+V 108
+Cleaned up util a little, adding some missing stuff, adding tests, and deleting some unused deprecated crap.
+END

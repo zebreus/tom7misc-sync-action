@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-01-04T03:40:08.168263Z
+K 7
+svn:log
+V 69
+Delete some more stuff I don't need (e.g. ipv6, options) and clean up
+END

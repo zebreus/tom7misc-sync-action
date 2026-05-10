@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-08T17:46:36.105735Z
+K 7
+svn:log
+V 53
+I got fed up and ported it to exact rationals instead
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-07-30T16:37:24.868296Z
+K 7
+svn:log
+V 58
+Add base64 and md5 from escape. Improve style, update docs
+END

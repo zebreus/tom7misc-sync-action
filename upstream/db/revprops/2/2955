@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-09-03T15:39:20.548266Z
+K 7
+svn:log
+V 236
+get rid of HTTP::destroy() and modernize. Split rle code into its own file so that it can be tested (etc.) and move util::bitbuffer there since that's the only use. maybe some ill-advised and dangerous integer type changes. should test.
+END

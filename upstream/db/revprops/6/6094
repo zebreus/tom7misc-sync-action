@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-17T17:48:44.298169Z
+K 7
+svn:log
+V 119
+He wisely spent his morning making an optimized ByteSet representation, before knowing if it's any use for this problem
+END

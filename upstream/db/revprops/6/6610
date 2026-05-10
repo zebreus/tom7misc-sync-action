@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-25T23:05:31.817095Z
+K 7
+svn:log
+V 118
+Switch to rotating/moving the inner shape; this will be more efficient for incremental tests. Fix some typos and stuff
+END

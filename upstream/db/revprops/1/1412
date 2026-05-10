@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-11-14T23:31:28.285610Z
+K 7
+svn:log
+V 52
+going to refactor contact-solver inner loop a little
+END

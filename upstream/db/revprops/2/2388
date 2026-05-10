@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-24T20:37:44.846703Z
+K 7
+svn:log
+V 178
+Clean up types.h. Remove MSVC and MINGW32 workarounds. Use cstdint to clean up typedefs. Remove INLINE macro and a few other rarely used things. Clean up code near uses of these.
+END

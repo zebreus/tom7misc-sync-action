@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-06-18T22:20:03.566555Z
+K 7
+svn:log
+V 197
+Tried expanding the region that RECT looks in for error, but really this approach just optimizes local smoothness. I'd need to check more distant pixels to do better. Since it's pointless, give up.
+END

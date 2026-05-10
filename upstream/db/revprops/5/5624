@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-06T03:44:52.806662Z
+K 7
+svn:log
+V 339
+Add punned record patterns like { a, b }. Add string less and greater primops. Change 'include' to 'import', matching aphasia2 and several places in the code where I call it import. No need for flatten-globals to be a Pass as all the cases are manually implemented. Added some more to the stdlib (sets) and some prototype citation library.
+END

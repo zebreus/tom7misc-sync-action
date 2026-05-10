@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-28T15:21:27.923200Z
+K 7
+svn:log
+V 74
+Document output format derived from extension. Only PDF hooked up, though.
+END

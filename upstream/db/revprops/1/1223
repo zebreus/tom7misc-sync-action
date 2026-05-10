@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-03-27T16:57:31.278189Z
+K 7
+svn:log
+V 93
+delay on spawn. fix various spawn bugs. spawn animation. fix physics bug with electric fence.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-20T15:55:31.737473Z
+K 7
+svn:log
+V 172
+Checkpoint 'pluginvert' which is currently just a collection of toy problems, so I can clean it up and get onto the real thing. Also misc small stuff across the repository.
+END

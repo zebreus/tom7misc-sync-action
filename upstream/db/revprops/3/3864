@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-02-18T22:52:57.116560Z
+K 7
+svn:log
+V 146
+Stateful versions of all players. Add fate-based players, but they are very boring because they start close to their maxima and are deterministic.
+END

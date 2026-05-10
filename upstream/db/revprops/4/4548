@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-13T20:10:13.867178Z
+K 7
+svn:log
+V 219
+Get basic tests working again and as standalone as possible, though keep around the old ambitious stuff in emulator-collage. Switch to concept of 'machine checksum' including cpu and ram. Some modernization and cleanup.
+END

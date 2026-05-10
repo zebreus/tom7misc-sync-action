@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-06T15:36:27.694958Z
+K 7
+svn:log
+V 85
+clientside examples running again. hooked up a bunch of unimplemented stuff in server
+END

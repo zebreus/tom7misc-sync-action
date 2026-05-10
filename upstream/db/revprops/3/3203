@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-25T02:55:29.123037Z
+K 7
+svn:log
+V 148
+Fix stupid bug in subscript operator; optimize constant multiplications and identity plus, add test case, still maybe a bug in structs or subscript?
+END

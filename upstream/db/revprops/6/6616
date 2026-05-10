@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-27T17:55:14.940152Z
+K 7
+svn:log
+V 106
+Split on the largest dimension, and try to find a high quality split point to simplify later calculations.
+END

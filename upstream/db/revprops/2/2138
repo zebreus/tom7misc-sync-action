@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-01-04T21:53:28.277820Z
+K 7
+svn:log
+V 82
+Make license explicit for directory. Clean up code to make ready for benchmarking.
+END

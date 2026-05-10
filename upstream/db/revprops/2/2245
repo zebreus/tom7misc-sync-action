@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-06-29T14:46:53.184735Z
+K 7
+svn:log
+V 76
+dos2unix everything; this was an old project from before fixing that problem
+END

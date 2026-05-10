@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-12-16T22:26:42.610006Z
+K 7
+svn:log
+V 103
+Split out 'Processor' interface for rungames, chessreduce, and clean it up. Ready to find some games...
+END

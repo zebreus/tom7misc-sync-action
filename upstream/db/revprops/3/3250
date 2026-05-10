@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-05-21T14:22:43.258104Z
+K 7
+svn:log
+V 275
+This tweak to 'ontheground' calculation makes it playable. Still more improvements to do, but maybe need some test maps. Use new 'paragraph' hint to make it easier to copy/paste screens in world.tf. Make debug printouts in physics a compile-time thing. Show map coordinates. 
+END

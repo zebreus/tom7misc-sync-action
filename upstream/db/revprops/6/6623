@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-31T02:38:38.303004Z
+K 7
+svn:log
+V 97
+Show bounding rectangles for the inner points that we compute. They don't look that bad, actually
+END

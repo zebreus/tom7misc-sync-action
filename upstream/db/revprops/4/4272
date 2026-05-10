@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-14T16:35:04.148634Z
+K 7
+svn:log
+V 77
+Set CORS policy for /info request so it can be loaded from a local html file.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-22T04:41:48.074106Z
+K 7
+svn:log
+V 162
+Switch PDF interface to RGBA color format like I should have done a long time ago. After some small bugfixes, SVGs look correct (the supported features, at least)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-04-15T17:51:17.354749Z
+K 7
+svn:log
+V 72
+Don't need SDL_image or these annoying dlls for image formats. delete :)
+END

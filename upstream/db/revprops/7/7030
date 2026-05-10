@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-20T13:36:26.583125Z
+K 7
+svn:log
+V 167
+Now that blazing speed is not the priority, switch Polyhedron to use shared_ptr for the Faces object. Indistinguishable in benchmark. Prep to move polyhedra to cc-lib.
+END

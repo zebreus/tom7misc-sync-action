@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-18T13:42:16.297635Z
+K 7
+svn:log
+V 89
+Further cleanup; get bezier.cc compiling with clang (it used nonstandard constexpr ldexp)
+END

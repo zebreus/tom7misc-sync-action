@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-12T05:38:45.574503Z
+K 7
+svn:log
+V 95
+I rewrote this, but then realized that it's just failing because STL requires triangular faces.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-12-11T22:31:28.073575Z
+K 7
+svn:log
+V 109
+Gross but glorious hack to exit cleanly. Can't figure out how to return from interrupts though; some notes...
+END

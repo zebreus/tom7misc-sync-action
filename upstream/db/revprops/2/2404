@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-08T22:28:42.356475Z
+K 7
+svn:log
+V 206
+Oops, compiler warning clued me in that this code was relying on crc_table being initialized zero (because it was static). Fixed this by inlining the actual table values; now should be thread-safe AND work.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-13T05:10:04.680898Z
+K 7
+svn:log
+V 158
+Fix tetru bugs and make basic visualization with board states passed through new command. Improvements to run.sh, which now runs tetru. Remove executable bits
+END

@@ -1,0 +1,837 @@
+id: 2-6392.0.r6395/3
+type: file
+pred: 2-6392.0.r6392/50
+count: 1
+text: 6392 3 1912 3627 c62e3b5cb1827bc1c6878fed5e03f722 2b5ed569ea57208788f15525fbd549c09a8a1a29 6391-4xj/_5
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_20
+cpath: /trunk/ruperts/epsilonbench.cc
+copyroot: 0 /
+
+id: 4-6376.0.r6395/4
+type: file
+pred: 4-6376.0.r6376/13
+count: 1
+text: 6376 4 1480 2868 5bdfe7b3a725b1e14e99a4740d01e123 908335b1e8397b0a36d2d860cdac175b22ea40d8 6375-4x3/_6
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_21
+cpath: /trunk/ruperts/mergedatabase.cc
+copyroot: 0 /
+
+id: 6-6389.0.r6395/5
+type: file
+pred: 6-6389.0.r6389/10
+count: 1
+text: 6389 6 1279 2440 9af1ee656eb311a7bf3a99639a5edaff 0743377d18b68a914e0bac5e78bba1b834473413 6388-4xg/_8
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_22
+cpath: /trunk/ruperts/mesh_test.cc
+copyroot: 0 /
+
+id: b-6392.0.r6395/6
+type: file
+pred: b-6392.0.r6392/55
+count: 1
+text: 6392 8 172 164 0c9d582b7a24e3930fdd910fcd790adc 4b1437f43c80dfe596772d3b1451a9898cf9110a 6391-4xj/_e
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_23
+cpath: /trunk/ruperts/paper/archimedean-cuboctahedron.view
+copyroot: 0 /
+
+id: f-6392.0.r6395/7
+type: file
+pred: f-6392.0.r6392/56
+count: 1
+text: 6392 9 158 151 571a3ff1080bde6a2e7f5ca9b933983e f7999f71cdc53c232a8c507bc049b5b112fabe4e 6391-4xj/_h
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_24
+cpath: /trunk/ruperts/paper/archimedean-icosidodecahedron.view
+copyroot: 0 /
+
+id: i-6392.0.r6395/8
+type: file
+pred: i-6392.0.r6392/57
+count: 1
+text: 6392 10 158 151 5a68c2b5d06a68dec4750b0e6232650b f5634c379e22c404ec0a4bce97bb87365685f0ca 6391-4xj/_k
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_25
+cpath: /trunk/ruperts/paper/archimedean-rhombicosidodecahedron.view
+copyroot: 0 /
+
+id: l-6392.0.r6395/9
+type: file
+pred: l-6392.0.r6392/58
+count: 1
+text: 6392 11 177 170 6bf964ac1cfd868b01ee87a45bc45c50 5230a5dc02a7b61fd4878a5b53eb3f07d74e6ff0 6391-4xj/_n
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_26
+cpath: /trunk/ruperts/paper/archimedean-rhombicuboctahedron.view
+copyroot: 0 /
+
+id: o-6392.0.r6395/10
+type: file
+pred: o-6392.0.r6392/59
+count: 1
+text: 6392 12 174 167 7ceca81d43314f80b217a76200f8fda4 ba0c515b4d9b39a671878601ae19ef5d335854a1 6391-4xj/_q
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_27
+cpath: /trunk/ruperts/paper/archimedean-snubcube.view
+copyroot: 0 /
+
+id: r-6392.0.r6395/11
+type: file
+pred: r-6392.0.r6392/60
+count: 1
+text: 6392 13 173 165 2c7f4ccc510d91155b004868b67bd839 f0e5c07209819f411c06a212d2af5245d8c9dd6b 6391-4xj/_t
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_28
+cpath: /trunk/ruperts/paper/archimedean-snubdodecahedron.view
+copyroot: 0 /
+
+id: u-6392.0.r6395/12
+type: file
+pred: u-6392.0.r6392/61
+count: 1
+text: 6392 14 173 165 1983b672e9e9e3867b32566db4b07e58 bb44e7e8a40932edd19c84f1f302d37d16b838cb 6391-4xj/_w
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_29
+cpath: /trunk/ruperts/paper/archimedean-truncatedcube.view
+copyroot: 0 /
+
+id: x-6392.0.r6395/13
+type: file
+pred: x-6392.0.r6392/62
+count: 1
+text: 6392 15 115 111 7324653ab1964fd1826b4d8b0cd800e1 e55286d7ae02afb1f8a630613a6cb4f1e01c1451 6391-4xj/_z
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2a
+cpath: /trunk/ruperts/paper/archimedean-truncatedcuboctahedron.view
+copyroot: 0 /
+
+id: 10-6392.0.r6395/14
+type: file
+pred: 10-6392.0.r6392/63
+count: 1
+text: 6392 16 173 165 09502bfe632973999c8361ef470b47c3 9c8c84857cca3c956dcfb3136fb6ee08865d560c 6391-4xj/_12
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2b
+cpath: /trunk/ruperts/paper/archimedean-truncateddodecahedron.view
+copyroot: 0 /
+
+id: 13-6392.0.r6395/15
+type: file
+pred: 13-6392.0.r6392/64
+count: 1
+text: 6392 17 114 110 35a2193574cb4727b174065f422de3e2 59ca8b08bbd71d2c01915745ff3b0820f466b4ab 6391-4xj/_15
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2c
+cpath: /trunk/ruperts/paper/archimedean-truncatedicosahedron.view
+copyroot: 0 /
+
+id: 16-6392.0.r6395/16
+type: file
+pred: 16-6392.0.r6392/65
+count: 1
+text: 6392 18 170 165 6829f952b95346f5ed8facfca154b2ec 3a4de2a342685eb5cd7f6165fb96bdb25a52413b 6391-4xj/_18
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2d
+cpath: /trunk/ruperts/paper/archimedean-truncatedicosidodecahedron.view
+copyroot: 0 /
+
+id: 19-6392.0.r6395/17
+type: file
+pred: 19-6392.0.r6392/66
+count: 1
+text: 6392 19 174 166 38e7e9dd44c868b263c6b788e94a7873 ae6b58a616655d5d0751716a46e234240309bf7c 6391-4xj/_1b
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2e
+cpath: /trunk/ruperts/paper/archimedean-truncatedoctahedron.view
+copyroot: 0 /
+
+id: 1c-6392.0.r6395/18
+type: file
+pred: 1c-6392.0.r6392/67
+count: 1
+text: 6392 20 177 169 9c31abc24dd89c54b0a7cc662ddf54f1 386d209993fee2610d5068ae2192efea6628034a 6391-4xj/_1e
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2f
+cpath: /trunk/ruperts/paper/archimedean-truncatedtetrahedron.view
+copyroot: 0 /
+
+id: 1f-6392.0.r6395/19
+type: file
+pred: 1f-6392.0.r6392/68
+count: 1
+text: 6392 21 172 164 68a04079ca262c306c6537497776e59b 199c3c9bf9e1a6e5fb3cd2c6fc4a446f51e63ae1 6391-4xj/_1h
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2g
+cpath: /trunk/ruperts/paper/catalan-deltoidalhexecontahedron.view
+copyroot: 0 /
+
+id: 1i-6392.0.r6395/20
+type: file
+pred: 1i-6392.0.r6392/69
+count: 1
+text: 6392 22 163 165 498d9f4e6af0291b82ebac3d37b674cf ee4177ad9edc9242fb7878d4d492461a97b26b0b 6391-4xj/_1k
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2h
+cpath: /trunk/ruperts/paper/catalan-deltoidalicositetrahedron.view
+copyroot: 0 /
+
+id: 1l-6392.0.r6395/21
+type: file
+pred: 1l-6392.0.r6392/70
+count: 1
+text: 6392 23 176 168 61854f6ebae9af67bc9622abe9397cee 10db8c9beb6f0307f7c16e03e8c5d0f8f83da8be 6391-4xj/_1n
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2i
+cpath: /trunk/ruperts/paper/catalan-disdyakisdodecahedron.view
+copyroot: 0 /
+
+id: 1o-6392.0.r6395/22
+type: file
+pred: 1o-6392.0.r6392/71
+count: 1
+text: 6392 24 156 150 acaa9403c0381a7425baa755213d4fdf 1ef21f691f3bf204e81aa321f683e3fcd7615b5b 6391-4xj/_1q
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2j
+cpath: /trunk/ruperts/paper/catalan-disdyakistriacontahedron.view
+copyroot: 0 /
+
+id: 1r-6392.0.r6395/23
+type: file
+pred: 1r-6392.0.r6392/72
+count: 1
+text: 6392 25 173 165 2f42edfed7da6d3eff8fe6a9bbb38080 a7dfb614c355eff50bfc0d47da85efd53fe310a1 6391-4xj/_1t
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2k
+cpath: /trunk/ruperts/paper/catalan-pentagonalhexecontahedron.view
+copyroot: 0 /
+
+id: 1u-6392.0.r6395/24
+type: file
+pred: 1u-6392.0.r6392/73
+count: 1
+text: 6392 26 176 168 126b7a521fa090b492b83a6d36322a06 e223fb3a213e2144f91ae09aa755dff9285a255f 6391-4xj/_1w
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2l
+cpath: /trunk/ruperts/paper/catalan-pentagonalicositetrahedron.view
+copyroot: 0 /
+
+id: 1x-6392.0.r6395/25
+type: file
+pred: 1x-6392.0.r6392/74
+count: 1
+text: 6392 27 156 149 cb3e6f5274f3b7c00d5440380ce1046d de1a7b35be363788ba31f8bbf546688b63ea2785 6391-4xj/_1z
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2m
+cpath: /trunk/ruperts/paper/catalan-pentakisdodecahedron.view
+copyroot: 0 /
+
+id: 20-6392.0.r6395/26
+type: file
+pred: 20-6392.0.r6392/75
+count: 1
+text: 6392 28 171 165 a2a080162f8ec8d771a96fec588ffd21 c20e40ce07fa3bfef4b81c1aec292daa708f028a 6391-4xj/_22
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2n
+cpath: /trunk/ruperts/paper/catalan-rhombicdodecahedron.view
+copyroot: 0 /
+
+id: 23-6392.0.r6395/27
+type: file
+pred: 23-6392.0.r6392/76
+count: 1
+text: 6392 29 173 165 7ff666a14566e2c00f25668e85c36e6e c656743d54399bc4875b3f80509ab003ec3420e4 6391-4xj/_25
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2o
+cpath: /trunk/ruperts/paper/catalan-rhombictriacontahedron.view
+copyroot: 0 /
+
+id: 26-6392.0.r6395/28
+type: file
+pred: 26-6392.0.r6392/77
+count: 1
+text: 6392 30 172 164 46fdc414368f698026ff6918c11cf2b1 acdad6808188401bbaacb0aaa450e8c53c74e8ec 6391-4xj/_28
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2p
+cpath: /trunk/ruperts/paper/catalan-tetrakishexahedron.view
+copyroot: 0 /
+
+id: 29-6392.0.r6395/29
+type: file
+pred: 29-6392.0.r6392/78
+count: 1
+text: 6392 31 173 166 a9c3dc40483e8314ce09d93ada0d3170 a2ae9ef484657f90e8af8531ec042f282796c48b 6391-4xj/_2b
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2q
+cpath: /trunk/ruperts/paper/catalan-triakisicosahedron.view
+copyroot: 0 /
+
+id: 2c-6392.0.r6395/30
+type: file
+pred: 2c-6392.0.r6392/79
+count: 1
+text: 6392 32 158 151 7376fac2ba5c4058434e6733653ef5f4 245be6649b01a5b818c444da93b38b881bd981f5 6391-4xj/_2e
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2r
+cpath: /trunk/ruperts/paper/catalan-triakisoctahedron.view
+copyroot: 0 /
+
+id: 2f-6392.0.r6395/31
+type: file
+pred: 2f-6392.0.r6392/80
+count: 1
+text: 6392 33 174 167 eeb17ff9aac51ab401a49d04da38853a 827662a6e07e7120e6283e78b21da25fde79ebbc 6391-4xj/_2h
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2s
+cpath: /trunk/ruperts/paper/catalan-triakistetrahedron.view
+copyroot: 0 /
+
+id: 3-6384.0.r6395/32
+type: file
+pred: 3-6384.0.r6384/36
+count: 1
+text: 6384 3 100 162 0600a7a4e4ed14c5072f70544377611f 2cca21323795ea2abd520743dfef380c3ac7a1dc 6383-4xb/_6
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2t
+cpath: /trunk/ruperts/paper/cube-residue.view
+copyroot: 0 /
+
+id: 7-6384.0.r6395/33
+type: file
+pred: 7-6384.0.r6384/37
+count: 1
+text: 6384 4 175 168 90c1a051d7d0c0e4e5611e3579a6551f 0c272c86e049e7272ddca907d5de09711cd492c9 6383-4xb/_9
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2u
+cpath: /trunk/ruperts/paper/cuboctahedron-residue.view
+copyroot: 0 /
+
+id: a-6384.0.r6395/34
+type: file
+pred: a-6384.0.r6384/38
+count: 1
+text: 6384 5 173 166 e3f0c1f63e774c456a411bc37b2e4c12 f1bd0a385e9f84250d98004339ed3549cd6dd8af 6383-4xb/_c
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2v
+cpath: /trunk/ruperts/paper/deltoidalicositetrahedron-residue.view
+copyroot: 0 /
+
+id: d-6384.0.r6395/35
+type: file
+pred: d-6384.0.r6384/39
+count: 1
+text: 6384 6 177 169 b79638ff31a93ba8621ca01138ed4f59 113e8861ee73836b565e9aeabbc39bbbe1be2bb4 6383-4xb/_f
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2w
+cpath: /trunk/ruperts/paper/disdyakisdodecahedron-residue.view
+copyroot: 0 /
+
+id: g-6384.0.r6395/36
+type: file
+pred: g-6384.0.r6384/40
+count: 1
+text: 6384 7 172 164 a1ff783fc56ea9b0b7d710b1c3124e63 3c23dd0f79dfbcb103a359d823757d317ce14214 6383-4xb/_i
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2x
+cpath: /trunk/ruperts/paper/disdyakistriacontahedron-residue.view
+copyroot: 0 /
+
+id: j-6384.0.r6395/37
+type: file
+pred: j-6384.0.r6384/41
+count: 1
+text: 6384 8 172 164 eac3f3e08c0ed2df0b80baaaf4633c80 65fd91dffa6a89ad0b0946c5117c79bf23b660ed 6383-4xb/_l
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_2y
+cpath: /trunk/ruperts/paper/dodecahedron-residue.view
+copyroot: 0 /
+
+id: 2i-6392.0.r6395/38
+type: file
+pred: 2i-6392.0.r6392/81
+count: 1
+text: 6392 34 27473 28047 b07cfdbffb55419927cfd814e35f5f32 819e228bd2166aa73b2b580a4cec0c1d5ec284a5 6391-4xj/_2k
+props: 1666 6 49 37 d99d5193015a7bc1a7e3a4e8fc1e49ba - 6394-4xm/_2z
+cpath: /trunk/ruperts/paper/i-win-again.png
+copyroot: 0 /
+
+id: m-6384.0.r6395/39
+type: file
+pred: m-6384.0.r6384/42
+count: 1
+text: 6384 9 157 150 7611fc75a85d6c855395972588e0256b 06fdf688dd3880983715091441351ce984c07796 6383-4xb/_o
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_30
+cpath: /trunk/ruperts/paper/icosahedron-residue.view
+copyroot: 0 /
+
+id: p-6384.0.r6395/40
+type: file
+pred: p-6384.0.r6384/43
+count: 1
+text: 6384 10 155 149 c1ea467dd387a59d784a4b85c88749ca e8a60670a80b42cef15678572f692d17714605a5 6383-4xb/_r
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_31
+cpath: /trunk/ruperts/paper/icosidodecahedron-residue.view
+copyroot: 0 /
+
+id: 2m-6392.0.r6395/41
+type: file
+pred: 2m-6392.0.r6392/83
+count: 1
+text: 6392 36 3496 6734 cb6f7ecf5d959251677c2e14ae7dc907 96de51cc060072dcf084b17bbb50d6c4db67daaf 6391-4xj/_2o
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_32
+cpath: /trunk/ruperts/paper/makeshadow.cc
+copyroot: 0 /
+
+id: v-6384.0.r6395/42
+type: file
+pred: v-6384.0.r6384/47
+count: 1
+text: 6384 14 176 168 f975e9e65219537d1e6646cde53beb01 1be0e9ea9fee79b9305f528bba65a7452f71aeb1 6383-4xb/_x
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_33
+cpath: /trunk/ruperts/paper/octahedron-residue.view
+copyroot: 0 /
+
+id: y-6384.0.r6395/43
+type: file
+pred: y-6384.0.r6384/48
+count: 1
+text: 6384 15 175 167 9a241be07bfc738674d02777e0eb5811 f4f520dd6801c7af4812c1a6abd97d38c3a5fbfd 6383-4xb/_10
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_34
+cpath: /trunk/ruperts/paper/pentagonalicositetrahedron-residue.view
+copyroot: 0 /
+
+id: 11-6384.0.r6395/44
+type: file
+pred: 11-6384.0.r6384/49
+count: 1
+text: 6384 16 176 168 453c2c9dddab185a4d9b220106fc829f e412d5c2a1823b01f19a1639a00291a0784edf58 6383-4xb/_13
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_35
+cpath: /trunk/ruperts/paper/pentakisdodecahedron-residue.view
+copyroot: 0 /
+
+id: 14-6384.0.r6395/45
+type: file
+pred: 14-6384.0.r6384/50
+count: 1
+text: 6384 17 97 162 63026f74dd6b8cec54b6799dee605d84 1040b4e1b77c7d1b24b1a3e483976b8d90c052de 6383-4xb/_16
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_36
+cpath: /trunk/ruperts/paper/platonic-cube.view
+copyroot: 0 /
+
+id: 17-6384.0.r6395/46
+type: file
+pred: 17-6384.0.r6392/85
+count: 2
+text: 6392 38 88 162 a38614c9c1ba78e2ae4b358cce029a13 0370e46e5a0ad0b8fff89c59c2ca852838041659 6391-4xj/_2q
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_37
+cpath: /trunk/ruperts/paper/platonic-dodecahedron.view
+copyroot: 0 /
+
+id: 1a-6384.0.r6395/47
+type: file
+pred: 1a-6384.0.r6384/52
+count: 1
+text: 6384 19 105 162 c16bbd7764e42909e6c44b33784a815f 28f58f00192032cb7a99ede063b7286c707362cf 6383-4xb/_1c
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_38
+cpath: /trunk/ruperts/paper/platonic-icosahedron.view
+copyroot: 0 /
+
+id: 1d-6384.0.r6395/48
+type: file
+pred: 1d-6384.0.r6384/53
+count: 1
+text: 6384 20 113 162 3cc183ec187aca1beac53f7596ce51ad e98fceff097f66435f11de4553b8e2f8324579e4 6383-4xb/_1f
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_39
+cpath: /trunk/ruperts/paper/platonic-octahedron.view
+copyroot: 0 /
+
+id: 1g-6384.0.r6395/49
+type: file
+pred: 1g-6384.0.r6384/54
+count: 1
+text: 6384 21 100 162 289ed26b326321e4f6cffed560ef1a50 50d95880de07fc2ff4c44cbb44ec8af2cdd6b68b 6383-4xb/_1i
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3a
+cpath: /trunk/ruperts/paper/platonic-tetrahedron.view
+copyroot: 0 /
+
+id: 2r-6392.0.r6395/50
+type: file
+pred: 2r-6392.0.r6392/86
+count: 1
+text: 6392 39 909 2323 36a9ecafd219eb5c92d458808e069eda d44b6854a4874ed463212ab44fdd055149d246a5 6391-4xj/_2t
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3b
+cpath: /trunk/ruperts/paper/polyhedra.bovex
+copyroot: 0 /
+
+id: 2u-6392.0.r6395/51
+type: file
+pred: 2u-6392.0.r6392/87
+count: 1
+text: 6392 40 159 152 e87a905188feb67d9bebb6e9f208e53d b513294c680f095d91287181d0ea3e266971396e 6391-4xj/_2w
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3c
+cpath: /trunk/ruperts/paper/questionmark.view
+copyroot: 0 /
+
+id: 1j-6384.0.r6395/52
+type: file
+pred: 1j-6384.0.r6384/55
+count: 1
+text: 6384 22 163 165 99a562e7cde579d54a5f5873f243addc 269840e5e875d98c145a57801d5812ca0eafb505 6383-4xb/_1l
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3d
+cpath: /trunk/ruperts/paper/rhombicdodecahedron-residue.view
+copyroot: 0 /
+
+id: 1m-6384.0.r6395/53
+type: file
+pred: 1m-6384.0.r6384/56
+count: 1
+text: 6384 23 172 164 36a1d0dff36bf2eaf6debf2207b30395 ee29ae665c5e7cc682aa42d78e3b6f0d9060e6f6 6383-4xb/_1o
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3e
+cpath: /trunk/ruperts/paper/rhombictriacontahedron-residue.view
+copyroot: 0 /
+
+id: 1p-6384.0.r6395/54
+type: file
+pred: 1p-6384.0.r6384/57
+count: 1
+text: 6384 24 152 145 181833c395ef950cef26aaaf5e926175 a8c53fceceb04dc231fa5554dace837118db35f2 6383-4xb/_1r
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3f
+cpath: /trunk/ruperts/paper/rhombicuboctahedron-residue.view
+copyroot: 0 /
+
+id: 9-6374.0.r6395/55
+type: file
+pred: 9-6374.0.r6374/19
+count: 1
+text: 6374 7 643 1176 b96f08763df26b1e22cfaf10757b2a80 f3a3136847f2b74935df39c5eeb56ddcf13dddc5 6373-4x1/_b
+props: 2299 12 54 42 080dcb83f47657567665a7a9de355cc6 - 6394-4xm/_3g
+cpath: /trunk/ruperts/paper/sample-circle.svg
+copyroot: 0 /
+
+id: c-6374.0.r6395/56
+type: file
+pred: c-6374.0.r6374/20
+count: 1
+text: 6374 8 4499 6864 af4f504ffdd812bbbac09c57919481df 24ff172cff2d911ef6a51f7834cfc0733ceedd35 6373-4x1/_e
+props: 2299 12 54 42 080dcb83f47657567665a7a9de355cc6 - 6394-4xm/_3h
+cpath: /trunk/ruperts/paper/sample-nd-hypersphere.svg
+copyroot: 0 /
+
+id: f-6374.0.r6395/57
+type: file
+pred: f-6374.0.r6374/21
+count: 1
+text: 6374 9 709 1124 ce61e56335cd7b7d4fe7477d90da262f c3a312b6a4d4430d67107ce97a9d1d672fd2a433 6373-4x1/_h
+props: 2299 12 54 42 080dcb83f47657567665a7a9de355cc6 - 6394-4xm/_3i
+cpath: /trunk/ruperts/paper/sample-sphere.svg
+copyroot: 0 /
+
+id: 1s-6384.0.r6395/58
+type: file
+pred: 1s-6384.0.r6384/58
+count: 1
+text: 6384 25 175 168 e87f3d3143dfa60663dfc90a0cbaa8ba f6ecf0c6357494c50eee240ddbf1b99e3def9ff5 6383-4xb/_1u
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3j
+cpath: /trunk/ruperts/paper/tetrahedron-residue.view
+copyroot: 0 /
+
+id: 1v-6384.0.r6395/59
+type: file
+pred: 1v-6384.0.r6384/59
+count: 1
+text: 6384 26 174 166 81d91759ba484399bafaa8076b77edba 70ef7ebb06acb39d6cffee59949dcdc1b580c668 6383-4xb/_1x
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3k
+cpath: /trunk/ruperts/paper/tetrakishexahedron-residue.view
+copyroot: 0 /
+
+id: 1y-6384.0.r6395/60
+type: file
+pred: 1y-6384.0.r6384/60
+count: 1
+text: 6384 27 173 165 b5dfc0723e301d9297fa5560bf26d91e c372056ac03e441fc0ae4e00825f0527ac977e13 6383-4xb/_20
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3l
+cpath: /trunk/ruperts/paper/triakisicosahedron-residue.view
+copyroot: 0 /
+
+id: 30-6392.0.r6395/61
+type: file
+pred: 30-6392.0.r6392/91
+count: 1
+text: 6392 44 164 168 781d760728d36f062cd9febe8bc3b9f6 54543732ab3a7447860cddaea64e78825e5715c4 6391-4xj/_32
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3m
+cpath: /trunk/ruperts/paper/triakisoctahedron-residue.view
+copyroot: 0 /
+
+id: 21-6384.0.r6395/62
+type: file
+pred: 21-6384.0.r6384/61
+count: 1
+text: 6384 28 171 163 328c7e2ed0d5c8301d39bbbbd7a300de 7618b86ae366364694bab9567b4167e8b46c6191 6383-4xb/_23
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3n
+cpath: /trunk/ruperts/paper/triakistetrahedron-residue.view
+copyroot: 0 /
+
+id: 24-6384.0.r6395/63
+type: file
+pred: 24-6384.0.r6384/62
+count: 1
+text: 6384 29 172 164 8c52f6c1550902e111040dbf2f4eb553 6e0bae320be5609c9a1aa37341e21cb12137f4de 6383-4xb/_26
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3o
+cpath: /trunk/ruperts/paper/truncatedcube-residue.view
+copyroot: 0 /
+
+id: 27-6384.0.r6395/64
+type: file
+pred: 27-6384.0.r6384/63
+count: 1
+text: 6384 30 175 167 eb0cc44fb2a00aa5dbb09022b624ffac 5138d4312eb4828820c3f33f9d025c8ae7822859 6383-4xb/_29
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3p
+cpath: /trunk/ruperts/paper/truncatedcuboctahedron-residue.view
+copyroot: 0 /
+
+id: 2a-6384.0.r6395/65
+type: file
+pred: 2a-6384.0.r6384/64
+count: 1
+text: 6384 31 171 164 d2a74817f0c44dc424308a9b3ad2b95b 6af27f1fa50024b360c6f655989b0222e21bbc9b 6383-4xb/_2c
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3q
+cpath: /trunk/ruperts/paper/truncateddodecahedron-residue.view
+copyroot: 0 /
+
+id: 2d-6384.0.r6395/66
+type: file
+pred: 2d-6384.0.r6384/65
+count: 1
+text: 6384 32 176 169 80ec26f314ae6c4e13a9d32ee18f53f2 ce1f27a3fe5c339f648bf24542c4013d03cdfef6 6383-4xb/_2f
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3r
+cpath: /trunk/ruperts/paper/truncatedicosahedron-residue.view
+copyroot: 0 /
+
+id: 2g-6384.0.r6395/67
+type: file
+pred: 2g-6384.0.r6384/66
+count: 1
+text: 6384 33 152 145 f0451cedb65cf4a48901e35342352d7f 04cd4bfbf19c1409425325a437d83bdbc168463e 6383-4xb/_2i
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3s
+cpath: /trunk/ruperts/paper/truncatedicosidodecahedron-residue.view
+copyroot: 0 /
+
+id: 2j-6384.0.r6395/68
+type: file
+pred: 2j-6384.0.r6384/67
+count: 1
+text: 6384 34 174 167 ce4e14c3af0762d802377b58a0de58be aecde58f39820bf6659022bfccbc0be9061589c8 6383-4xb/_2l
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3t
+cpath: /trunk/ruperts/paper/truncatedoctahedron-residue.view
+copyroot: 0 /
+
+id: 2m-6384.0.r6395/69
+type: file
+pred: 2m-6384.0.r6384/68
+count: 1
+text: 6384 35 173 165 7835b6307d24417728ebd435b3ee9d9b 28023cc4d1f40ae083f0db6912d01b9697501621 6383-4xb/_2o
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3u
+cpath: /trunk/ruperts/paper/truncatedtetrahedron-residue.view
+copyroot: 0 /
+
+DELTA 6394 18 99
+SVN £	£3ä2 T ÄÉ% EÉ}ÄÉ: Eá|Ää! ÅíbÑ eìgÄÖi Åö5Äs dú7ÄÖi£ùIÛ41
+file b-6392.0.r6395/6
+K 34
+archimedean-icosidodecahedron.view
+V 2C fC 7C 9C _rhombH iH 8H 6H _uboctç lE i9
+K 25E Ösnubcube« 2« o:  10Ä 3; 
+C rC 1C 0C ütruncatedÉ u@ P25/13D 8D å 3œ +10M 4I 7I  úQH 3H Z5
+K 4’  H ,N 6N q
+ÊN Ê G 9G u› Otetr› cH u˝7
+catalan-deltoidalhexeconvê Q195/2A4L èisdyakis∂
+¿2Cë E Otriaë 	Œ 22˛8ç èpentagon⁄ ‘2ê9I  ¸l	ﬁ2ë3J x∞2ç%32D ib	22Ç5C `22Å1F okishex{2
+2{B  ri- VB 2Ì&30Ñ B F2˛3≤É Ã ˚¯2¯3Ø017
+›}-residuh :%84r3ö 263 ™ < 7< ç%8
+ß .i∞ H aH ã%4
+^AD dD ã7D BG gG  è?25
+Ç j;  Ñ15
+i-win-again.png™Øc3t024
+7›ß ml l : 	Ò@ p@ P405/4&4ˇ639
+ëS ƒyR 3I Gï +11D  ¿18
+platonic-»(5 45  ˘&265 ª= ¬4Ôr  ˛ ã< ∂4&24y @; ≠4˘w p< ¢4˚p15
+poly4xa.bovexg45X¸ 17
+questionmarkf 25J?32
+“ Œ5[5C êﬂÍ5Xâ ¶
+C Ìa5495/5'Ò5
+sample-nd-hypersphere.sv®H
+ ò7#5%$17; 3  â3 7s  Ê131
+›	çCv‹5Ï B KùB ó6¸$30B £A 3†6	1A Ã  wB 2÷6526
+X
+ ÷ 2ﬁ6ˇ5= ≈ 2Á6Y&34F $ã 6B&33E è2˘6K*39D ¡’26~&32J °6†— ›üP95/69ENDREP
+id: d-6318.0.r6395/71
+type: dir
+pred: d-6318.0.r6394/19
+count: 14
+text: 6395 70 1366 4485 8a547624755bf048806c92721af481ec - -
+props: 6392 93 169 267 cce3f201fdc35408c2bd87a0bf68f1fb - 6391-4xj/_47
+cpath: /trunk/ruperts/paper
+copyroot: 0 /
+
+id: 9-6394.0.r6395/72
+type: file
+pred: 9-6394.0.r6394/20
+count: 1
+text: 6394 8 419 577 04d0b8c571ccca9d66f778bfffae6688 a42c175fcac46edaa086cdb41b09f1d028d0fecf 6393-4xl/_b
+props: 1007 3 16 4 2d2977d1c96f487abe4a1e202dd03b4e - 6394-4xm/_3v
+cpath: /trunk/ruperts/shrinkboard.cc
+copyroot: 0 /
+
+DELTA 6394 25 241
+SVN ô!ô"<! Ñw ó ÉyÖó eâ ó Å7äÑ ÖãXÑ à.êsMÛ1
+file 2-6392.0.r6395/3 e4-6376 4 e6-6389 ê55/715/72ENDREP
+id: 4-6112.0.r6395/74
+type: dir
+pred: 4-6112.0.r6394/26
+count: 163
+text: 6395 73 105 3230 856d0a7cce890c1fb029920badb843ab - -
+props: 6369 22 68 341 7275a58263b778866f65b3ffed0ac4f8 - 6368-4ww/_m
+cpath: /trunk/ruperts
+copyroot: 0 /
+
+DELTA 6394 27 45
+SVN §I§I
+ ú: Ñ àú>5/74ENDREP
+id: 0-1.0.r6395/76
+type: dir
+pred: 0-1.0.r6394/28
+count: 6383
+text: 6395 75 27 4681 356103db9b939abb81ab03df268bc781 - -
+cpath: /trunk
+copyroot: 0 /
+
+DELTA
+SVN  &'¶&K 5
+trunk
+V 18
+dir 0-1.0.r6395/76
+END
+ENDREP
+id: 0.0.r6395/2
+type: dir
+pred: 0.0.r6394/2
+count: 6395
+text: 6395 77 50 38 12c056bfb34018eaf02693bac727aa8c - -
+cpath: /
+copyroot: 0 /
+
+2-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/epsilonbench.cc
+
+4-6376.0.t6394-4xm modify-file false true false /trunk/ruperts/mergedatabase.cc
+
+6-6389.0.t6394-4xm modify-file false true false /trunk/ruperts/mesh_test.cc
+
+b-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-cuboctahedron.view
+
+f-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-icosidodecahedron.view
+
+i-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-rhombicosidodecahedron.view
+
+l-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-rhombicuboctahedron.view
+
+o-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-snubcube.view
+
+r-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-snubdodecahedron.view
+
+u-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-truncatedcube.view
+
+x-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-truncatedcuboctahedron.view
+
+10-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-truncateddodecahedron.view
+
+13-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-truncatedicosahedron.view
+
+16-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-truncatedicosidodecahedron.view
+
+19-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-truncatedoctahedron.view
+
+1c-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/archimedean-truncatedtetrahedron.view
+
+1f-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-deltoidalhexecontahedron.view
+
+1i-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-deltoidalicositetrahedron.view
+
+1l-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-disdyakisdodecahedron.view
+
+1o-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-disdyakistriacontahedron.view
+
+1r-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-pentagonalhexecontahedron.view
+
+1u-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-pentagonalicositetrahedron.view
+
+1x-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-pentakisdodecahedron.view
+
+20-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-rhombicdodecahedron.view
+
+23-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-rhombictriacontahedron.view
+
+26-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-tetrakishexahedron.view
+
+29-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-triakisicosahedron.view
+
+2c-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-triakisoctahedron.view
+
+2f-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/catalan-triakistetrahedron.view
+
+3-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/cube-residue.view
+
+7-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/cuboctahedron-residue.view
+
+a-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/deltoidalicositetrahedron-residue.view
+
+d-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/disdyakisdodecahedron-residue.view
+
+g-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/disdyakistriacontahedron-residue.view
+
+j-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/dodecahedron-residue.view
+
+2i-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/i-win-again.png
+
+m-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/icosahedron-residue.view
+
+p-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/icosidodecahedron-residue.view
+
+2m-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/makeshadow.cc
+
+v-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/octahedron-residue.view
+
+y-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/pentagonalicositetrahedron-residue.view
+
+11-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/pentakisdodecahedron-residue.view
+
+14-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/platonic-cube.view
+
+17-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/platonic-dodecahedron.view
+
+1a-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/platonic-icosahedron.view
+
+1d-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/platonic-octahedron.view
+
+1g-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/platonic-tetrahedron.view
+
+2r-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/polyhedra.bovex
+
+2u-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/questionmark.view
+
+1j-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/rhombicdodecahedron-residue.view
+
+1m-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/rhombictriacontahedron-residue.view
+
+1p-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/rhombicuboctahedron-residue.view
+
+9-6374.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/sample-circle.svg
+
+c-6374.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/sample-nd-hypersphere.svg
+
+f-6374.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/sample-sphere.svg
+
+1s-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/tetrahedron-residue.view
+
+1v-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/tetrakishexahedron-residue.view
+
+1y-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/triakisicosahedron-residue.view
+
+30-6392.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/triakisoctahedron-residue.view
+
+21-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/triakistetrahedron-residue.view
+
+24-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/truncatedcube-residue.view
+
+27-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/truncatedcuboctahedron-residue.view
+
+2a-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/truncateddodecahedron-residue.view
+
+2d-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/truncatedicosahedron-residue.view
+
+2g-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/truncatedicosidodecahedron-residue.view
+
+2j-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/truncatedoctahedron-residue.view
+
+2m-6384.0.t6394-4xm modify-file false true false /trunk/ruperts/paper/truncatedtetrahedron-residue.view
+
+9-6394.0.t6394-4xm modify-file false true false /trunk/ruperts/shrinkboard.cc
+
+
+L2P-INDEX
+˚1Ä@úN îıëˇÚÃŒ∆Ú˙ÜÄÏ¸ˆàåäñàääåÑäåéÇÄÜ˛˛¸˛⁄ÏÑ¸ÇÍËËˆﬁËäÇ‚ÚÚÚ‡‚ÄÜÄ‡Ú‡˛˛¸˛ÙÜÑÇéÄÇ‹‚»Ñ“f¨P2L-INDEX
+˚1äÄÄ@π ¶: Õ≤…–ß ûµô¨£ ∆Õ˚‹π –í·ÿΩ ¿˝≤µ√ Ò≤Í⁄¿ †„Èî∂ îÛæËæ Ã§é÷	ª ªÏ‘“ƒ ÀÂÆ¡∆ ﬂàÁÿ≈ Ω›˙ìÀ ¶…í“ƒ â¿»°≈ “ﬁÑ÷≈ ˆ…Ë∏∆ ¢á©©¬ ™ˇ´Â≈ ªå®—∆ öıÕå« ˝˘’¡ ˘ãç‰¿ íñΩﬂ√ ¡Ω€“ø ùπêÉø °∞ß•æ €“á˚
+ø ˚ﬂÁ¿≠ ¡ Ãê	∂ ÎÈ·∞¬ ‚í–⁄æ üÙ‘∏¡ ∆‡Ö˜µ Éíµâ¥ ú°Äÿ¥ ÏèÎSª ›Ô÷‘Ø ¶∞ãâ¥ ®î¯‰≈ Êââî¡ ˝ªÂﬁ±  ‘çÇπ •¢≈Ëπ „÷ËÕ∏ òÜΩñπ ¢ª–¶∞ é±Ø˘± Œçì˙¿ ˇºîÊ√ ´«ÍÆ
+¿ Å⁄¨–∞ ›ËÏºπ ÆÑ˜˙∞ ∏πñ°∏ ˚Ô—ﬁø òí¡∫ø ¬æÈ“æ ÷Ã∑Á	ø ≈»˝Ç∫ ˙‰ÛÎ√ ”®ì¸
+¬ ƒÙìœ¡ ˘Â¿∞« ÃÂûh¿ Ù‹ùñ¡ Åà…ë	Ó
+
+ ´ÈΩêÒ á∑≈Á§ ˆ“˜àÇ
+ ÕËì˙È ÖﬂÅ∫	3
+ ¨Îˆπñ °“ØÙ?
+ „ïŒˆâ©	 ÓƒÕ∞¡5 ßÀö‹ˆè>  30730 6b826bcd0432f29626e71fcc9faea9b7 30906 9b4a06c39cd0e81aa0bec30eda2cbc8aM

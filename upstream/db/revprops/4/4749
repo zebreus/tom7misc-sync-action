@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-11-06T23:09:38.247005Z
+K 7
+svn:log
+V 47
+Add conversion from RGB to HSV; test round trip
+END

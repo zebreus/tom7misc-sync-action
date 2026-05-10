@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-19T21:25:53.061693Z
+K 7
+svn:log
+V 156
+Don't bother creating partition table, so that drives can be smaller (50kb). Just pass bytes on the nbdkit command line, and convert to blocks internally.
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-12-19T16:33:23.462658Z
+K 7
+svn:log
+V 110
+Fix bad bug for mixed int/double optimization problems. Add option to save all results and retrieve at the end
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-21T22:49:52.770043Z
+K 7
+svn:log
+V 130
+Use normal factoring routine instead of inline-allocated one in quadmodll. Some stuff with modulus_length is fishy in this change.
+END

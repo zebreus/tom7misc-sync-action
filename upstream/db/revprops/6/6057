@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-23T22:04:40.141463Z
+K 7
+svn:log
+V 141
+Delete old manual solver, which never worked. Refactor alwaysdead so that its husk can be used for new 'loop' strategy (just a stub for now).
+END

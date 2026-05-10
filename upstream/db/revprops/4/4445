@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-14T05:14:43.855024Z
+K 7
+svn:log
+V 264
+Fix another bug where only some of the examples were used for some of the weights. Add another toy problem that attempts to embed the most frequent words directly. Optimize layout for large convolutional layers in modelinfo. Left in some debugging crap, as a treat
+END

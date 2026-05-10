@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-05-17T16:44:55.839220Z
+K 7
+svn:log
+V 149
+Save myself valuable seconds by syntax highlighting 'for' without let/var/const in js. Complicated because the negative match can't be done in regex.
+END

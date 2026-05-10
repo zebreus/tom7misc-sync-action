@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-08T04:59:15.761937Z
+K 7
+svn:log
+V 105
+Unicode fonts are almost working now; even in picky Acrobat. Looks like the ToUnicode CMap does not work.
+END

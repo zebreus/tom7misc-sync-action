@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-17T14:51:18.355547Z
+K 7
+svn:log
+V 199
+Improve debugging of convex hull. The gift wrapping algorithm just seems too fiddly when it comes to collinear/coincident points. Implemented Graham Scan, which works, but it's slower than QuickHull.
+END

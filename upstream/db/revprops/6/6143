@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-01T13:49:36.901642Z
+K 7
+svn:log
+V 88
+Oops, std::sortable is not a good concept for this, and the function was unusable. Fixed
+END

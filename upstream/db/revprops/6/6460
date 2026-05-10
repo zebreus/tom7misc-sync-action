@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-05-07T22:40:30.424952Z
+K 7
+svn:log
+V 77
+Add dockerfile for ruperts. Remove executable property from some cc-lib stuff
+END

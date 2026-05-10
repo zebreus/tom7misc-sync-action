@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-24T13:14:27.349531Z
+K 7
+svn:log
+V 196
+Further error message improvement from positions. Add UTF-8 integer (codepoint) literals. Change string-first-codepoint to work with integer codepoints, not strings. Progress on chess FEN parsing.
+END

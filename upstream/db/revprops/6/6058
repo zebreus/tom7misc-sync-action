@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-26T19:30:25.973457Z
+K 7
+svn:log
+V 98
+Implement broken cutscene detector. Looks like it has a good rejectino rate. Found some funny ones
+END

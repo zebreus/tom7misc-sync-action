@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-07-10T13:54:11.980549Z
+K 7
+svn:log
+V 102
+Working on creating an exact basis, but the relatively high precision near zero makes this challenging
+END

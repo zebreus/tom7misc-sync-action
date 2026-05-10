@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-24T02:40:31.680748Z
+K 7
+svn:log
+V 38
+Add quad solver-based ways computation
+END

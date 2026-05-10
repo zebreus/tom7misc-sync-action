@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-11-13T18:15:53.263095Z
+K 7
+svn:log
+V 71
+Fix bug in tinyexr that prevented loading huge files (integer overflow)
+END

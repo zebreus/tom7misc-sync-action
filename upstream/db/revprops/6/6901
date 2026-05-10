@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-25T16:56:58.849493Z
+K 7
+svn:log
+V 120
+BoVeX: Change type of image width and height to be double, in order to support vector images. Make the wrapper internal.
+END

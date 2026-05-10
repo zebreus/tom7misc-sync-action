@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-01-19T04:44:00.312576Z
+K 7
+svn:log
+V 182
+Trim the tree. Trimming super aggressively actually helps a lot, at least with 'cheating' objectives, and of course lets it run indefinitely long. Also add depth norm, not yet tested
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-11T20:39:42.533038Z
+K 7
+svn:log
+V 36
+Correct length for R and S in ModInv
+END

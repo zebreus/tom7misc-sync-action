@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-10-02T23:58:25.356196Z
+K 7
+svn:log
+V 114
+implemented a bunch of the island solver, stubbing out the contact solver and making other changes where warranted
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-23T23:46:48.346960Z
+K 7
+svn:log
+V 77
+Add support for line spacing. Text looks pretty good now. Add some more of it
+END

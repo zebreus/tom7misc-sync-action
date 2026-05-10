@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-03-17T16:44:01.784427Z
+K 7
+svn:log
+V 26
+Clean compile in clang/osx
+END

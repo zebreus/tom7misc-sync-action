@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-01-07T22:38:57.481469Z
+K 7
+svn:log
+V 127
+Some more documentation/cleanup in aot. Generate AOT for contra, which seems to work. pftwo gets ~21.37k NES FPS instead of ~18
+END

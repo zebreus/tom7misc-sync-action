@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-01T15:39:12.263287Z
+K 7
+svn:log
+V 204
+Better asynchronous recording in play. Hacky warp for testing long-shots. Specify single level on command-line for TryToReject; output screenshots in alwaysdead to try to diagnose why it can't solve some.
+END

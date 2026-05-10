@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-09T16:44:19.672725Z
+K 7
+svn:log
+V 123
+Reduce test spam. Comment out LLM stuff for now to compile on vacation. Drop recursive variable for non-recursive functions
+END

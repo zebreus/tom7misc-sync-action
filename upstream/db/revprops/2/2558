@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-08-04T16:06:41.289579Z
+K 7
+svn:log
+V 177
+Rewrote state internals using std::vector and fixed-length keys, with additional checks. Updated all callers. Fix some duplicate keys which were probably bugs? basic test passes
+END

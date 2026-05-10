@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-05T20:59:14.865005Z
+K 7
+svn:log
+V 86
+Split out MakeHole into csg.cc. It's getting big and I probably want to make an object
+END

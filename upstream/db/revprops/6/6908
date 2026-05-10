@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-26T20:26:11.492019Z
+K 7
+svn:log
+V 60
+Don't make a temporary directory each day; we rarely need it
+END

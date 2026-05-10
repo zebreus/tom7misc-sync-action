@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-05-10T14:11:36.867234Z
+K 7
+svn:log
+V 127
+Cleanup of cart. Make it possible for the handshake to disable the debugging red palette. This could be the production version?
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-09-29T20:14:28.574920Z
+K 7
+svn:log
+V 66
+Add FM7 encoding without newlines, which is better in the database
+END

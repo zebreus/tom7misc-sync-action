@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-03T13:03:01.860771Z
+K 7
+svn:log
+V 211
+Some cleanup while hard drive is copying. Deleted a bunch of unnecessary crap in csv.cc. Don't compute tables every call in base64. Use ASSUME from macros since not all compilers are ready for [[assume]]. Notes.
+END

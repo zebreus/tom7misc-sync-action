@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-24T23:20:26.361665Z
+K 7
+svn:log
+V 60
+Fix all the warnings in the chess directory, for some reason
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-11-01T20:48:59.167435Z
+K 7
+svn:log
+V 38
+Switch to new SDL_image-less sdlml API
+END

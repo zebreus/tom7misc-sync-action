@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-09-25T03:04:05.716670Z
+K 7
+svn:log
+V 56
+Pull this out to a header so it can be used in evaluator
+END

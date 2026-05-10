@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-16T19:33:45.755460Z
+K 7
+svn:log
+V 111
+Use inverse epsilon (max denominator) for rational approximations. I think this will be easier to reason about.
+END

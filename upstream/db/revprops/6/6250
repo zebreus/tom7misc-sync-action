@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-18T22:07:40.015337Z
+K 7
+svn:log
+V 57
+Make sure stuff still compiles with modernization updates
+END

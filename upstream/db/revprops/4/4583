@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-03-10T04:00:26.001771Z
+K 7
+svn:log
+V 58
+Support group sel and 6-bit addresses for new board. works
+END

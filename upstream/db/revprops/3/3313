@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-09-02T21:14:15.517513Z
+K 7
+svn:log
+V 95
+Interpret gates. Fix globbing such that GPX is actually parsed on windows, and fix bug in there
+END

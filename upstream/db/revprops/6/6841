@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-12-03T13:48:13.491687Z
+K 7
+svn:log
+V 101
+Add QR check. Move the core encryption routines to the top for clarity and improve the docs a little.
+END

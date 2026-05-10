@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-07-25T23:01:51.428232Z
+K 7
+svn:log
+V 236
+CartInfo callbacks take FC parameter (touches EVERY board), do some cleanup in those while I'm at it and note what the plan should be; Unif takes FC arg, GameStateRestore takes FC. During outage this was the working copy 'fceulib-next2'
+END

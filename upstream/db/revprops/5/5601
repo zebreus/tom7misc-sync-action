@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-26T14:08:26.702305Z
+K 7
+svn:log
+V 125
+Add some type annotations that are needed for bidirectional typechecking. Did some of the guts of TypedPass. Not done, though
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-24T22:55:28.634599Z
+K 7
+svn:log
+V 75
+Add interval cos, and sqrt is all implemented in BigRat now. Improve tests.
+END

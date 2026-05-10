@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-03-04T21:15:09.057966Z
+K 7
+svn:log
+V 253
+Fix bug in LoseWhitesR. Fix bug where ReadFile family tries to do reads of size larger than 2^31, which just fail on cygwin. Also, a performance improvement there, and make the commented-out printfs #ifdefs instead, since I keep going back to this code.
+END

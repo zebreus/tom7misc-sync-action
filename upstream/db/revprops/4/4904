@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-06-22T13:23:32.655196Z
+K 7
+svn:log
+V 52
+GPU version of nways, but it is unexpectedly slow...
+END

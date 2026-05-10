@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-22T14:42:41.872222Z
+K 7
+svn:log
+V 88
+Fix minor bug and use new sdlutil::SetIcon, since the other approach stopped working (?)
+END

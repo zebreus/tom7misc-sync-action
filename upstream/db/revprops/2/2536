@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-07-11T14:47:09.132761Z
+K 7
+svn:log
+V 49
+Consolidate fceulib__ globals into single global.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-11-30T04:19:46.910449Z
+K 7
+svn:log
+V 171
+Yes; if I write 2020:2019, then the corruption is right before the first instruction. This will work -- we can probably even do a proper relocation of the code if we want!
+END

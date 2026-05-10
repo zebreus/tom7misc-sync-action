@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-12-12T00:46:47.958281Z
+K 7
+svn:log
+V 112
+More tracing in Box2D. Move print hack to prelude, and move prelude before bdd so it can globally disable output
+END

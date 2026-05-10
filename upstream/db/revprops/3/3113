@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-26T21:49:37.921122Z
+K 7
+svn:log
+V 88
+Fix very old bug in can_be_claimed. Implement PopJumpInd. Debug printing for accumulator
+END

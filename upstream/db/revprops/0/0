@@ -1,0 +1,17 @@
+K 8
+svn:date
+V 27
+2006-08-14T21:26:24.516699Z
+K 17
+svn:sync-from-url
+V 42
+svn://svn.code.sf.net/p/tom7misc/svn/trunk
+K 18
+svn:sync-from-uuid
+V 36
+be8137f2-001b-0410-b4be-9de0ac3fc846
+K 24
+svn:sync-last-merged-rev
+V 4
+7074
+END

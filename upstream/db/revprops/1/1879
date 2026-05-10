@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-01-20T03:12:44.001143Z
+K 7
+svn:log
+V 77
+New strategy: Start with KeyedTesselation functor. Compiles again; lots to do
+END

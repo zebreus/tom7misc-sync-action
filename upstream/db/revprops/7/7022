@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-19T01:49:50.169894Z
+K 7
+svn:log
+V 106
+Fix tramp on windows after putting some msys2 tools in path. Add preconfigured directories to fill-in mode
+END

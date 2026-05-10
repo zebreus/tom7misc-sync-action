@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-09T05:39:21.368366Z
+K 7
+svn:log
+V 96
+Fix serialization bug with fixed chunks, ugh. Add test. Performance improvements in learn-words.
+END

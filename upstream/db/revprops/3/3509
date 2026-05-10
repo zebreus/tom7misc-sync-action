@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-14T05:05:10.526534Z
+K 7
+svn:log
+V 169
+A few more reads, waiting for addresses to become stable. Makes a huge difference, but the timing is pretty delicate. final packetbyte doesn't seem to be written in time
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-07-07T21:18:55.188188Z
+K 7
+svn:log
+V 50
+Fix compile of this; constants for video recording
+END

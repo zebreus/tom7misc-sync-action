@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-08-07T13:02:52.910795Z
+K 7
+svn:log
+V 159
+Add the start to the codec (just a stub) which maybe I get back to if the project still feels fun. Start on standalone encoder/decoder which would be more fun.
+END

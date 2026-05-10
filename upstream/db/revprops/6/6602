@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-24T22:50:31.482221Z
+K 7
+svn:log
+V 159
+Implemented a SqrtBounds that I'm happy with now. It's a little involved to handle the corner case but it makes sense. Renamed SimpleBounds -> ElementaryBounds
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-02-02T01:36:51.419013Z
+K 7
+svn:log
+V 60
+Avoid squaring if computing e.g. 'a & a', with another trick
+END

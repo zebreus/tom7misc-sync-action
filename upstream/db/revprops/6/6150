@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-04T01:58:13.520945Z
+K 7
+svn:log
+V 189
+Improve visualization. Add ROR instruction and refactor some of the read-modify-write stuff. Now it is well behaved for a pretty long time, but (unsurprisingly) blows up in the jump engine.
+END

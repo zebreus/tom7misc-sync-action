@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-03-08T19:37:41.006544Z
+K 7
+svn:log
+V 92
+Did efficient sparse error propagation (on CPU), but not yet weight updates (should be easy)
+END

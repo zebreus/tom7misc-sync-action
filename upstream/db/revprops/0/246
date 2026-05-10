@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-05-18T22:53:59.763397Z
+K 7
+svn:log
+V 130
+did some undict, but realized that the dict invariant needs the dictionaries to actually be uvars, not vars. get ready to fix that
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-05-29T01:00:12.630793Z
+K 7
+svn:log
+V 58
+Split animation into its own class; add some timing output
+END

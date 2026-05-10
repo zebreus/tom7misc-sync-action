@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2009-02-04T01:29:41.429099Z
+K 7
+svn:log
+V 68
+thankfully was a simple logic error, not a threading problem. solved
+END

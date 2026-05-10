@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-21T20:30:34.834466Z
+K 7
+svn:log
+V 50
+Make IL constructors private, per XXX. Update docs
+END

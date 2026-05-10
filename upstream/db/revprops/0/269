@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-06-05T22:02:23.319432Z
+K 7
+svn:log
+V 190
+ut oh, bugs: can't hoist on hello.ml5 because there is a free (dictionary?) variable. can't undict hoist_unbound.ml5 because of dict dict problem again. I think the pack annotation is wrong?
+END

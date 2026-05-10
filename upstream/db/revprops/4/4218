@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-29T23:06:00.666164Z
+K 7
+svn:log
+V 159
+Well, got the new permissive loss function working. It is expensive to compute (half of training loop goes to computing it, urgh) and is maybe just a bad idea?
+END

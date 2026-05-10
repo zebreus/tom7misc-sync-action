@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-16T15:14:36.167973Z
+K 7
+svn:log
+V 127
+OK, I was just calling tinfl_decompress wrong. Added some documentation in miniz header, since this is pretty surprising to me.
+END

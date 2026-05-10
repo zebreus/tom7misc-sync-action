@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-08T14:31:41.702183Z
+K 7
+svn:log
+V 78
+Fix mistake in typeid checks. Need to compare objects, not object with pointer
+END

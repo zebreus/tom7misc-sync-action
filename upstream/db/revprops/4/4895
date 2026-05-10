@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-06-16T18:39:46.333118Z
+K 7
+svn:log
+V 117
+Better version which filters through the exact acronymy lexical rules. Could be a bit faster but it is reasonable now
+END

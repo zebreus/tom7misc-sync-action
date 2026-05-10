@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-29T23:35:28.772232Z
+K 7
+svn:log
+V 175
+Ratperts improvements: Actually test equal orientations in addition to just identity. Also, scale the loss so that it does not get flushed to zero before the optimizer sees it
+END

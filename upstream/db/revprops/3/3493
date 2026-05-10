@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-08T17:34:13.141298Z
+K 7
+svn:log
+V 79
+New approach that tries to explicitly sync, count scanlines, and draw something
+END

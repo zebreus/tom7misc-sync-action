@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-02-29T19:56:35.013758Z
+K 7
+svn:log
+V 79
+Now possible to skip to next shelf. Set constants for single-kitchen experiment
+END

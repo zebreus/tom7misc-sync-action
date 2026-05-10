@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-05-05T21:56:26.799061Z
+K 7
+svn:log
+V 84
+Add inverse LAB to RGB conversion with test. Misc cleanup (clang warnings) elsewhere
+END

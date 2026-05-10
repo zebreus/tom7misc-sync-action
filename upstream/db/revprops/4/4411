@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-10-10T15:51:12.201737Z
+K 7
+svn:log
+V 100
+Finish implementing kernels for backwardchunk, splitting into two passes. C++ wrapper for the first.
+END

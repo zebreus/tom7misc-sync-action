@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-25T23:44:35.368853Z
+K 7
+svn:log
+V 250
+Check that all images are used in Rejoin. Revalidate the rephrasing database since this rule change means some valid stuff is no longer valid. Add no-rephrase option on spans, which then treats them like boxes during rephrasing. Use this in citations
+END

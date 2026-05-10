@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-05-25T18:48:01.889216Z
+K 7
+svn:log
+V 91
+add basic primop support so I can get tiny testcases with halt; make tiny dictdict testcase
+END

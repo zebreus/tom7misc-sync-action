@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-21T04:03:26.720045Z
+K 7
+svn:log
+V 87
+Globally fixed spacing around '*' and '&' in types. More code cleanup and modernization
+END

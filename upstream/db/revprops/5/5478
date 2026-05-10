@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-07T03:42:28.843261Z
+K 7
+svn:log
+V 117
+Dynamic programming text layout, but it crashes. Also abortive attempt at recursion template that does not use stack?
+END

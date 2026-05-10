@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-04-21T03:39:44.105757Z
+K 7
+svn:log
+V 207
+Remove use of PtrList in Menu, and nearby modernization/cleanup. Fixed bug where downloading solutions from server did not write the player file. Don't generate animation_x.h files that aren't used any more.
+END

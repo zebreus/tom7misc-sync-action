@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-19T22:38:39.014255Z
+K 7
+svn:log
+V 224
+Consolidate drawing commands (and text) into a single stream when they are consecutive (per page). This allows flate compression to work on a larger amount of content, which helps compression a lot. test.pdf is 523922 bytes.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-12-17T22:59:54.247829Z
+K 7
+svn:log
+V 48
+Generate primes on GPU for mod.exe; 15% speed-up
+END

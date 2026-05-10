@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-15T20:00:51.759139Z
+K 7
+svn:log
+V 83
+Start accumulating solutions. Some cosmetic fixes to output (newlines in quad case)
+END

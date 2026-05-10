@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-29T04:05:44.476644Z
+K 7
+svn:log
+V 72
+Did pushable blocks and checked on level solve count after a small panic
+END

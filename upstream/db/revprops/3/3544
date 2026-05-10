@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-22T00:32:49.145798Z
+K 7
+svn:log
+V 90
+it's hacky (i.e., reactive to observed desynchronization) but it works, including joystick
+END

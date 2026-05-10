@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-30T02:53:58.272694Z
+K 7
+svn:log
+V 95
+I think now working BigInt-less CSMPOP, but needs some stress tests. The main issue is overflow
+END

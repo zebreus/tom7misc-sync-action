@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-18T00:04:36.137325Z
+K 7
+svn:log
+V 167
+Broken: Started implementing local. Need to finish the refactor of ElabDec for FUN, but want to check in before getting on the plane. Also some progress on chess demo.
+END

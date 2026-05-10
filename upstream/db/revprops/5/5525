@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-27T20:03:55.581653Z
+K 7
+svn:log
+V 116
+Reorganize the encoding for Greek and do reasonable glyphs for them. Should be complete for 'normal' Greek text now.
+END

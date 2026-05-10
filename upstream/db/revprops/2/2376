@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-12T05:22:25.358035Z
+K 7
+svn:log
+V 346
+OK, did a bunch of tracing to try to track down regression. Just finally realized that the two versions are loading different save files called '.sav' which were hiding from view. Still think there is something messed up going on (memory corruption), but need to reset my assumptions since deleting the save files made the minimal test case pass.
+END

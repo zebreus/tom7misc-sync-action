@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-19T23:54:35.365694Z
+K 7
+svn:log
+V 61
+Another improvement of more than 2x to use bit ops for union.
+END

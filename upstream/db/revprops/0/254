@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-05-22T23:29:25.474573Z
+K 7
+svn:log
+V 226
+humm, seems like the dictionary for texists needs to bind two variables: the dictionary that's packed inside it, and the abstract type variable that that's a dictionary for. this might mean that cval ctypefront was a bad idea?
+END

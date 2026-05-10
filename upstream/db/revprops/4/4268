@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-13T00:21:51.435694Z
+K 7
+svn:log
+V 83
+OK, this is 15x faster than the original, should be good enough for interactive use
+END

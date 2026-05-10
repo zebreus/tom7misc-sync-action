@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-09T20:23:55.273647Z
+K 7
+svn:log
+V 254
+Fix some bugs resulting from misconception that I can test dot products at the corners of the spherical patch only. This just isn't true. Still makes good progress though. We can compute a bounding sphere for the spherical patch from its corners, though.
+END

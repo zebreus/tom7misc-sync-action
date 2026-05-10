@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-23T23:15:10.004530Z
+K 7
+svn:log
+V 139
+Revert to previous version of Truncate, which keeps any existing code intact and is simpler and faster. For serious uses, use SimpleBounds.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-07T19:06:40.871197Z
+K 7
+svn:log
+V 56
+Fix bug (with no test case) in PerfectSquareDiscriminant
+END

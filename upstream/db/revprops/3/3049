@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-12-18T16:12:09.323082Z
+K 7
+svn:log
+V 120
+Improve performance of byte_table generation a lot, so that it's not a severe nuisance when just starting up the program
+END

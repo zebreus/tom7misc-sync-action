@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-17T16:12:44.029927Z
+K 7
+svn:log
+V 220
+Well, I believe the 'regression' was just caused by different .sav files. However, this setup demonstrates that savestates aren't repeatable for the game 'skull.' Maybe they never were, but we should be able to fix this.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-30T18:39:25.193691Z
+K 7
+svn:log
+V 95
+BlendBox and ScaleBy in image. Add rolling-average util (headr only). ParallelFan in threadutil
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-11-12T21:30:37.659125Z
+K 7
+svn:log
+V 103
+Initial version of ImageFRGBA (potentially huge float images) using TinyEXR with some fixes. Incomplete
+END

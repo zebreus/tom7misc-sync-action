@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-08-30T20:52:53.958388Z
+K 7
+svn:log
+V 51
+Oops, also remove code that disables old mappers :/
+END

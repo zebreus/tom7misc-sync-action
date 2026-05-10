@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-09T13:29:12.975169Z
+K 7
+svn:log
+V 186
+Save point/edge metadata with rejection reason. Also reorder leaf fields. This breaks the .cube format, but we need this to be able to verify proofs without repeating all the heuristics.
+END

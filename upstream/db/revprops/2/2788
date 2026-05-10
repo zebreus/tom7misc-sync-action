@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-04-23T14:54:48.101010Z
+K 7
+svn:log
+V 189
+Don't derive NROM from Datalatch; this is a very simple mapper good for experiments (Mario) and it wasn't actually using anything from Datalatch. Put all boards/ classes in anon. namespace.
+END

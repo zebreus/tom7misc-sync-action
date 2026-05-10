@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-07-18T23:24:02.415016Z
+K 7
+svn:log
+V 233
+made demo system for server5. added trivialdb to server. reimplemented val binding elaboration (should be correct now, though world polymorphism is not yet implemented) and implemented put using the same system. trivialdb test works.
+END

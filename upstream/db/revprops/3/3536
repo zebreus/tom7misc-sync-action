@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-20T15:48:38.598488Z
+K 7
+svn:log
+V 109
+Has some debugging stuff that we probably don't want, but this should suffice for bidirectional communication
+END

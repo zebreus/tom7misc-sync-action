@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-08-09T02:48:41.747839Z
+K 7
+svn:log
+V 329
+Well, there seem to be cases with cycles of length greater than one, which is unexpected from the texts I read, but maybe I just had a bug (there are a number of ambiguities in the descriptions? OTOH just adding the set of visited triples and avoiding cycles that way works on all the small test cases. So, good enough for now...
+END

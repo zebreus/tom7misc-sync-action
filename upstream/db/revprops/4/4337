@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-04-19T02:27:25.824003Z
+K 7
+svn:log
+V 236
+Further cleanup/modernization. Remove top-level 'itos'. Use vector instead of manually-managed linked-list for http/rpc (rip 'formalist'). Some include cleanup. Move implementation of client to .cc. Delete old generated animation files.
+END

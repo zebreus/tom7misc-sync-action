@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-11T02:38:03.962004Z
+K 7
+svn:log
+V 164
+Implement simple mark/sweep garbage collector, since rendering 300 frames with 1000 rephrasings each actually does use up all my RAM otherwise. Also sin/cos primops
+END

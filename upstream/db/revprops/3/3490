@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-07T23:31:00.208885Z
+K 7
+svn:log
+V 90
+This version demonstrates driving the bit low and high, and works modulo jitter (use sudo)
+END

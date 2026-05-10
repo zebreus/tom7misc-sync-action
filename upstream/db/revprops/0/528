@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-09-05T23:37:10.819679Z
+K 7
+svn:log
+V 140
+got explicit named substs working (passing regression, at least). very conservative right now; often punts and eagerly applies substitution.
+END

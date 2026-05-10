@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-16T15:31:13.090268Z
+K 7
+svn:log
+V 53
+Fix compilation / warnings of some old craps in here.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-07-14T15:04:58.682761Z
+K 7
+svn:log
+V 86
+Add more niceities in dump, and some missing required chunks; still not working though
+END

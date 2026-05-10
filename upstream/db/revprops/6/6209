@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-30T05:00:53.566566Z
+K 7
+svn:log
+V 66
+Add interval-cover-util with generic serialization/deserialization
+END

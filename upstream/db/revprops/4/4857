@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-03-16T02:38:06.762983Z
+K 7
+svn:log
+V 70
+Better fractal generation; output testu01 results; generate more plots
+END

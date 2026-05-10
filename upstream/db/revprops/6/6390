@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-19T22:09:38.038147Z
+K 7
+svn:log
+V 77
+Remove coplanar edges in generated image. Still something wrong with sorting?
+END

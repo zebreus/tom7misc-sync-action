@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-05-27T17:36:10.403195Z
+K 7
+svn:log
+V 92
+Added frames, fork for youtube vid, support for multi conversion and forced palette entries
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-15T20:50:52.675262Z
+K 7
+svn:log
+V 101
+Fix late-breaking and perplexing formatting problem (newline got into sigbovik logo). More on structs
+END

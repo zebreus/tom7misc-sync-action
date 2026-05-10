@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-23T14:41:26.752620Z
+K 7
+svn:log
+V 31
+Improve performance of ++, etc.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-17T06:06:07.802794Z
+K 7
+svn:log
+V 67
+Improvements for sortition mode. Code to normalize lines as beziers
+END

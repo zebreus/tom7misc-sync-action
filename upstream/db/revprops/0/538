@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-09-06T23:16:40.860782Z
+K 7
+svn:log
+V 173
+ok, exceptions appear to be working. they aren't marshaled yet and the exn type is not implemented, but those should be easy. performance implications aren't serious, so far
+END

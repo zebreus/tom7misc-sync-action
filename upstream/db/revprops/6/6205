@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-29T20:30:35.235389Z
+K 7
+svn:log
+V 288
+Fix bug with icosahedral symmetry (another misunderstanding: it is the adjacent faces, not the opposite face, that we use for the point/face rotation symmetry). But it still seems busted? Refactor to prepare for deterministic polyhedra search. Point cloud debug output. Improve status bar
+END

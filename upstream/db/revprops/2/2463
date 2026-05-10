@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-03-22T20:57:54.526440Z
+K 7
+svn:log
+V 54
+Generate PNGs directly; SVG conversion is way too slow
+END

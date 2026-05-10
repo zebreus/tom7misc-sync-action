@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-04T03:37:37.788059Z
+K 7
+svn:log
+V 99
+Migrate wikipedia lib to cc-lib, since I have used this in multiple places and it will happen again
+END

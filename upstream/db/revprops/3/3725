@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-09-30T20:07:28.839654Z
+K 7
+svn:log
+V 94
+Add performance counters for the locks. Looks like EXTEND_NODE has a huge amount of contention
+END

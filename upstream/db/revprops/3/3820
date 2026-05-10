@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-01-06T23:25:29.048147Z
+K 7
+svn:log
+V 77
+Make UI less reliant on NetworkConfiguration, so I think it is safe to vacuum
+END

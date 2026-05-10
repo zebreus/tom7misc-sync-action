@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-08T01:41:57.241161Z
+K 7
+svn:log
+V 60
+Add Johnson solids, just as vertex constants since I am lazy
+END

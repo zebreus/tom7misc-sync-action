@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-12-29T21:53:54.951285Z
+K 7
+svn:log
+V 245
+Do some cleanup and documentation. Split some utilities out of ptftwo.cc to keep it under control. Delete unused markov-controller. make testui compile, though it can probably be deleted. just initialize workers at construction time to simplify.
+END

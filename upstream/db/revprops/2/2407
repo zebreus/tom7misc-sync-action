@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-08T22:53:51.864446Z
+K 7
+svn:log
+V 56
+More thoroughly disable saving, since it keeps biting me
+END

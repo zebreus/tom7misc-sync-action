@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-12-03T16:30:06.121420Z
+K 7
+svn:log
+V 109
+Fix drum sound in proof.mid. Progress on minigame. Reformat some code. Extra correctness opportunity in song.
+END

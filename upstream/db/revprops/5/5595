@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-22T04:18:11.010093Z
+K 7
+svn:log
+V 127
+Added booleans by just implementing them in EL and IL, since it's easy and I think we benefit from being able to optimize them.
+END

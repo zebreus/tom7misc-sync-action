@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-05-07T21:10:46.450835Z
+K 7
+svn:log
+V 103
+Add debug pixel masks showing what I already knew: Player can incorrectly overlap that 45 degree floor.
+END

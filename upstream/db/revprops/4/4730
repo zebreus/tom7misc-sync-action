@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-10-02T14:29:59.741016Z
+K 7
+svn:log
+V 101
+Remove needless complexity in updateweights; opencl can optimize this expression (but not skip * 1.0)
+END

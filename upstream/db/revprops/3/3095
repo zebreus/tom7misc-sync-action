@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-20T16:40:49.739755Z
+K 7
+svn:log
+V 89
+Clean up documentation in exe.sml, and change some header entries to tidier/better values
+END

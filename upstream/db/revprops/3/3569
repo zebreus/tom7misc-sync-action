@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-30T04:08:28.304737Z
+K 7
+svn:log
+V 145
+Add fast greyscale palette mode. Plays noticeably faster, so some evidence that we're just not hitting the deadline because conversion is so slow
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-13T16:00:08.889105Z
+K 7
+svn:log
+V 74
+Refactor bitmap-sdf so that the image generatino can be called from UI too
+END

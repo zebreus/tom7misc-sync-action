@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-06-05T17:17:10.710816Z
+K 7
+svn:log
+V 221
+Some progress cleaning up redi code to allow number of nodes and indices to vary per layer. cleaned up win32-main. use cc-lib libraries instead of local copies where appropriate. doesn't compile yet; more to do in mtoz.cc
+END

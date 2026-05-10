@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-09-19T17:22:28.280353Z
+K 7
+svn:log
+V 191
+Sync misc stuff from STARTROPICS. Move MD5 in cc-lib to subdirectory before cleaning it up. Typescript elisp improvements. rtcgame tinkering. notes for getting escape to compile again in 2020
+END

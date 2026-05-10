@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-04T11:57:07.973683Z
+K 7
+svn:log
+V 229
+Much superior method for getting the final transformed points. Keep rejection reason in serialized hypercube, and use a single character for empty nodes (breaks old serialized cubes). Standardize on az/an order. A little cleanup.
+END

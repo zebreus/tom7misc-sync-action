@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-11-24T19:41:41.112700Z
+K 7
+svn:log
+V 177
+Fix issue where you gain information about which encrypted public keys correspond to the plaintext public keys once you know them. Color code some fields, and improve usability.
+END

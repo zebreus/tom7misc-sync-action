@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-05-14T21:32:22.470667Z
+K 7
+svn:log
+V 49
+Continues applying motion vector; same problem :/
+END

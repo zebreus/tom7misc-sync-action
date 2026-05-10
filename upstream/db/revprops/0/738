@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-03-17T21:54:39.437033Z
+K 7
+svn:log
+V 97
+add util/port (but probably should be in sml-lib) and linux makefile, can build genscore in smlnj
+END

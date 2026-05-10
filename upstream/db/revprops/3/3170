@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-12T21:34:45.221606Z
+K 7
+svn:log
+V 79
+Do jumps when filling the beginning of the code segment; gives about 8x speedup
+END

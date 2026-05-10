@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-30T18:28:22.839080Z
+K 7
+svn:log
+V 148
+Apparently this code needs to modify the modulus member variable as well, or we get a different set of solutions. Fix tests and restore old behavior
+END

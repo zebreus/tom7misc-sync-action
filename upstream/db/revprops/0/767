@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-05-26T16:54:59.433010Z
+K 7
+svn:log
+V 63
+dramatically improve speed of genscore for larger history sizes
+END

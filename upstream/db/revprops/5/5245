@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-23T01:30:32.935408Z
+K 7
+svn:log
+V 95
+Oh yeah, the performance problem was running the solver 10,000 times in a loop for profiling (:
+END

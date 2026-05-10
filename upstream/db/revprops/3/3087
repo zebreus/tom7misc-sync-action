@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-13T04:21:52.573275Z
+K 7
+svn:log
+V 160
+Make more of the EXE filler be printable. Break out X86 encoding and functorize it as per the perfomance TODO. This helped tremendously--9x the speed with mlton
+END

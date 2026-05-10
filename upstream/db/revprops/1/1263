@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-04-26T00:39:46.501597Z
+K 7
+svn:log
+V 84
+much nicer main menu. now to fix death and win conditions; implement level switching
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-02T03:36:01.653337Z
+K 7
+svn:log
+V 150
+Rearrange debug output so that it's computed in full, but only when enabled for that round. Improve calculation of frames to avoid dependency problem.
+END

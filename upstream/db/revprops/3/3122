@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-03T16:31:14.793595Z
+K 7
+svn:log
+V 129
+Fix bug where optimizer switched main back from init to main, ugh. Binaries don't work, but the main function did stuff, at least
+END

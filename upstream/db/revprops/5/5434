@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-12-15T05:32:00.515558Z
+K 7
+svn:log
+V 104
+Batched version of this is decent, but I should be computing square roots with some kind of algorithm...
+END

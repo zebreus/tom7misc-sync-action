@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-12-16T21:12:24.174563Z
+K 7
+svn:log
+V 63
+Fork rungames for 'chessreduce', and refactor some shared code.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-07-30T16:39:03.571897Z
+K 7
+svn:log
+V 126
+Move base64 and md5 to cc-lib. Update some style problems throughout. Use concrete width integers for chunks. Note some TODOs.
+END

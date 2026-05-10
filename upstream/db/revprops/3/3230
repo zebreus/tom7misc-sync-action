@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-04-16T21:46:22.246985Z
+K 7
+svn:log
+V 175
+Introduce edit/play mode switching. Placeholder graphics and placeholder physics module. Move mask debug drawing to render. Darken a color. Make mouse cursor a little smaller.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-01T16:45:31.859429Z
+K 7
+svn:log
+V 49
+Give base64 string_view interface; add basic test
+END

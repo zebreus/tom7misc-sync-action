@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-06-26T15:21:26.876762Z
+K 7
+svn:log
+V 152
+Seems to be problems with precision indeed. Adjusting the rounding mode helps, but I probably need to just use higher precision for intermediate values.
+END

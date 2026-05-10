@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-20T22:49:43.865043Z
+K 7
+svn:log
+V 73
+Migrate SendBuffer to cc-lib; it is standalone and useful for other stuff
+END

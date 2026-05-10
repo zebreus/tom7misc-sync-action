@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-03T22:53:14.543718Z
+K 7
+svn:log
+V 104
+Add AA SDF rendering, and improve eval/training ui with it. Also fix bug to eval on the right case, oops
+END

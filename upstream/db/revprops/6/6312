@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-15T16:09:48.533475Z
+K 7
+svn:log
+V 110
+Improve scoreboard output; by default aggregate all the failed attempts and only show the best ratio/clearance
+END

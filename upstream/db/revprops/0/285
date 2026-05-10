@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-06-08T21:13:45.407407Z
+K 7
+svn:log
+V 105
+moved javascript lib to a subdirectory, mainly for licensing reasons (js codegen stuff will go in parent)
+END

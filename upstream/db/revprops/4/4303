@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-03-07T18:00:27.117013Z
+K 7
+svn:log
+V 156
+Use ImageF for tracing too. Generate the whole character set for 'basically usable' fonts. Auto gamma adjustment... maybe good enough without hand tweaking?
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-07-26T13:36:49.106993Z
+K 7
+svn:log
+V 93
+Add 'Prev' to interval cover. HSVAtoRGBA32 util. Slow but reasonable AA circles in ImageRGBA.
+END

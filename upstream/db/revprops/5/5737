@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-24T04:17:23.968489Z
+K 7
+svn:log
+V 194
+Add some missing codepoints to PDF, since otherwise these characters have 0 width. Added a bit more text. Tried to hook up left-justified text, but I still have this problem with spans in spans.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-04-04T03:02:29.284518Z
+K 7
+svn:log
+V 342
+Cleanup/modernization. Move util to escape-util so it doesn't conflict with cc-lib's util, which is also linked/included. Got rid of some top-level stuff in escape-util, like stringlist pop stuff, which is better done with vectors anyway (this reverses some operations but it shouldn't matter). Fix include guards to avoid __RESERVED symbols.
+END

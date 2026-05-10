@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-05-23T18:48:54.852077Z
+K 7
+svn:log
+V 122
+Fix interface to connectex so that we can specify the whole range of optional parameters that mysql_real_connect supports.
+END

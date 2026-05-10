@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-12-10T15:34:09.490822Z
+K 7
+svn:log
+V 74
+Copy mirostat samplers into local code, so that they can use the local RNG
+END

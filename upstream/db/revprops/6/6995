@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-26T04:21:56.600248Z
+K 7
+svn:log
+V 79
+First phase of a simple helper to get a quick answer to a command-line failure.
+END

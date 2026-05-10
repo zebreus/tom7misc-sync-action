@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-07-25T19:43:18.815903Z
+K 7
+svn:log
+V 78
+start using tags up here so they don't waste space when checking out the trunk
+END

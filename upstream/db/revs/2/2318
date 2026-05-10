@@ -1,0 +1,2651 @@
+id: s-1738.0-2318.r2318/3
+type: file
+pred: s-1738.0.r2058/266
+count: 2
+text: 2058 8 1730 3221 d2d98db81b5b96e3f22895856b6ae38b 407ea0ab2d83a8e040dab90f117996334f4068b1 2057-1l5/_a
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12c
+cpath: /trunk/fceulib/boards/01-222.cc
+copyfrom: 2316 /trunk/fceulib/boards/01-222.cpp
+
+id: w-1738.1-2318.r2318/4
+type: file
+pred: w-1738.0-2279.r2312/99
+count: 3
+text: 2312 6 22 2598 c4a92f34b8d10acf738aaf71834aeed3 7c5b5bde85a0b35a96b5d7b2e0bb3b963b6c6874 2311-1s7/_9
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12d
+cpath: /trunk/fceulib/boards/103.cc
+copyfrom: 2316 /trunk/fceulib/boards/103.cpp
+
+id: z-1738.2-2318.r2318/5
+type: file
+pred: z-1738.0-2279.r2312/100
+count: 3
+text: 2312 7 22 2705 6f2fcffc1bc6f104544ccbebba6fd185 f57fbfc777e33aed46dbe00b758f9e5e8e5e4895 2311-1s7/_a
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12e
+cpath: /trunk/fceulib/boards/106.cc
+copyfrom: 2316 /trunk/fceulib/boards/106.cpp
+
+id: 12-1738.3-2318.r2318/6
+type: file
+pred: 12-1738.0.r2058/269
+count: 2
+text: 2058 11 1021 1509 9afb4ea5a502beb01ae7b7cabed3ab16 eea70f35b6c613cfea82eb704fb62f8d0624743a 2057-1l5/_d
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12f
+cpath: /trunk/fceulib/boards/108.cc
+copyfrom: 2316 /trunk/fceulib/boards/108.cpp
+
+id: 15-1738.4-2318.r2318/7
+type: file
+pred: 15-1738.0-2279.r2312/101
+count: 2
+text: 2312 8 22 2329 2984f52f76092a957fe06d07b86f0ae1 60e8c3cbc39d44ec139971585551bcef2608311a 2311-1s7/_b
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12g
+cpath: /trunk/fceulib/boards/112.cc
+copyfrom: 2316 /trunk/fceulib/boards/112.cpp
+
+id: 18-1738.5-2318.r2318/8
+type: file
+pred: 18-1738.0.r2058/270
+count: 2
+text: 2058 12 4121 8651 363e91961b5991fe3a758cd71b69d83a 976e604894a09e9bf136900e00a752a7ec8f80f4 2057-1l5/_e
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12h
+cpath: /trunk/fceulib/boards/116.cc
+copyfrom: 2316 /trunk/fceulib/boards/116.cpp
+
+id: 1b-1738.6-2318.r2318/9
+type: file
+pred: 1b-1738.0.r1738/440
+count: 1
+text: 1738 16 1621 2369 1c828d9fb590493e0b4d8e6e248409ca 84970b169152a4cc80fd5eb475436bb21835c786 1737-1c9/_1d
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12i
+cpath: /trunk/fceulib/boards/117.cc
+copyfrom: 2316 /trunk/fceulib/boards/117.cpp
+
+id: 1e-1738.7-2318.r2318/10
+type: file
+pred: 1e-1738.0.r2058/271
+count: 2
+text: 2058 13 997 1424 67d611c244028dc31eb2fb3a5db5605d 97e3b3f1278afff51fa65c8797b80ace15b74a94 2057-1l5/_f
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12j
+cpath: /trunk/fceulib/boards/120.cc
+copyfrom: 2316 /trunk/fceulib/boards/120.cpp
+
+id: 1h-1738.8-2318.r2318/11
+type: file
+pred: 1h-1738.0.r2058/272
+count: 2
+text: 2058 14 2133 4250 2684070c3b1311e2e5a8ab464316e235 1f9879d1b7de462f1de5bb43efb43a72d550bb94 2057-1l5/_g
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12k
+cpath: /trunk/fceulib/boards/121.cc
+copyfrom: 2316 /trunk/fceulib/boards/121.cpp
+
+id: 1k-1738.9-2318.r2318/12
+type: file
+pred: 1k-1738.0.r2058/273
+count: 2
+text: 2058 15 1187 1840 2797c841076bed2cf8666cae96a30800 f2e242e6c38c300fae80a34ca33533a56480544f 2057-1l5/_h
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12l
+cpath: /trunk/fceulib/boards/12in1.cc
+copyfrom: 2316 /trunk/fceulib/boards/12in1.cpp
+
+id: 1n-1738.a-2318.r2318/13
+type: file
+pred: 1n-1738.0-2279.r2312/102
+count: 3
+text: 2312 9 22 2612 7873e7fd0c3291923897573a5dcab535 c95636cd5f795c2dcac917bccdb44e9b0943536a 2311-1s7/_c
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12m
+cpath: /trunk/fceulib/boards/15.cc
+copyfrom: 2316 /trunk/fceulib/boards/15.cpp
+
+id: 1q-1738.b-2318.r2318/14
+type: file
+pred: 1q-1738.0.r2058/275
+count: 2
+text: 2058 17 993 1499 082b123d7ff28f612409fc6269c9de4f 777dcf385f1e0c0380d33f168dea0484c0067936 2057-1l5/_j
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12n
+cpath: /trunk/fceulib/boards/151.cc
+copyfrom: 2316 /trunk/fceulib/boards/151.cpp
+
+id: 1t-1738.c-2318.r2318/15
+type: file
+pred: 1t-1738.0-2279.r2312/103
+count: 3
+text: 2312 10 22 2650 f7818010266417313209b74938a64ee3 f2dec618f1298f1e16f19849fb530016c26b3611 2311-1s7/_d
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12o
+cpath: /trunk/fceulib/boards/156.cc
+copyfrom: 2316 /trunk/fceulib/boards/156.cpp
+
+id: 1w-1738.d-2318.r2318/16
+type: file
+pred: 1w-1738.0-2279.r2312/104
+count: 2
+text: 2312 11 22 5143 6877f44cb779adee5804e9bde3203ede 6f150af9b63936d4cc66a7c30684fe011881e309 2311-1s7/_e
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12p
+cpath: /trunk/fceulib/boards/164.cc
+copyfrom: 2316 /trunk/fceulib/boards/164.cpp
+
+id: 1z-1738.e-2318.r2318/17
+type: file
+pred: 1z-1738.0-2279.r2312/105
+count: 3
+text: 2312 12 22 1921 6b230673729ab70780b1be63b4077490 2b406851c6e4ad4fafcf0ee863fb9c0bd47e36b8 2311-1s7/_f
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12q
+cpath: /trunk/fceulib/boards/168.cc
+copyfrom: 2316 /trunk/fceulib/boards/168.cpp
+
+id: 22-1738.f-2318.r2318/18
+type: file
+pred: 22-1738.0.r2058/278
+count: 2
+text: 2058 20 1569 2578 95285fcd08f0a5157eae9f20021260b4 775bbf8942d281acfc973dd61b3d5de2f16a32ff 2057-1l5/_m
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12r
+cpath: /trunk/fceulib/boards/17.cc
+copyfrom: 2316 /trunk/fceulib/boards/17.cpp
+
+id: 25-1738.g-2318.r2318/19
+type: file
+pred: 25-1738.0.r2058/279
+count: 2
+text: 2058 21 1040 1576 5a6141726227956c6bc85dfc726ef85e b837e360f96d23459be3097f5824ad1e5b927bf3 2057-1l5/_n
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12s
+cpath: /trunk/fceulib/boards/170.cc
+copyfrom: 2316 /trunk/fceulib/boards/170.cpp
+
+id: 28-1738.h-2318.r2318/20
+type: file
+pred: 28-1738.0.r2058/280
+count: 2
+text: 2058 22 1160 1773 8039d8478166f45224483dda9757c40d c95204ac26a3f3739c051715969043405313d8b4 2057-1l5/_o
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12t
+cpath: /trunk/fceulib/boards/175.cc
+copyfrom: 2316 /trunk/fceulib/boards/175.cpp
+
+id: 2b-1738.i-2318.r2318/21
+type: file
+pred: 2b-1738.0-2279.r2312/106
+count: 3
+text: 2312 13 22 3070 8bc55c3ea886d5da9d9ad41e4a7af437 0d4f323c3b8212a4b4035adbb86909753d9ca1d0 2311-1s7/_g
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12u
+cpath: /trunk/fceulib/boards/176.cc
+copyfrom: 2316 /trunk/fceulib/boards/176.cpp
+
+id: 2e-1738.j-2318.r2318/22
+type: file
+pred: 2e-1738.0-2279.r2312/107
+count: 3
+text: 2312 14 22 1896 c5a5b1c69662beee4b5fd5246db50d51 10e2744dcf0bfddf2b9a7ce1e55855be04cf7879 2311-1s7/_h
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12v
+cpath: /trunk/fceulib/boards/177.cc
+copyfrom: 2316 /trunk/fceulib/boards/177.cpp
+
+id: 2h-1738.k-2318.r2318/23
+type: file
+pred: 2h-1738.0-2279.r2312/108
+count: 3
+text: 2312 15 22 2129 96922c44d80b60c6f6e9997698ad0c48 562c5dfdd7e38e9f767fab1eba73bd496d52f819 2311-1s7/_i
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12w
+cpath: /trunk/fceulib/boards/178.cc
+copyfrom: 2316 /trunk/fceulib/boards/178.cpp
+
+id: 2k-1738.l-2318.r2318/24
+type: file
+pred: 2k-1738.0-2279.r2312/109
+count: 3
+text: 2312 16 22 2035 75c8e67e5d309a5961671ce4e861e786 e64bf05e84c533c327cf7e79683f71fef7a75506 2311-1s7/_j
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12x
+cpath: /trunk/fceulib/boards/179.cc
+copyfrom: 2316 /trunk/fceulib/boards/179.cpp
+
+id: 2n-1738.m-2318.r2318/25
+type: file
+pred: 2n-1738.0.r2058/285
+count: 2
+text: 2058 27 1680 2866 bde539818ca17e6102f4980d326daac8 5bf70072c70b0c869aacb4e984d7488e77ab0a4a 2057-1l5/_t
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12y
+cpath: /trunk/fceulib/boards/18.cc
+copyfrom: 2316 /trunk/fceulib/boards/18.cpp
+
+id: 2q-1738.n-2318.r2318/26
+type: file
+pred: 2q-1738.0.r2058/286
+count: 2
+text: 2058 28 1663 2865 5fc074cb645df8416e3a5074cb2db2d8 92d64a10ee226c4c699b5a7fa05df6505aeb8e87 2057-1l5/_u
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_12z
+cpath: /trunk/fceulib/boards/183.cc
+copyfrom: 2316 /trunk/fceulib/boards/183.cpp
+
+id: 2t-1738.o-2318.r2318/27
+type: file
+pred: 2t-1738.0-2279.r2312/110
+count: 3
+text: 2312 17 22 2474 45498590b1add64badbb8219c39d1587 f6d4a2b6172966b33202d05e6ad2de2abb5a621e 2311-1s7/_k
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_130
+cpath: /trunk/fceulib/boards/185.cc
+copyfrom: 2316 /trunk/fceulib/boards/185.cpp
+
+id: 2w-1738.p-2318.r2318/28
+type: file
+pred: 2w-1738.0-2279.r2312/111
+count: 3
+text: 2312 18 22 2286 79ffd9ad245601650814afed50710b5d c5bffa975082f310899f3a5128543670e4b90966 2311-1s7/_l
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_131
+cpath: /trunk/fceulib/boards/186.cc
+copyfrom: 2316 /trunk/fceulib/boards/186.cpp
+
+id: 2z-1738.q-2318.r2318/29
+type: file
+pred: 2z-1738.0.r2058/289
+count: 2
+text: 2058 31 1383 2233 4bec26680a65988a8a5a81f1d0bbfde0 026c7a95cc57b4f605f50c97f10597820e0e93f6 2057-1l5/_x
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_132
+cpath: /trunk/fceulib/boards/187.cc
+copyfrom: 2316 /trunk/fceulib/boards/187.cpp
+
+id: 32-1738.r-2318.r2318/30
+type: file
+pred: 32-1738.0.r2058/290
+count: 2
+text: 2058 32 909 1384 fc326e073e6a76e78f30c3da874f7e87 587fb60822d443a089aee9548892ed7a7895d5f4 2057-1l5/_y
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_133
+cpath: /trunk/fceulib/boards/189.cc
+copyfrom: 2316 /trunk/fceulib/boards/189.cpp
+
+id: 35-1738.s-2318.r2318/31
+type: file
+pred: 35-1738.0.r2058/291
+count: 2
+text: 2058 33 1134 1741 ce173f875a11a9f220ae81adb3b14c8d 2823a6bb499d88ff551f7448a99b60eff28fd65b 2057-1l5/_z
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_134
+cpath: /trunk/fceulib/boards/193.cc
+copyfrom: 2316 /trunk/fceulib/boards/193.cpp
+
+id: 38-1738.t-2318.r2318/32
+type: file
+pred: 38-1738.0-2279.r2312/112
+count: 3
+text: 2312 19 22 2560 cd1f95ea62ebe4ddf98c5d98a3e52e2c 96be00f8b44c0ce8f69de52a1d1a6aeba818fb9d 2311-1s7/_m
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_135
+cpath: /trunk/fceulib/boards/199.cc
+copyfrom: 2316 /trunk/fceulib/boards/199.cpp
+
+id: 3b-1738.u-2318.r2318/33
+type: file
+pred: 3b-1738.0.r2058/293
+count: 2
+text: 2058 35 1274 3206 fe6a4c77dfd3b4299ae43df8367bf4e9 9a4cb8591b569e0b4a92ec04b17e384965b2cc16 2057-1l5/_11
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_136
+cpath: /trunk/fceulib/boards/208.cc
+copyfrom: 2316 /trunk/fceulib/boards/208.cpp
+
+id: 3e-1738.v-2318.r2318/34
+type: file
+pred: 3e-1738.0.r2058/294
+count: 2
+text: 2058 36 1503 2866 37b58b47c88549ebae1eff8b40d07feb 15491bbe14c09b2227f934bb004c83b56a598a22 2057-1l5/_12
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_137
+cpath: /trunk/fceulib/boards/222.cc
+copyfrom: 2316 /trunk/fceulib/boards/222.cpp
+
+id: 3h-1738.w-2318.r2318/35
+type: file
+pred: 3h-1738.0.r2058/295
+count: 2
+text: 2058 37 1267 1998 65650fac2709d001ddabdfbe10e0b3f9 f3a37a385b930820874058426fde31c640749b54 2057-1l5/_13
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_138
+cpath: /trunk/fceulib/boards/225.cc
+copyfrom: 2316 /trunk/fceulib/boards/225.cpp
+
+id: 3k-1738.x-2318.r2318/36
+type: file
+pred: 3k-1738.0.r2058/296
+count: 2
+text: 2058 38 1325 2041 3386740d45d43c76f2ef7cb31ae3367a fab65df9edf3bc3299904919b90cd20a6197276e 2057-1l5/_14
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_139
+cpath: /trunk/fceulib/boards/228.cc
+copyfrom: 2316 /trunk/fceulib/boards/228.cpp
+
+id: 3n-1738.y-2318.r2318/37
+type: file
+pred: 3n-1738.0.r2058/297
+count: 2
+text: 2058 39 1303 1844 56b4c9e9a8e1028cef9ec8340f8ef2ff 7776bd21de9f8b5aa4db92da872d14b2f923e339 2057-1l5/_15
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13a
+cpath: /trunk/fceulib/boards/230.cc
+copyfrom: 2316 /trunk/fceulib/boards/230.cpp
+
+id: 3q-1738.z-2318.r2318/38
+type: file
+pred: 3q-1738.0.r2058/298
+count: 2
+text: 2058 40 1204 1907 d93d3bdd9f29917e30ba728e1c2203a3 f704d8c400be216a55f3a56bffc3bb64f90da62e 2057-1l5/_16
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13b
+cpath: /trunk/fceulib/boards/232.cc
+copyfrom: 2316 /trunk/fceulib/boards/232.cpp
+
+id: 3t-1738.10-2318.r2318/39
+type: file
+pred: 3t-1738.0.r2058/299
+count: 2
+text: 2058 41 1204 1872 a18d2df33b9b69b2491c41d3c3cf5033 ebcd6759637efe4f305a92afff7bd65ad0e86fde 2057-1l5/_17
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13c
+cpath: /trunk/fceulib/boards/234.cc
+copyfrom: 2316 /trunk/fceulib/boards/234.cpp
+
+id: 3w-1738.11-2318.r2318/40
+type: file
+pred: 3w-1738.0.r2058/300
+count: 2
+text: 2058 42 1077 1683 878137d6de1696aaa2dc3c65325d8218 c24c09b29b75aed261ba9c0ba22376427d816365 2057-1l5/_18
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13d
+cpath: /trunk/fceulib/boards/235.cc
+copyfrom: 2316 /trunk/fceulib/boards/235.cpp
+
+id: 3z-1738.12-2318.r2318/41
+type: file
+pred: 3z-1738.0.r2058/301
+count: 2
+text: 2058 43 1189 1887 f8d00d2c267c3b5abc5b9614d27387f8 e7726e5bbe3eb4faf99cbc9dfd23d9b268f13b72 2057-1l5/_19
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13e
+cpath: /trunk/fceulib/boards/244.cc
+copyfrom: 2316 /trunk/fceulib/boards/244.cpp
+
+id: 42-1738.13-2318.r2318/42
+type: file
+pred: 42-1738.0-2279.r2312/113
+count: 3
+text: 2312 20 22 2092 d26e8e50decdd1784f0b5884e24f4b88 f4a5bc852ce233b74eb9acfb7d78df7470be240e 2311-1s7/_n
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13f
+cpath: /trunk/fceulib/boards/246.cc
+copyfrom: 2316 /trunk/fceulib/boards/246.cpp
+
+id: 45-1738.14-2318.r2318/43
+type: file
+pred: 45-1738.0-2279.r2312/114
+count: 3
+text: 2312 21 50 3473 582ee7e7c90be9cebd18671fc35f0f3b 2e6296e2c8742f0cd003b5a76d1654499101f25c 2311-1s7/_o
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13g
+cpath: /trunk/fceulib/boards/252.cc
+copyfrom: 2316 /trunk/fceulib/boards/252.cpp
+
+id: 48-1738.15-2318.r2318/44
+type: file
+pred: 48-1738.0-2279.r2312/115
+count: 3
+text: 2312 22 50 3869 c174020645b023285bdd918dc670d526 4aeaabfe7bc247b23f0b88e3def96c8b483785a3 2311-1s7/_p
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13h
+cpath: /trunk/fceulib/boards/253.cc
+copyfrom: 2316 /trunk/fceulib/boards/253.cpp
+
+id: 4b-1738.16-2318.r2318/45
+type: file
+pred: 4b-1738.0-2279.r2312/116
+count: 3
+text: 2312 23 22 3660 08ddd97d1c8fb7be602241c60de52d9f 220e3d910dc25e57e5b26d09e6dfa9a484bfaebe 2311-1s7/_q
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13i
+cpath: /trunk/fceulib/boards/28.cc
+copyfrom: 2316 /trunk/fceulib/boards/28.cpp
+
+id: 4e-1738.17-2318.r2318/46
+type: file
+pred: 4e-1738.0-2279.r2312/117
+count: 3
+text: 2312 24 22 2325 31a9559a46bfc4ed04bf05ddfb8514f1 41d29a68017afd70096f6078ac9aec856c2dfcf5 2311-1s7/_r
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13j
+cpath: /trunk/fceulib/boards/32.cc
+copyfrom: 2316 /trunk/fceulib/boards/32.cpp
+
+id: 4h-1738.18-2318.r2318/47
+type: file
+pred: 4h-1738.0.r2058/307
+count: 2
+text: 2058 49 1551 2941 2443ef6503e7febbf2c0126141c2687a 92e5e8e195634625881155d4a25b38dfa78e1240 2057-1l5/_1f
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13k
+cpath: /trunk/fceulib/boards/33.cc
+copyfrom: 2316 /trunk/fceulib/boards/33.cpp
+
+id: 4k-1738.19-2318.r2318/48
+type: file
+pred: 4k-1738.0-2279.r2312/118
+count: 3
+text: 2312 25 22 2307 5cc6ff36879f911fc54e642ac9ec004f eba6520eb5c9e445ddd3e89a90cdef94df036940 2311-1s7/_s
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13l
+cpath: /trunk/fceulib/boards/34.cc
+copyfrom: 2316 /trunk/fceulib/boards/34.cpp
+
+id: 4n-1738.1a-2318.r2318/49
+type: file
+pred: 4n-1738.0.r2058/309
+count: 2
+text: 2058 51 1401 2278 ce17d9407bb30e94e7ac750b72858f9f 57680e9ad6cdf20b74ed62550de166d87d749874 2057-1l5/_1h
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13m
+cpath: /trunk/fceulib/boards/3d-block.cc
+copyfrom: 2316 /trunk/fceulib/boards/3d-block.cpp
+
+id: 4q-1738.1b-2318.r2318/50
+type: file
+pred: 4q-1738.0.r2058/310
+count: 2
+text: 2058 52 1153 1783 9bcf990148f9f8913f3d29abb6e7c78d f3e1036d6299d1f799f322e6c45e7ef58b824704 2057-1l5/_1i
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13n
+cpath: /trunk/fceulib/boards/411120-c.cc
+copyfrom: 2316 /trunk/fceulib/boards/411120-c.cpp
+
+id: 4t-1738.1c-2318.r2318/51
+type: file
+pred: 4t-1738.0.r2058/311
+count: 2
+text: 2058 53 1448 2223 99e31bc48538c7828e12964e8980c5d3 776783f566d73dad74b4ec9993fe1097603aadaf 2057-1l5/_1j
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13o
+cpath: /trunk/fceulib/boards/43.cc
+copyfrom: 2316 /trunk/fceulib/boards/43.cpp
+
+id: 4w-1738.1d-2318.r2318/52
+type: file
+pred: 4w-1738.0.r2058/312
+count: 2
+text: 2058 54 1250 1962 13e69593ba4bc10575095562b7f7a965 784fc2a54bcde6fbb8463513bd4eda24dc66fe92 2057-1l5/_1k
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13p
+cpath: /trunk/fceulib/boards/57.cc
+copyfrom: 2316 /trunk/fceulib/boards/57.cpp
+
+id: 4z-1738.1e-2318.r2318/53
+type: file
+pred: 4z-1738.0.r2058/313
+count: 2
+text: 2058 55 897 1353 dfd811f17002166c4ee68efea9dd2346 5e313abaff7cf86aed7865a4949837510096662e 2057-1l5/_1l
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13q
+cpath: /trunk/fceulib/boards/603-5052.cc
+copyfrom: 2316 /trunk/fceulib/boards/603-5052.cpp
+
+id: 52-1738.1f-2318.r2318/54
+type: file
+pred: 52-1738.0-2279.r2312/119
+count: 3
+text: 2312 26 22 3946 1ccdb15399b6d3d6643b011c6ba51a52 8aa949d7792282dc36a96a91844cd7dffb3d7400 2311-1s7/_t
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13r
+cpath: /trunk/fceulib/boards/68.cc
+copyfrom: 2316 /trunk/fceulib/boards/68.cpp
+
+id: 55-1738.1g-2318.r2318/55
+type: file
+pred: 55-1738.0.r2058/315
+count: 2
+text: 2058 57 1140 1821 c44b3113e370e484877892c076a1c68a 22438fd9f4f9804eef2007c089035ef470c886f2 2057-1l5/_1n
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13s
+cpath: /trunk/fceulib/boards/8157.cc
+copyfrom: 2316 /trunk/fceulib/boards/8157.cpp
+
+id: 58-1738.1h-2318.r2318/56
+type: file
+pred: 58-1738.0-2279.r2312/120
+count: 3
+text: 2312 27 22 2428 e297144c3923f96b9130cc15d3d4d1ed 8aea2cc4c4f1e55fab66d385b6ed5baae93112b9 2311-1s7/_u
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13t
+cpath: /trunk/fceulib/boards/82.cc
+copyfrom: 2316 /trunk/fceulib/boards/82.cpp
+
+id: 5b-1738.1i-2318.r2318/57
+type: file
+pred: 5b-1738.0.r2058/317
+count: 2
+text: 2058 59 1839 4748 c93f168727f6b56820818240541b6355 90a15c64d0ff238d6224d0f2aa33f461922df5c1 2057-1l5/_1p
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13u
+cpath: /trunk/fceulib/boards/8237.cc
+copyfrom: 2316 /trunk/fceulib/boards/8237.cpp
+
+id: 5e-1738.1j-2318.r2318/58
+type: file
+pred: 5e-1738.0.r2058/318
+count: 2
+text: 2058 60 1171 2003 582f082c8d48cb63274e73ecf5b1450d cbd728488b651e53f61fcd8b53f3e98aa3bfdc23 2057-1l5/_1q
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13v
+cpath: /trunk/fceulib/boards/830118C.cc
+copyfrom: 2316 /trunk/fceulib/boards/830118C.cpp
+
+id: 5h-1738.1k-2318.r2318/59
+type: file
+pred: 5h-1738.0.r1738/490
+count: 1
+text: 1738 66 1337 1985 a713d8508241beedcff406fcf9e115c2 7538ab91015c5ab148c36150ed4ae7faec1ec042 1737-1c9/_5j
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13w
+cpath: /trunk/fceulib/boards/88.cc
+copyfrom: 2316 /trunk/fceulib/boards/88.cpp
+
+id: 5k-1738.1l-2318.r2318/60
+type: file
+pred: 5k-1738.0.r1738/491
+count: 1
+text: 1738 67 5612 13220 bb2b3242c993f4ce903c2b78a9b411bb 2c55dd89ed5b5f16298553d6a21d0b6c4ab690b7 1737-1c9/_5m
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13x
+cpath: /trunk/fceulib/boards/90.cc
+copyfrom: 2316 /trunk/fceulib/boards/90.cpp
+
+id: 5n-1738.1m-2318.r2318/61
+type: file
+pred: 5n-1738.0.r2058/319
+count: 2
+text: 2058 61 1307 2111 dc424b6fe20bf92425d573451f50f894 05d3aa090a9af456dabf0dc92c90cd040c5e5632 2057-1l5/_1r
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13y
+cpath: /trunk/fceulib/boards/91.cc
+copyfrom: 2316 /trunk/fceulib/boards/91.cpp
+
+id: 5q-1738.1n-2318.r2318/62
+type: file
+pred: 5q-1738.0.r1738/493
+count: 1
+text: 1738 69 1702 2699 8560703a0fb1eb73e569f02a75a1fc62 5534ff1a7766ab7ff27558e885b70100996371ad 1737-1c9/_5s
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_13z
+cpath: /trunk/fceulib/boards/95.cc
+copyfrom: 2316 /trunk/fceulib/boards/95.cpp
+
+id: 5t-1738.1o-2318.r2318/63
+type: file
+pred: 5t-1738.0.r2058/320
+count: 2
+text: 2058 62 1125 1688 7527c55a624501ed041c10d083e0ac7d 6fb919be65419641b0c98998537cbd1d4b4c3435 2057-1l5/_1s
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_140
+cpath: /trunk/fceulib/boards/96.cc
+copyfrom: 2316 /trunk/fceulib/boards/96.cpp
+
+id: 5w-1738.1p-2318.r2318/64
+type: file
+pred: 5w-1738.0.r2058/321
+count: 2
+text: 2058 63 1031 1531 f0ddc643e1f765b12abe8dc2726336cf e7260a675df8d7c948b0e9557f25dbb2d97ae604 2057-1l5/_1t
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_141
+cpath: /trunk/fceulib/boards/99.cc
+copyfrom: 2316 /trunk/fceulib/boards/99.cpp
+
+id: 62-1738.1q-2318.r2318/65
+type: file
+pred: 62-1738.0-2279.r2312/121
+count: 3
+text: 2312 28 50 2317 3d6ce3666f16a6d60940371e4c5156f0 3c9e63d380b29cd1e20ae0df76e0cfcb61293034 2311-1s7/_v
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_143
+cpath: /trunk/fceulib/boards/__dummy_mapper.cc
+copyfrom: 2316 /trunk/fceulib/boards/__dummy_mapper.cpp
+
+id: 65-1738.1r-2318.r2318/66
+type: file
+pred: 65-1738.0.r2058/323
+count: 2
+text: 2058 65 1250 1992 45afdf90d4b706af176a5585d62fb9ad e37c570ea706973477d65e8dee465ea6666ad137 2057-1l5/_1v
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_144
+cpath: /trunk/fceulib/boards/a9711.cc
+copyfrom: 2316 /trunk/fceulib/boards/a9711.cpp
+
+id: 68-1738.1s-2318.r2318/67
+type: file
+pred: 68-1738.0.r2058/324
+count: 2
+text: 2058 66 1307 3143 fc7782bf1a24ae376cdda0bc3d7ae5e7 92480e8f9df62d8c30865cca844effffe7d4e952 2057-1l5/_1w
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_145
+cpath: /trunk/fceulib/boards/a9746.cc
+copyfrom: 2316 /trunk/fceulib/boards/a9746.cpp
+
+id: 6b-1738.1t-2318.r2318/68
+type: file
+pred: 6b-1738.0.r2058/325
+count: 2
+text: 2058 67 1069 1792 dbc9aa05ef96137fb7c65b36df85bd2e daf8a6d8f00cccfa0665899ff3565aa00404a4db 2057-1l5/_1x
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_146
+cpath: /trunk/fceulib/boards/ac-08.cc
+copyfrom: 2316 /trunk/fceulib/boards/ac-08.cpp
+
+id: 6e-1738.1u-2318.r2318/69
+type: file
+pred: 6e-1738.0-2279.r2312/122
+count: 3
+text: 2312 29 22 12121 14cd83403bf4d6f8dafb2b8144621a07 fbc3814f570f1b80ee6406e0d38abdc93760e728 2311-1s7/_w
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_147
+cpath: /trunk/fceulib/boards/addrlatch.cc
+copyfrom: 2316 /trunk/fceulib/boards/addrlatch.cpp
+
+id: 6h-1738.1v-2318.r2318/70
+type: file
+pred: 6h-1738.0.r2058/327
+count: 2
+text: 2058 69 1789 3846 f685266705df3d69866cfd2fc3a14523 037f934a2f764c2102d20e53d737b16fa11eb42f 2057-1l5/_1z
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_148
+cpath: /trunk/fceulib/boards/ax5705.cc
+copyfrom: 2316 /trunk/fceulib/boards/ax5705.cpp
+
+id: 6k-1738.1w-2318.r2318/71
+type: file
+pred: 6k-1738.0-2279.r2312/123
+count: 3
+text: 2312 30 22 7176 43adce81e9fa90817e17d0557058066f 96005c2b1f18dc72cdf0d134ed4a1d2648e162cb 2311-1s7/_x
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_149
+cpath: /trunk/fceulib/boards/bandai.cc
+copyfrom: 2316 /trunk/fceulib/boards/bandai.cpp
+
+id: 6n-1738.1x-2318.r2318/72
+type: file
+pred: 6n-1738.0.r2058/329
+count: 2
+text: 2058 71 1093 1599 eee909ca8d8ef2268001bc9152951b1d ba938bdc30d6340ba26269a808f200b25b6f9ca6 2057-1l5/_21
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14a
+cpath: /trunk/fceulib/boards/bb.cc
+copyfrom: 2316 /trunk/fceulib/boards/bb.cpp
+
+id: 6q-1738.1y-2318.r2318/73
+type: file
+pred: 6q-1738.0.r2058/330
+count: 2
+text: 2058 72 1414 2577 8bbcb80707f55830fa97cc140e3debbc 81c6cf0d800e78a6b88ae4b9ba0875a107c071c0 2057-1l5/_22
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14b
+cpath: /trunk/fceulib/boards/bmc13in1jy110.cc
+copyfrom: 2316 /trunk/fceulib/boards/bmc13in1jy110.cpp
+
+id: 6t-1738.1z-2318.r2318/74
+type: file
+pred: 6t-1738.0.r2058/331
+count: 2
+text: 2058 73 1404 2132 1e5e9b9fad6a01d32c5a4444c5696356 6873130eb970c65dbd4d03045faa092a63f4542b 2057-1l5/_23
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14c
+cpath: /trunk/fceulib/boards/bmc42in1r.cc
+copyfrom: 2316 /trunk/fceulib/boards/bmc42in1r.cpp
+
+id: 6w-1738.20-2318.r2318/75
+type: file
+pred: 6w-1738.0.r2058/332
+count: 2
+text: 2058 74 1230 1987 fb1b1fa2497ba6fe0d77e23ce8c6782b 60f7f15094f31b0d9ca3ca5daa53a5f1521b0a15 2057-1l5/_24
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14d
+cpath: /trunk/fceulib/boards/bmc64in1nr.cc
+copyfrom: 2316 /trunk/fceulib/boards/bmc64in1nr.cpp
+
+id: 6z-1738.21-2318.r2318/76
+type: file
+pred: 6z-1738.0.r2058/333
+count: 2
+text: 2058 75 1468 2873 73d5cb349f219ca2e9687482d8379f30 282cc4ccbee10a7df568b66296a3592346c8f5f3 2057-1l5/_25
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14e
+cpath: /trunk/fceulib/boards/bmc70in1.cc
+copyfrom: 2316 /trunk/fceulib/boards/bmc70in1.cpp
+
+id: 72-1738.22-2318.r2318/77
+type: file
+pred: 72-1738.0.r2058/334
+count: 3
+text: 2058 76 1927 3668 ab49a561e8a0d4fa3e700e097d9a9335 b5622adde48894ee7064f4bc1a555f862d2ffea3 2057-1l5/_26
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14f
+cpath: /trunk/fceulib/boards/bonza.cc
+copyfrom: 2316 /trunk/fceulib/boards/bonza.cpp
+
+id: 75-1738.23-2318.r2318/78
+type: file
+pred: 75-1738.0.r2058/335
+count: 2
+text: 2058 77 1259 2102 2ace4ebf8052153fc2e16ebff1fa4d5d 6c56d316d0f4b1389839c1055063ccf26416acb7 2057-1l5/_27
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14g
+cpath: /trunk/fceulib/boards/bs-5.cc
+copyfrom: 2316 /trunk/fceulib/boards/bs-5.cpp
+
+id: 78-1738.24-2318.r2318/79
+type: file
+pred: 78-1738.0.r2058/336
+count: 2
+text: 2058 78 1891 3771 632e16eca33caf29eaf2d50a8f99bf76 6306d3106cb0886557a8b129f4dea3da46501947 2057-1l5/_28
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14h
+cpath: /trunk/fceulib/boards/cityfighter.cc
+copyfrom: 2316 /trunk/fceulib/boards/cityfighter.cpp
+
+id: 7b-1738.25-2318.r2318/80
+type: file
+pred: 7b-1738.0-2279.r2312/124
+count: 3
+text: 2312 31 22 2407 7688fa6162c7f90b379e6ef480e64a1b defb9e226938e19ff9b1089eacb813900b95858e 2311-1s7/_y
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14i
+cpath: /trunk/fceulib/boards/dance2000.cc
+copyfrom: 2316 /trunk/fceulib/boards/dance2000.cpp
+
+id: 7e-1738.26-2318.r2318/81
+type: file
+pred: 7e-1738.0-2279.r2312/125
+count: 2
+text: 2312 32 22 11933 dc5cc09fad68b4be0400cba6fa026c3b 207ee33d9ede9748de878f6c675721fa1bd84fb1 2311-1s7/_z
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14j
+cpath: /trunk/fceulib/boards/datalatch.cc
+copyfrom: 2316 /trunk/fceulib/boards/datalatch.cpp
+
+id: 7h-1738.27-2318.r2318/82
+type: file
+pred: 7h-1738.0.r1738/514
+count: 1
+text: 1738 90 1362 1903 98d852d78b9fc6e1910863ac38da9696 ecd45c64aea583d3b1bf6099d352cd81d94bba4c 1737-1c9/_7j
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14k
+cpath: /trunk/fceulib/boards/deirom.cc
+copyfrom: 2316 /trunk/fceulib/boards/deirom.cpp
+
+id: 7k-1738.28-2318.r2318/83
+type: file
+pred: 7k-1738.0.r2058/338
+count: 2
+text: 2058 80 910 1341 28abf81c27bfa9b834eeded164b3ca86 1a58893025fdfd2d8a313e29703822e9f9236ccb 2057-1l5/_2a
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14l
+cpath: /trunk/fceulib/boards/dream.cc
+copyfrom: 2316 /trunk/fceulib/boards/dream.cpp
+
+id: 7n-1738.29-2318.r2318/84
+type: file
+pred: 7n-1738.0-2279.r2312/126
+count: 3
+text: 2312 33 22 1920 52528acfb10cf7c629bb951160a55148 748abdfdaedcc2a8033c88eb27b4ed8c82b6914b 2311-1s7/_10
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14m
+cpath: /trunk/fceulib/boards/edu2000.cc
+copyfrom: 2316 /trunk/fceulib/boards/edu2000.cpp
+
+id: 7q-1738.2a-2318.r2318/85
+type: file
+pred: 7q-1738.0-2279.r2312/127
+count: 3
+text: 2312 34 22 3032 54f2343034b7c2dd28123e325acc642a 63b1e2fdadcb3d3d60cf0fa1acfca56665f1f811 2311-1s7/_11
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14n
+cpath: /trunk/fceulib/boards/famicombox.cc
+copyfrom: 2316 /trunk/fceulib/boards/famicombox.cpp
+
+id: 7t-1738.2b-2318.r2318/86
+type: file
+pred: 7t-1738.0-2279.r2312/128
+count: 2
+text: 2312 35 22 7417 10fde8446a50a1b17f4277bd76b189ed 97c42ee4a832c673e7a9af136c4fb27246ac154e 2311-1s7/_12
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14o
+cpath: /trunk/fceulib/boards/fk23c.cc
+copyfrom: 2316 /trunk/fceulib/boards/fk23c.cpp
+
+id: 7w-1738.2c-2318.r2318/87
+type: file
+pred: 7w-1738.0-2279.r2312/129
+count: 3
+text: 2312 36 22 2509 7d49be3051fcc7e5f87362f4c65e8864 1c4b15c6ca49edca10e117582bf7cf15eea057e3 2311-1s7/_13
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14p
+cpath: /trunk/fceulib/boards/ghostbusters63in1.cc
+copyfrom: 2316 /trunk/fceulib/boards/ghostbusters63in1.cpp
+
+id: 7z-1738.2d-2318.r2318/88
+type: file
+pred: 7z-1738.0.r2058/342
+count: 2
+text: 2058 84 1010 1559 5abf1437ba61a63d1d7462c689fe7203 230efe478b89248691eb7602f1d6ef36301a1796 2057-1l5/_2e
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14q
+cpath: /trunk/fceulib/boards/gs-2004.cc
+copyfrom: 2316 /trunk/fceulib/boards/gs-2004.cpp
+
+id: 82-1738.2e-2318.r2318/89
+type: file
+pred: 82-1738.0.r2058/343
+count: 2
+text: 2058 85 1025 1572 7d2f01f293f7f3298fe15617e79f0fc1 fa39431e2b2c159e816ea5f362200cb1d08f6cce 2057-1l5/_2f
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14r
+cpath: /trunk/fceulib/boards/gs-2013.cc
+copyfrom: 2316 /trunk/fceulib/boards/gs-2013.cpp
+
+id: 85-1738.2f-2318.r2318/90
+type: file
+pred: 85-1738.0.r2058/344
+count: 2
+text: 2058 86 1243 1947 ab15a96c4d86b1c23c80e6929c734af5 945716e3a5acfe360eb9d954533891e1f9b05ada 2057-1l5/_2g
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14s
+cpath: /trunk/fceulib/boards/h2288.cc
+copyfrom: 2316 /trunk/fceulib/boards/h2288.cpp
+
+id: 88-1738.2g-2318.r2318/91
+type: file
+pred: 88-1738.0.r1738/523
+count: 1
+text: 1738 99 1168 1583 a17acb266944c76178fea4f139eba4f6 8d9df0bd7bee34ac89693fbfa4ccf7ea991f80bf 1737-1c9/_8a
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14t
+cpath: /trunk/fceulib/boards/karaoke.cc
+copyfrom: 2316 /trunk/fceulib/boards/karaoke.cpp
+
+id: 8b-1738.2h-2318.r2318/92
+type: file
+pred: 8b-1738.0.r2058/345
+count: 2
+text: 2058 87 935 1467 899956b43518f88b68f0307fedfd8430 128cd42c25f3b39834f3b209caf2720d58d81b9c 2057-1l5/_2h
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14u
+cpath: /trunk/fceulib/boards/kof97.cc
+copyfrom: 2316 /trunk/fceulib/boards/kof97.cpp
+
+id: 8e-1738.2i-2318.r2318/93
+type: file
+pred: 8e-1738.0-2279.r2312/130
+count: 4
+text: 2312 37 65 5483 11913db18d1faad489e4c99229ef1a0c de22d95e6321ae415a7827baacc126711d85cbfc 2311-1s7/_14
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14v
+cpath: /trunk/fceulib/boards/konami-qtai.cc
+copyfrom: 2316 /trunk/fceulib/boards/konami-qtai.cpp
+
+id: 8h-1738.2j-2318.r2318/94
+type: file
+pred: 8h-1738.0-2279.r2312/131
+count: 3
+text: 2312 38 22 2011 d27cf305ff06420627f802c6c1929e8e d2fdf511fb51b69f6d6df73a4a9f90e326bac8ba 2311-1s7/_15
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14w
+cpath: /trunk/fceulib/boards/ks7012.cc
+copyfrom: 2316 /trunk/fceulib/boards/ks7012.cpp
+
+id: 8k-1738.2k-2318.r2318/95
+type: file
+pred: 8k-1738.0.r2058/348
+count: 2
+text: 2058 90 1075 1698 66abfd99599ecfd551eaf44b9e6c8afa 52d3a2d4ac67b6ffc84723acc7e1aabcbb057764 2057-1l5/_2k
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14x
+cpath: /trunk/fceulib/boards/ks7013.cc
+copyfrom: 2316 /trunk/fceulib/boards/ks7013.cpp
+
+id: 8n-1738.2l-2318.r2318/96
+type: file
+pred: 8n-1738.0-2279.r2312/132
+count: 3
+text: 2312 39 22 2778 feedc6326c1ccd20be9312350e1825c5 d1f0d0a431504f7cbfd1fa3c8dd25463ae308ea9 2311-1s7/_16
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14y
+cpath: /trunk/fceulib/boards/ks7017.cc
+copyfrom: 2316 /trunk/fceulib/boards/ks7017.cpp
+
+id: 8q-1738.2m-2318.r2318/97
+type: file
+pred: 8q-1738.0-2279.r2312/133
+count: 3
+text: 2312 40 22 3501 43703e6cba048ef98c781cd740667c4e cd9c2ec186bc715a7728c020bac99f5bc3d2f893 2311-1s7/_17
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_14z
+cpath: /trunk/fceulib/boards/ks7030.cc
+copyfrom: 2316 /trunk/fceulib/boards/ks7030.cpp
+
+id: 8t-1738.2n-2318.r2318/98
+type: file
+pred: 8t-1738.0.r2058/351
+count: 2
+text: 2058 93 1122 1848 1f731efdd901010c932dc26d1e6d9cab 90af4a87d7ffcb078dc32b6909976bcc23421fa1 2057-1l5/_2n
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_150
+cpath: /trunk/fceulib/boards/ks7031.cc
+copyfrom: 2316 /trunk/fceulib/boards/ks7031.cpp
+
+id: 8w-1738.2o-2318.r2318/99
+type: file
+pred: 8w-1738.0.r2058/352
+count: 2
+text: 2058 94 1437 2515 9cd701fe91803b17cd4f4aebf8163e4c d890c36083bd1707537cb09aae842432084fec41 2057-1l5/_2o
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_151
+cpath: /trunk/fceulib/boards/ks7032.cc
+copyfrom: 2316 /trunk/fceulib/boards/ks7032.cpp
+
+id: 8z-1738.2p-2318.r2318/100
+type: file
+pred: 8z-1738.0-2279.r2312/134
+count: 3
+text: 2312 41 22 3043 17c75429006fa8e477c1ca8a1738b549 b4b35e7a79dd061d3e7625e380945e56ea145c5f 2311-1s7/_18
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_152
+cpath: /trunk/fceulib/boards/ks7037.cc
+copyfrom: 2316 /trunk/fceulib/boards/ks7037.cpp
+
+id: 92-1738.2q-2318.r2318/101
+type: file
+pred: 92-1738.0.r2058/354
+count: 2
+text: 2058 96 1354 2942 946b2113969b3cc0f3b97f2618a350e3 154b0b7acfd1c36bfc499d70305b2d453791dfe4 2057-1l5/_2q
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_153
+cpath: /trunk/fceulib/boards/ks7057.cc
+copyfrom: 2316 /trunk/fceulib/boards/ks7057.cpp
+
+id: 95-1738.2r-2318.r2318/102
+type: file
+pred: 95-1738.0.r2058/355
+count: 2
+text: 2058 97 987 1488 a76061aee545183c20fe178132802e03 532c5c7f077dc9ca0830e101fe29f535feef6e01 2057-1l5/_2r
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_154
+cpath: /trunk/fceulib/boards/le05.cc
+copyfrom: 2316 /trunk/fceulib/boards/le05.cpp
+
+id: 98-1738.2s-2318.r2318/103
+type: file
+pred: 98-1738.0-2279.r2312/135
+count: 3
+text: 2312 42 22 1802 f29552208dff07cba052c9763c16842f dd9256d7b6e40a581a070fa2b4a55525a04cf89f 2311-1s7/_19
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_155
+cpath: /trunk/fceulib/boards/lh32.cc
+copyfrom: 2316 /trunk/fceulib/boards/lh32.cpp
+
+id: 9b-1738.2t-2318.r2318/104
+type: file
+pred: 9b-1738.0-2279.r2312/136
+count: 3
+text: 2312 43 22 2396 59cceb6faed43a0e89833004d8d83e28 3ce3be274baaf45ff69b80db7d9fa223cd2ef59d 2311-1s7/_1a
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_156
+cpath: /trunk/fceulib/boards/lh53.cc
+copyfrom: 2316 /trunk/fceulib/boards/lh53.cpp
+
+id: 9e-1738.2u-2318.r2318/105
+type: file
+pred: 9e-1738.0.r1738/537
+count: 1
+text: 1738 113 997 1303 38094f1fee93938c573368c36e836ff5 8e6d9f4feff47c3364abcdb9075a849d76956669 1737-1c9/_9g
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_157
+cpath: /trunk/fceulib/boards/malee.cc
+copyfrom: 2316 /trunk/fceulib/boards/malee.cpp
+
+id: 9k-1738.2v-2318.r2318/106
+type: file
+pred: 9k-1738.0-2279.r2312/138
+count: 3
+text: 2312 45 60 9741 b02bd44e398887b39231ce65f2ef7d6c eb9d4935bf17085f23e00eabe39af7eefdd0dcec 2311-1s7/_1c
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_159
+cpath: /trunk/fceulib/boards/mmc1.cc
+copyfrom: 2316 /trunk/fceulib/boards/mmc1.cpp
+
+id: 9n-1738.2w-2318.r2318/107
+type: file
+pred: 9n-1738.0-2279.r2312/139
+count: 3
+text: 2312 46 77 29582 6a76a1a93ecd2bf705d8f2fabf7a037c 8333962cee4fc80bab2fd2f755d6506c9c562c17 2311-1s7/_1d
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15a
+cpath: /trunk/fceulib/boards/mmc3.cc
+copyfrom: 2316 /trunk/fceulib/boards/mmc3.cpp
+
+id: 9q-1738.2x-2318.r2318/108
+type: file
+pred: 9q-1738.0.r2058/360
+count: 2
+text: 2058 102 363 612 879c9d9d31d6a5f664aa6699f269f814 e8b57510df78b46b971abf0b38735dce9e444f86 2057-1l5/_2w
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15b
+cpath: /trunk/fceulib/boards/mmc3c
+copyfrom: 2316 /trunk/fceulib/boards/mmc3.h
+
+id: 9t-1738.2y-2318.r2318/109
+type: file
+pred: 9t-1738.0-2279.r2312/140
+count: 3
+text: 2312 47 72 23696 eea0c60af602387268410e4dad3a31e6 84397ffd97bda6e6176223d5178443e680908337 2311-1s7/_1e
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15c
+cpath: /trunk/fceulib/boards/mmc5.cc
+copyfrom: 2316 /trunk/fceulib/boards/mmc5.cpp
+
+id: 9w-1738.2z-2318.r2318/110
+type: file
+pred: 9w-1738.0.r2058/362
+count: 2
+text: 2058 104 1435 2307 d058b2d89d7f4c01eaf1639947d6ff6f 445a0c0d4bd256b596e03e943cb31ed5d75b3d96 2057-1l5/_2y
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15d
+cpath: /trunk/fceulib/boards/n-c22m.cc
+copyfrom: 2316 /trunk/fceulib/boards/n-c22m.cpp
+
+id: 9z-1738.30-2318.r2318/111
+type: file
+pred: 9z-1738.0-2279.r2312/141
+count: 2
+text: 2312 48 25 9657 3547acf08f58ab15b50d934348e9e7e7 5657475ca8df87b38c117ed41d0bbd75ee076843 2311-1s7/_1f
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15e
+cpath: /trunk/fceulib/boards/n106.cc
+copyfrom: 2316 /trunk/fceulib/boards/n106.cpp
+
+id: a2-1738.31-2318.r2318/112
+type: file
+pred: a2-1738.0.r2058/363
+count: 2
+text: 2058 105 1316 2220 d5d2477b3f8f526fe5f7c766bee34ab1 bb4a707d7422ae24b7a62ea3f729a2c3317b30bf 2057-1l5/_2z
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15f
+cpath: /trunk/fceulib/boards/n625092.cc
+copyfrom: 2316 /trunk/fceulib/boards/n625092.cpp
+
+id: a5-1738.32-2318.r2318/113
+type: file
+pred: a5-1738.0.r1738/546
+count: 1
+text: 1738 122 1033 1352 1c80f140d3bd2c9d92ea99a7bbc78b48 1466f191f2fbe6c1f5ec7295ffe74c140b4e52dd 1737-1c9/_a7
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15g
+cpath: /trunk/fceulib/boards/novel.cc
+copyfrom: 2316 /trunk/fceulib/boards/novel.cpp
+
+id: a8-1738.33-2318.r2318/114
+type: file
+pred: a8-1738.0.r2058/364
+count: 2
+text: 2058 106 3761 8172 282fbf95c1b6fbdde96bb19b9c8d4e2d c0e149bb78caaf9f3498a2077be42619ed3eb99f 2057-1l5/_30
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15h
+cpath: /trunk/fceulib/boards/onebus.cc
+copyfrom: 2316 /trunk/fceulib/boards/onebus.cpp
+
+id: ab-1738.34-2318.r2318/115
+type: file
+pred: ab-1738.0-2279.r2312/142
+count: 3
+text: 2312 49 22 3376 28ab42c173658ff917796b66e4ba26d4 0c288abcac54ad99b4b2f41df7635b43d3d8b695 2311-1s7/_1g
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15i
+cpath: /trunk/fceulib/boards/pec-586.cc
+copyfrom: 2316 /trunk/fceulib/boards/pec-586.cpp
+
+id: ae-1738.35-2318.r2318/116
+type: file
+pred: ae-1738.0.r2058/366
+count: 2
+text: 2058 108 1168 1729 949ba38c8cab4449271b0f06c8448fbb f63aef36c8b8280f235798974a82e10913fa36d9 2057-1l5/_32
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15j
+cpath: /trunk/fceulib/boards/sa-9602b.cc
+copyfrom: 2316 /trunk/fceulib/boards/sa-9602b.cpp
+
+id: ah-1738.36-2318.r2318/117
+type: file
+pred: ah-1738.0.r1738/550
+count: 1
+text: 1738 126 3394 9015 74f1cd8347ca1ff9bbf49cadea672e68 4c85ddeb724a8583ec137ab4466e1e10172de168 1737-1c9/_aj
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15k
+cpath: /trunk/fceulib/boards/sachen.cc
+copyfrom: 2316 /trunk/fceulib/boards/sachen.cpp
+
+id: ak-1738.37-2318.r2318/118
+type: file
+pred: ak-1738.0-2279.r2312/143
+count: 3
+text: 2312 50 22 2870 c8ed175f355d3583ec0fc7b16afdce8f 18c8acb21f822d09116ee10e8cd7a0dd63956407 2311-1s7/_1h
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15l
+cpath: /trunk/fceulib/boards/sc-127.cc
+copyfrom: 2316 /trunk/fceulib/boards/sc-127.cpp
+
+id: an-1738.38-2318.r2318/119
+type: file
+pred: an-1738.0-2279.r2312/144
+count: 3
+text: 2312 51 22 2081 f3991c8c0e907fa8a1e1edf25cea76a0 03ac9e6b98de9cdfb613eacad0830ad5ca3b1c99 2311-1s7/_1i
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15m
+cpath: /trunk/fceulib/boards/sheroes.cc
+copyfrom: 2316 /trunk/fceulib/boards/sheroes.cpp
+
+id: aq-1738.39-2318.r2318/120
+type: file
+pred: aq-1738.0.r2058/369
+count: 2
+text: 2058 111 1752 2914 5254e7c3a7a755948a74458f5e67f8cb 90dab8009a600cacf7df8fafa77c692ae8696fe4 2057-1l5/_35
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15n
+cpath: /trunk/fceulib/boards/sl1632.cc
+copyfrom: 2316 /trunk/fceulib/boards/sl1632.cpp
+
+id: at-1738.3a-2318.r2318/121
+type: file
+pred: at-1738.0.r2058/370
+count: 2
+text: 2058 112 1312 2143 41455c46cce2f1304502fce8389aa20e 303b4d804b68f080c88f575bc5631d135373bf8f 2057-1l5/_36
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15o
+cpath: /trunk/fceulib/boards/smb2j.cc
+copyfrom: 2316 /trunk/fceulib/boards/smb2j.cpp
+
+id: aw-1738.3b-2318.r2318/122
+type: file
+pred: aw-1738.0.r2058/371
+count: 2
+text: 2058 113 1194 2123 8ce029eef649c68d715dd70ce3472db8 44e1fee2d766f8309ef390c31690d0111610e190 2057-1l5/_37
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15p
+cpath: /trunk/fceulib/boards/subor.cc
+copyfrom: 2316 /trunk/fceulib/boards/subor.cpp
+
+id: az-1738.3c-2318.r2318/123
+type: file
+pred: az-1738.0-2279.r2312/145
+count: 2
+text: 2312 52 22 2467 8a0a0a65651e287dc8a04217bef3db76 cf368cbc598e668adc4e5ddae120e0a9ba2cd54e 2311-1s7/_1j
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15q
+cpath: /trunk/fceulib/boards/super24.cc
+copyfrom: 2316 /trunk/fceulib/boards/super24.cpp
+
+id: b2-1738.3d-2318.r2318/124
+type: file
+pred: b2-1738.0.r1738/557
+count: 1
+text: 1738 133 1230 1746 b6d82b8702676e66da7a6236ae6fa65d 6cb0985c9fdcf6c8ea1005c484763fddd07e0ab8 1737-1c9/_b4
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15r
+cpath: /trunk/fceulib/boards/supervision.cc
+copyfrom: 2316 /trunk/fceulib/boards/supervision.cpp
+
+id: b5-1738.3e-2318.r2318/125
+type: file
+pred: b5-1738.0.r2058/372
+count: 2
+text: 2058 114 1524 2626 03def049df598944faf88bcef8e2bc55 9ec6d901b2a3e57f7b439d2e80f5257d49a2a4f7 2057-1l5/_38
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15s
+cpath: /trunk/fceulib/boards/t-227-1.cc
+copyfrom: 2316 /trunk/fceulib/boards/t-227-1.cpp
+
+id: b8-1738.3f-2318.r2318/126
+type: file
+pred: b8-1738.0.r2058/373
+count: 2
+text: 2058 115 1158 1820 085573ffe837491f3022a55544697d5c b72bd09c77403f1fb64fa886b9cbaf79ec51604c 2057-1l5/_39
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15t
+cpath: /trunk/fceulib/boards/t-262.cc
+copyfrom: 2316 /trunk/fceulib/boards/t-262.cpp
+
+id: bb-1738.3g-2318.r2318/127
+type: file
+pred: bb-1738.0.r1738/560
+count: 1
+text: 1738 136 2322 4265 56f66c79bc901085a04968b5bbf1a067 6f86254502d81b5d3d646391aa012e5c29f4ef06 1737-1c9/_bd
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15u
+cpath: /trunk/fceulib/boards/tengen.cc
+copyfrom: 2316 /trunk/fceulib/boards/tengen.cpp
+
+id: be-1738.3h-2318.r2318/128
+type: file
+pred: be-1738.0.r2058/374
+count: 2
+text: 2058 116 1679 2790 e1bbb81eb724f7d261a47a4b2de35a7a d140505aeab50a141373094fe879e1aaecee74d3 2057-1l5/_3a
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15v
+cpath: /trunk/fceulib/boards/tf-1201.cc
+copyfrom: 2316 /trunk/fceulib/boards/tf-1201.cpp
+
+id: bh-1738.3i-2318.r2318/129
+type: file
+pred: bh-1738.0-2279.r2312/146
+count: 3
+text: 2312 53 22 2637 5c3d56992f19b4a7b68c719d4b6fe9af 916e3a89f2b237a98f7d4fbec6482e6e8456160d 2311-1s7/_1k
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15w
+cpath: /trunk/fceulib/boards/transformer.cc
+copyfrom: 2316 /trunk/fceulib/boards/transformer.cpp
+
+id: bk-1738.3j-2318.r2318/130
+type: file
+pred: bk-1738.0-2279.r2312/147
+count: 3
+text: 2312 54 22 6823 34e6cfd5ef4f589ed0a8f14e969a1a0e df3446fdf5e5d84a89633689058d3f2ad029adf6 2311-1s7/_1l
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15x
+cpath: /trunk/fceulib/boards/vrc2and4.cc
+copyfrom: 2316 /trunk/fceulib/boards/vrc2and4.cpp
+
+id: bn-1738.3k-2318.r2318/131
+type: file
+pred: bn-1738.0.r2058/377
+count: 2
+text: 2058 119 1659 3067 9010077f62106e00242c7dc008d995d4 840262f86c1afff903518942940dab9de554d4ee 2057-1l5/_3d
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15y
+cpath: /trunk/fceulib/boards/vrc7.cc
+copyfrom: 2316 /trunk/fceulib/boards/vrc7.cpp
+
+id: bq-1738.3l-2318.r2318/132
+type: file
+pred: bq-1738.0-2279.r2312/148
+count: 3
+text: 2312 55 22 6385 0ac6653ee709f63e5cf060e65108a54e bd85ba90d7ef495d67c70e110dfa81f6b6bdf71f 2311-1s7/_1m
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_15z
+cpath: /trunk/fceulib/boards/yoko.cc
+copyfrom: 2316 /trunk/fceulib/boards/yoko.cpp
+
+DELTA 2314 10 65
+SVN ØT±uï+Ä±pØO±pK 9
+01-222.cc
+V 26
+file s-1738.0-2318.r ™/3
+K 6
+103+ w+ 1+ 4+ 6+ z+ 2+ 5+ 8+ 7Å "12, 3, 6, 1≠ , 5, 4, 7, É , 8, 5, 8, 7Ñ b, 6, 9, #20, 8∞ e, 7, #10- 1- h- 8- ¨1
+K 8
+12in/ k/ 9/ ã2
+K 5
+15[ n, a, ª5Y q- b- Ω5:‚ t- c- ø+64á d- ¿6ÏZ e-  ¡%5
+î, 2f, ¡7ï2g- ¬7:2h- 2¬72i-  ¬L6
+17¥ j-  ¿ - 2k- ¡*79g2l-  ¡<5
+1Y m, ¿8’gn- ¿8:o-  ¿L6
+18:p- ¡8:q- ¡83r- 3¡9· 3s- ¡9Z t- ¡+20h3u- ¡hh3v-  ¡ - h3w- ¬,22á x- ¬+23)3y- ¬$23o¥ z- ¬$23	931K√$23‚ . 1Nƒ,24\ 1Q4≈$24y\ 41S4∆5Â .  1U4«5N. !1W4»%5
+ö- !1X4»%5
+m- !1Y4»<5
+3á !1Y!47*ö4!1W4»≥11
+3d-blockpé (1_4Œ≥11
+411120-cK4 /1f5‘<5
+4¬ /	f5”45
+5Z .	f5“ù11
+603-50ÿ4	m5ÿ%5
+ôa 53	n5◊L7
+81ê 54	p5Ÿ8a53	p5Ÿ[7
+823Ï 55	r5€™10
+830118Cy5;	x5·45
+8/Î ;	x5⁄45
+9/- ;	x6”9e- 4	y6”95-n]6”;5
+9“5-	y6Ãƒá -	y6Ã˙17
+__dummy_mapperH6	Ü6◊k8
+a971Ò 6rƒ  ⁄0 ô6
+	å6€U8
+ac-a  6	è6ÿÀ12
+addrlatch≈ 	ó6‡{9
+ax570ä6	õ7‰ã9
+bandaib k 
+1ü7Ë+bb- 	ü7Ë˚ 16
+bmc13in1jy11{6!	´7Ù 129 4@¬)	≥7¸35 l64in1n6 22ª7¯ 116 &70´ú_2¡7¸áboards.hh^4h1279h 4/î - :nza57â27)[7
+bs-¬"75ë2Ò7(º4
+cityfightÔ7è2ú ˝7ñ ª12
+dance200ó7î2$805 /taî 7î2	82ã9
+deiromî286l8
+drea0 ì28-_0
+edu…  ô28+´famicomboxô ñ28+k8
+fk237ë28'˝20
+ghostbusters63d7ò	$8õ10
+gs-200*	7ó	*83 1ä8m	)8\8
+h22A8n	,9ö0
+karaoke68j	09 k8
+kof98e	39ˇÃ14
+konami-qtô8g	;9e9
+ks70P≈8g	991 ,h	=9ˇ1   f	A9 1 3`8a	E9Ù1 Ö8b	I9Ú1 ê8Vo∂91 ƒ "30⁄8Tp1  10Ú2  	2 9S	I 10ÒD7
+leÉ0 Srb  ÒD7
+lh,0 P	I 10Í 0 ∂0 P	I 10Èc8
+male±1 J	E 10È 1 BpincﬂJ9J‡@2/13∑S7
+mmcµ` H	t 100 x0 G	s 10` 6` 3é 4≤9Eì0.r2058/3≤	@mmc3˝W ( 2ù 10=á i0 l	î"10<Sn-c22ô2 m	ë1057
+n90 l3ã 11:ì10
+n62509—4 an)31>1>r8
+novelè1 o3_ 11?ã9
+onebus2 q3b 11AÑ10
+pec-5 f u3_ 11D£11
+sa-9602/	5 y3_ 11ã9
+sachenõ z3\ 11{9
+sc-12–a}3] 11ˆú10
+sheroeÅ3a"11˙Lsl16§a\3`1h{8
+smb2j… ]3[ 12˚c8
+subo∑	,\3\ 12¯ » Super2 4 `	S 12˚"144 [visiofbd	X#12t˜-Âbg	Y 12k8
+t-26…bf	Z"12˝Lteng˝bd	Y 12˝ú10
+tf-120ó c	]!12ˇ¥4
+transform/
+;bi	^ 12´11
+vrc2andpbl	b1≠74 úbh	a 13j7
+yoko5bfl¸P8/132ENDREP
+id: r-1738.0-2279.r2318/134
+type: dir
+pred: r-1738.0-2279.r2314/11
+count: 6
+text: 2318 133 2750 6389 a37732cc08e9c04c4b83ef4f672d5995 - -
+cpath: /trunk/fceulib/boards
+copyroot: 2279 /trunk/fceulib
+
+id: d6-1738.3m-2318.r2318/135
+type: file
+pred: d6-1738.0.r2058/391
+count: 2
+text: 2058 131 1550 2702 2bece1c639327abae2f63910810d0294 73da778d038dc1d04337e5cb15e9b72fcf2987ba 2057-1l5/_3r
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_16f
+cpath: /trunk/fceulib/drivers/common/args.cc
+copyfrom: 2316 /trunk/fceulib/drivers/common/args.cpp
+
+id: dc-1738.3n-2318.r2318/136
+type: file
+pred: dc-1738.0.r2058/393
+count: 2
+text: 2058 133 5145 9947 2b495ce78d73b12f170fb1a694abdc4a 068ffaefc7521d378bc1ff10b682838eddf64e11 2057-1l5/_3t
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_16h
+cpath: /trunk/fceulib/drivers/common/cheat.cc
+copyfrom: 2316 /trunk/fceulib/drivers/common/cheat.cpp
+
+id: du-1738.3o-2318.r2318/137
+type: file
+pred: du-1738.0-2279.r2312/158
+count: 3
+text: 2312 63 25 54506 2c6340dfe64a0a130acd34f1deef8458 63ed4f97cc4d54278e862af06379a6f65557d093 2311-1s7/_1w
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_16n
+cpath: /trunk/fceulib/drivers/common/hq2x.cc
+copyfrom: 2316 /trunk/fceulib/drivers/common/hq2x.cpp
+
+id: e0-1738.3p-2318.r2318/138
+type: file
+pred: e0-1738.0.r2058/397
+count: 2
+text: 2058 137 11221 72625 f55b660599a5b5e0cad78435b64ad80b de64439fc9be1d7f9f3f0503cb6282a632489cd4 2057-1l5/_3x
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_16p
+cpath: /trunk/fceulib/drivers/common/hq3x.cc
+copyfrom: 2316 /trunk/fceulib/drivers/common/hq3x.cpp
+
+id: ei-1738.3q-2318.r2318/139
+type: file
+pred: ei-1738.0.r2058/399
+count: 2
+text: 2058 139 4634 24345 2fd4ac6bc36102979a8134d957607263 54f64e2e5dd0d14f9c045b4013af853fecc87efa 2057-1l5/_3z
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_16v
+cpath: /trunk/fceulib/drivers/common/scale2x.cc
+copyfrom: 2316 /trunk/fceulib/drivers/common/scale2x.cpp
+
+id: eo-1738.3r-2318.r2318/140
+type: file
+pred: eo-1738.0.r2058/401
+count: 2
+text: 2058 141 2119 11475 e97f1f4e4488d2e0d106f29c9600baa6 1cdf443515c614042eec327af0e3c0cdf6c2d70b 2057-1l5/_41
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_16x
+cpath: /trunk/fceulib/drivers/common/scale3x.cc
+copyfrom: 2316 /trunk/fceulib/drivers/common/scale3x.cpp
+
+id: eu-1738.3s-2318.r2318/141
+type: file
+pred: eu-1738.0.r2058/403
+count: 2
+text: 2058 143 3685 14246 db0fb6100549c031b067ab5f0be83577 60c380ab9fd71e14ab37e7791e4c1545df0fe4a7 2057-1l5/_43
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_16z
+cpath: /trunk/fceulib/drivers/common/scalebit.cc
+copyfrom: 2316 /trunk/fceulib/drivers/common/scalebit.cpp
+
+id: f0-1738.3t-2318.r2318/142
+type: file
+pred: f0-1738.0-2279.r2312/160
+count: 3
+text: 2312 65 244 18897 6bed646f1271a0b2c0bbede8a9d46812 cf905c2d9543184e669fce4efa401482d3a90a51 2311-1s7/_1y
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_171
+cpath: /trunk/fceulib/drivers/common/vidblit.cc
+copyfrom: 2316 /trunk/fceulib/drivers/common/vidblit.cpp
+
+DELTA 2312 161 114
+SVN áá5Ç@ÄÇ< ÅuÇ-ÄÇS1ÜfÖK 7
+args.cc
+V 30
+file d6-1738.3m-2318.r Ç/135
+K 60 ch
+V 24/ 9/ ˚0.r2058/392
+K 8
+cheatZ c+ *3nZ  6
+ä 1 	[ f0 [ 4* Khq2xZ u* *3oZ 7¥ 0 	Y x/ Y É ;hq3Y "e0* *3pY å80
+scaleâ #ei0 q0 U9
+K 93 å "el2 å s400
+K 1` ê o. )3r` 44 ` 3` r2 `  †"11ç +bi§eJsa 1ï  5 	√ O 40®å10
+vidblb fStb P8/142ENDREP
+id: d0-1738.0-2279.r2318/144
+type: dir
+pred: d0-1738.0-2279.r2312/162
+count: 6
+text: 2318 143 347 949 282533f71aede4494ee361ffac46481c - -
+cpath: /trunk/fceulib/drivers/common
+copyroot: 2279 /trunk/fceulib
+
+DELTA
+SVN  12±1K 6
+common
+V 28
+dir d0-1738.0-2279.r2318/144
+END
+ENDREP
+id: cz-1738.0-2279.r2318/146
+type: dir
+pred: cz-1738.0-2279.r2312/164
+count: 8
+text: 2318 145 61 49 cb58aa4b7f4eedf4fc0263c977ef8fcc - -
+cpath: /trunk/fceulib/drivers
+copyroot: 2279 /trunk/fceulib
+
+id: nm-1738.3u-2318.r2318/147
+type: file
+pred: nm-1738.0.r2058/435
+count: 2
+text: 2058 169 1345 2269 345fbedb42e1104686b9335ad81c4977 b53805d5d104db95a560d06d6fd8e43640931ac4 2057-1l5/_4v
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_19t
+cpath: /trunk/fceulib/input/arkanoid.cc
+copyfrom: 2316 /trunk/fceulib/input/arkanoid.cpp
+
+id: np-1738.3v-2318.r2318/148
+type: file
+pred: np-1738.0.r2058/436
+count: 2
+text: 2058 170 1196 1750 c2a383fee299e1c30fe10dafa808ccb5 f17cc77b67f9762d382225e1c6ff4eb6d538f0b3 2057-1l5/_4w
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_19u
+cpath: /trunk/fceulib/input/bworld.cc
+copyfrom: 2316 /trunk/fceulib/input/bworld.cpp
+
+id: ns-1738.3w-2318.r2318/149
+type: file
+pred: ns-1738.0.r2058/437
+count: 2
+text: 2058 171 677 1660 a78aee2e964ba4f2cda7eaea7b1602a8 344200018c1b85c77a48b3928772deede38afc13 2057-1l5/_4x
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_19v
+cpath: /trunk/fceulib/input/cursor.cc
+copyfrom: 2316 /trunk/fceulib/input/cursor.cpp
+
+id: nv-1738.3x-2318.r2318/150
+type: file
+pred: nv-1738.0.r2058/438
+count: 2
+text: 2058 172 1657 2539 4c780ac163fac0624a3b0f103233c22a cecaccfd0ec7457cd365749fe0094c400e7006c5 2057-1l5/_4y
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_19w
+cpath: /trunk/fceulib/input/fkb.cc
+copyfrom: 2316 /trunk/fceulib/input/fkb.cpp
+
+id: o1-1738.3y-2318.r2318/151
+type: file
+pred: o1-1738.0.r2058/440
+count: 2
+text: 2058 174 1017 1665 ef045e58310359b8dbb2d8d8db95b04a 16b6e7eca1a16e6d43d4a953e1a94fbfbaf1134a 2057-1l5/_50
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_19y
+cpath: /trunk/fceulib/input/ftrainer.cc
+copyfrom: 2316 /trunk/fceulib/input/ftrainer.cpp
+
+id: o4-1738.3z-2318.r2318/152
+type: file
+pred: o4-1738.0.r2058/441
+count: 2
+text: 2058 175 830 1235 8ee60d6bfe8b55cc2f3a3dc6f591479f 26be60e115ef1c6db893877655c416d83e365783 2057-1l5/_51
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_19z
+cpath: /trunk/fceulib/input/hypershot.cc
+copyfrom: 2316 /trunk/fceulib/input/hypershot.cpp
+
+id: o7-1738.40-2318.r2318/153
+type: file
+pred: o7-1738.0.r2058/442
+count: 2
+text: 2058 176 1236 1760 aa4d178eaa3302d6a436e754945b5711 df5fca570f4a4c2157e246d0cd9e35c4c70d1c36 2057-1l5/_52
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1a0
+cpath: /trunk/fceulib/input/mahjong.cc
+copyfrom: 2316 /trunk/fceulib/input/mahjong.cpp
+
+id: oa-1738.41-2318.r2318/154
+type: file
+pred: oa-1738.0.r2058/443
+count: 2
+text: 2058 177 1153 1905 71e4b6de88777d7489dc7b14826d1f20 35e9b575a73059203445ae24ff4d5801672cf12c 2057-1l5/_53
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1a1
+cpath: /trunk/fceulib/input/mouse.cc
+copyfrom: 2316 /trunk/fceulib/input/mouse.cpp
+
+id: od-1738.42-2318.r2318/155
+type: file
+pred: od-1738.0.r2058/444
+count: 2
+text: 2058 178 1248 1906 c243b80f952322d27a9defbd4d7f30fe 4267d7e50f83a0ad49580dc1757ed7d738762e4c 2057-1l5/_54
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1a2
+cpath: /trunk/fceulib/input/oekakids.cc
+copyfrom: 2316 /trunk/fceulib/input/oekakids.cpp
+
+id: og-1738.43-2318.r2318/156
+type: file
+pred: og-1738.0.r2058/445
+count: 2
+text: 2058 179 1211 2040 99789c4ec83aa1aeb7e2d45b01190b6f daf4656a26371b53408eba50b9c9fb6011156a37 2057-1l5/_55
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1a3
+cpath: /trunk/fceulib/input/powerpad.cc
+copyfrom: 2316 /trunk/fceulib/input/powerpad.cpp
+
+id: oj-1738.44-2318.r2318/157
+type: file
+pred: oj-1738.0.r2058/446
+count: 2
+text: 2058 180 1112 1620 cad3bd5d4c6803725adfe2d18669b7ba 7ef8a13e7ac61e5783aa56a7e7fcc865a1d0a4f9 2057-1l5/_56
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1a4
+cpath: /trunk/fceulib/input/quiz.cc
+copyfrom: 2316 /trunk/fceulib/input/quiz.cpp
+
+id: om-1738.45-2318.r2318/158
+type: file
+pred: om-1738.0.r2058/447
+count: 2
+text: 2058 181 1920 2887 382b8f0f6972210e2458b51857e0ad9f 34ebdfcc82621c7874db2ea266b5ba1a553e3825 2057-1l5/_57
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1a5
+cpath: /trunk/fceulib/input/shadow.cc
+copyfrom: 2316 /trunk/fceulib/input/shadow.cpp
+
+id: os-1738.46-2318.r2318/159
+type: file
+pred: os-1738.0.r1738/732
+count: 1
+text: 1738 270 1299 2113 a7f9310e8ac4503261ab86ad3f3d7ee9 e96e210125f8b82bf35137c20b9d79703ebc3b5f 1737-1c9/_ou
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1a7
+cpath: /trunk/fceulib/input/suborkb.cc
+copyfrom: 2316 /trunk/fceulib/input/suborkb.cpp
+
+id: oy-1738.47-2318.r2318/160
+type: file
+pred: oy-1738.0.r2058/449
+count: 2
+text: 2058 183 956 1370 206f7d91f6f2099b81d2c9cb64540e79 82442d92098f96fa1eb51b73fe5c1e2fedcadcb0 2057-1l5/_59
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1a9
+cpath: /trunk/fceulib/input/toprider.cc
+copyfrom: 2316 /trunk/fceulib/input/toprider.cpp
+
+id: p1-1738.48-2318.r2318/161
+type: file
+pred: p1-1738.0.r2058/450
+count: 2
+text: 2058 184 2522 4455 71f8307f153c9dbc556e01ad4fca83f0 46ce1c9e973d1e9d335b0fcae01b05838ade8384 2057-1l5/_5a
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1aa
+cpath: /trunk/fceulib/input/zapper.cc
+copyfrom: 2316 /trunk/fceulib/input/zapper.cpp
+
+DELTA 2058 452 342
+SVN Üeá,ÉHÄÜ|0Ü5Ü|K 11
+arkanoid.cc
+V 30
+file nm-1738.3u-2318.r Ï/147
+K 9
+bworl2 p2 v2 82 kcursord s2 w2 õ9
+K 6
+fkb/ v/ x/ a50
+K 5/ ch
+V 24¡ y. †0.r2058/43W ´11
+ftraineå "o1/ *3y] ˙1
+K 12
+hypershotì #o46 z6 26 õ0
+mahjong4 74 *404 ª3
+K 8
+mouse1 a1 11 4e ´1
+oekakids5 d5 25 55 {powerpa√#og5 35 ´6
+K 7
+quize j0 40 %kshadow2 W*452  %y7
+share∆oU∆4* å10
+subor"oQ*46^  ˙93 	` T00.rÔ0/73áù11
+toprid&U)47a 6Él9
+zapp2 pX&482 P8/161ENDREP
+id: nh-1738.0-2279.r2318/163
+type: dir
+pred: nh-1738.0.r2058/453
+count: 3
+text: 2318 162 475 940 d5ca94d6988eeb2c0dc254a5f549a291 - -
+cpath: /trunk/fceulib/input
+copyroot: 2279 /trunk/fceulib
+
+id: ur-1738.49-2318.r2318/164
+type: file
+pred: ur-1738.0.r1738/809
+count: 1
+text: 1738 340 3597 7596 70433576c3329c7ce5fa98664486c4fd 02c4f1c8e401c396139761116638c64c6f5439e2 1737-1c9/_uu
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1c5
+cpath: /trunk/fceulib/mappers/24and26.cc
+copyfrom: 2316 /trunk/fceulib/mappers/24and26.cpp
+
+id: uv-1738.4a-2318.r2318/165
+type: file
+pred: uv-1738.0.r1738/810
+count: 1
+text: 1738 341 1117 1465 2b75cd020c21876acb99b860f66f7554 ba2c200d80b64ce64986ec497b6bb0f8c75de3b8 1737-1c9/_ux
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1c6
+cpath: /trunk/fceulib/mappers/40.cc
+copyfrom: 2316 /trunk/fceulib/mappers/40.cpp
+
+id: uy-1738.4b-2318.r2318/166
+type: file
+pred: uy-1738.0.r1738/811
+count: 1
+text: 1738 342 1054 1364 9ddcb05f9c97e346724ff0e2d410a9cf 0536bd9d55bf1e9094930f9d435c9d20dae951c1 1737-1c9/_v0
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1c7
+cpath: /trunk/fceulib/mappers/41.cc
+copyfrom: 2316 /trunk/fceulib/mappers/41.cpp
+
+id: v1-1738.4c-2318.r2318/167
+type: file
+pred: v1-1738.0.r1738/812
+count: 1
+text: 1738 343 1241 1710 4e568f9dd2552c47c15b764450ddd4a6 bf9d63b3732ca3b206f03c90279a03e30e5553b7 1737-1c9/_v3
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1c8
+cpath: /trunk/fceulib/mappers/42.cc
+copyfrom: 2316 /trunk/fceulib/mappers/42.cpp
+
+id: v4-1738.4d-2318.r2318/168
+type: file
+pred: v4-1738.0.r1738/813
+count: 1
+text: 1738 344 978 1326 555d79808028b4aa0a219eced4242b77 cf5281417027f454f8f5b05f8973a15ed90f6912 1737-1c9/_v6
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1c9
+cpath: /trunk/fceulib/mappers/46.cc
+copyfrom: 2316 /trunk/fceulib/mappers/46.cpp
+
+id: v7-1738.4e-2318.r2318/169
+type: file
+pred: v7-1738.0.r1738/814
+count: 1
+text: 1738 345 1217 1637 1cb9f8e1486e55bd9667fc6eaf5a0a05 5c18baacca098e00f075c4b28c498f82474b9832 1737-1c9/_v9
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1ca
+cpath: /trunk/fceulib/mappers/50.cc
+copyfrom: 2316 /trunk/fceulib/mappers/50.cpp
+
+id: va-1738.4f-2318.r2318/170
+type: file
+pred: va-1738.0.r1738/815
+count: 1
+text: 1738 346 1197 1590 b24d30c8688cd9c4d17683e8cfd85b5f deb5d21b4bde97560c649d725dac3d30392ee206 1737-1c9/_vc
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cb
+cpath: /trunk/fceulib/mappers/51.cc
+copyfrom: 2316 /trunk/fceulib/mappers/51.cpp
+
+id: vd-1738.4g-2318.r2318/171
+type: file
+pred: vd-1738.0.r1738/816
+count: 1
+text: 1738 347 1628 2502 c9c158e68af468723622f4daef03e460 afdf308d3c067cbdd03b9d1d71c65b0387e45fbe 1737-1c9/_vf
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cc
+cpath: /trunk/fceulib/mappers/6.cc
+copyfrom: 2316 /trunk/fceulib/mappers/6.cpp
+
+id: vg-1738.4h-2318.r2318/172
+type: file
+pred: vg-1738.0.r1738/817
+count: 1
+text: 1738 348 1073 1461 8ff1732d548c9e77c1f75dd2f65e7ada 0967d2c3501bc362d03a1f26c5e43970a9224ab4 1737-1c9/_vi
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cd
+cpath: /trunk/fceulib/mappers/61.cc
+copyfrom: 2316 /trunk/fceulib/mappers/61.cpp
+
+id: vj-1738.4i-2318.r2318/173
+type: file
+pred: vj-1738.0.r1738/818
+count: 1
+text: 1738 349 966 1229 bcd5216306156526c9b0e0ffd76cc124 797ecc35ed9b0b1f1a40c5ac3ea263b3911c593e 1737-1c9/_vl
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1ce
+cpath: /trunk/fceulib/mappers/62.cc
+copyfrom: 2316 /trunk/fceulib/mappers/62.cpp
+
+id: vm-1738.4j-2318.r2318/174
+type: file
+pred: vm-1738.0.r1738/819
+count: 1
+text: 1738 350 1394 2187 7ad064334f82d7660f11756d3b0264b9 a7d68d934ef850adde1caacfe7101fac9b37a7c5 1737-1c9/_vo
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cf
+cpath: /trunk/fceulib/mappers/65.cc
+copyfrom: 2316 /trunk/fceulib/mappers/65.cpp
+
+id: vp-1738.4k-2318.r2318/175
+type: file
+pred: vp-1738.0.r1738/820
+count: 1
+text: 1738 351 1310 1937 d3ac0369347281f9545fc813f40bad90 ab12c1eebb516eb47c4cf248ce1424371988c487 1737-1c9/_vr
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cg
+cpath: /trunk/fceulib/mappers/67.cc
+copyfrom: 2316 /trunk/fceulib/mappers/67.cpp
+
+id: vs-1738.4l-2318.r2318/176
+type: file
+pred: vs-1738.0.r1738/821
+count: 1
+text: 1738 352 2867 5859 0f59b48330b5155ffbbddb1594617006 1ddaa905b760fc777a2d5d439c41873f33f02854 1737-1c9/_vu
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1ch
+cpath: /trunk/fceulib/mappers/69.cc
+copyfrom: 2316 /trunk/fceulib/mappers/69.cpp
+
+id: vv-1738.4m-2318.r2318/177
+type: file
+pred: vv-1738.0.r1738/822
+count: 1
+text: 1738 353 907 1103 49394ba8f7a07481500a8215f42c172c 00dc1ae49747563284bb279bf0af907ce4abe1a8 1737-1c9/_vx
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1ci
+cpath: /trunk/fceulib/mappers/71.cc
+copyfrom: 2316 /trunk/fceulib/mappers/71.cpp
+
+id: vy-1738.4n-2318.r2318/178
+type: file
+pred: vy-1738.0.r1738/823
+count: 1
+text: 1738 354 875 1049 899563082a7c0c22e87ffc572ce70c31 67b9bc55e1180146a7230f7025c1edea440802c2 1737-1c9/_w0
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cj
+cpath: /trunk/fceulib/mappers/72.cc
+copyfrom: 2316 /trunk/fceulib/mappers/72.cpp
+
+id: w1-1738.4o-2318.r2318/179
+type: file
+pred: w1-1738.0.r2058/456
+count: 2
+text: 2058 188 238 2208 b8162001f898991b4e2ce761e5a36071 c645b3313289eacccbc09cfecd916f8d00b8930a 2057-1l5/_5f
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1ck
+cpath: /trunk/fceulib/mappers/73.cc
+copyfrom: 2316 /trunk/fceulib/mappers/73.cpp
+
+id: w4-1738.4p-2318.r2318/180
+type: file
+pred: w4-1738.0.r1738/825
+count: 1
+text: 1738 356 1080 1489 ca39f0918ad1eaaae1d014affac58931 cd4460a2ad492ecd639fcf570c751917f767f735 1737-1c9/_w6
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cl
+cpath: /trunk/fceulib/mappers/75.cc
+copyfrom: 2316 /trunk/fceulib/mappers/75.cpp
+
+id: w7-1738.4q-2318.r2318/181
+type: file
+pred: w7-1738.0.r1738/826
+count: 1
+text: 1738 357 1076 1687 3601292a1a1f5d3df5242d4b4466078b cb3ce58783e171ca0832b4e3b78e5fb367266142 1737-1c9/_w9
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cm
+cpath: /trunk/fceulib/mappers/76.cc
+copyfrom: 2316 /trunk/fceulib/mappers/76.cpp
+
+id: wa-1738.4r-2318.r2318/182
+type: file
+pred: wa-1738.0.r1738/827
+count: 1
+text: 1738 358 1046 1386 c7352611e7d9b92346d25167442f7b99 66e79623d698ad32c9fe4ceaac1b753898e14e0d 1737-1c9/_wc
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cn
+cpath: /trunk/fceulib/mappers/77.cc
+copyfrom: 2316 /trunk/fceulib/mappers/77.cpp
+
+id: wd-1738.4s-2318.r2318/183
+type: file
+pred: wd-1738.0.r1738/828
+count: 1
+text: 1738 359 930 1144 915219094d5130294b281ad3bc6c4aa9 9a9f7c43e45d2f9250a228114cc469be4eeeef05 1737-1c9/_wf
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1co
+cpath: /trunk/fceulib/mappers/79.cc
+copyfrom: 2316 /trunk/fceulib/mappers/79.cpp
+
+id: wg-1738.4t-2318.r2318/184
+type: file
+pred: wg-1738.0.r2058/457
+count: 2
+text: 2058 189 25 2397 a29cf236f5f29f08b8806d627b2996da b5c567eb46e8e7dff31d2e77badbb2fa1d48ca1c 2057-1l5/_5g
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cp
+cpath: /trunk/fceulib/mappers/80.cc
+copyfrom: 2316 /trunk/fceulib/mappers/80.cpp
+
+id: wj-1738.4u-2318.r2318/185
+type: file
+pred: wj-1738.0.r1738/830
+count: 1
+text: 1738 361 2566 4398 f25d8f6ff444ac02d0026d2aaf71be74 f49b4daa5726375d92ad77421d2b714650a4ba90 1737-1c9/_wl
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cq
+cpath: /trunk/fceulib/mappers/85.cc
+copyfrom: 2316 /trunk/fceulib/mappers/85.cpp
+
+id: wy-1738.4v-2318.r2318/186
+type: file
+pred: wy-1738.0.r1738/835
+count: 1
+text: 1738 366 1461 2793 a1aead7d3d9c76856a3af134a9119d6e d9a175198ef8104e1ffc300814efa82f6a10e366 1737-1c9/_x0
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1cv
+cpath: /trunk/fceulib/mappers/mmc2and4.cc
+copyfrom: 2316 /trunk/fceulib/mappers/mmc2and4.cpp
+
+DELTA 2312 178 71
+SVN àIâ<ÉÄáx Åá
+±àDà)K 10
+24and26.cc
+V 30
+file ur-1738.49-2318.r ª/164
+K 5
+40. v. a. 5. 1. y. b. 6. 2. #v1. c. 7. ∏ #v4. d. 8. 5∏ #v7. e. 9. ∏ #va. f. |70
+K 4
+â d- g- 1[ 6[ g. h. 2. j. i. 3. 5Am. j. À+67. p. k. À+69. s. l. À7Ê 'm. À7Ê 'n. À*73ä w'o. À7w'p. 8À;5
+7Ãw'q. Ã7Bw'r. Ã7Bw(s. Ã8±w(t. Ã8Ê (u. ª51
+mmc2and4Esv1 P8/186ENDREP
+id: uq-1738.0-2279.r2318/188
+type: dir
+pred: uq-1738.0-2279.r2312/179
+count: 4
+text: 2318 187 438 1212 800fe11c66edc5757398d4b11f33bc7d - -
+cpath: /trunk/fceulib/mappers
+copyroot: 2279 /trunk/fceulib
+
+id: zt-1738.4w-2318.r2318/189
+type: file
+pred: zt-1738.0.r2058/488
+count: 2
+text: 2058 216 706 1071 5a802a738513f7aa65364ad937174b9b 0d0b126e0060e82a856112458c13bf6cd2313fe8 2057-1l5/_69
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1ds
+cpath: /trunk/fceulib/utils/crc32.cc
+copyfrom: 2316 /trunk/fceulib/utils/crc32.cpp
+
+id: zz-1738.4x-2318.r2318/190
+type: file
+pred: zz-1738.0.r2058/490
+count: 2
+text: 2058 218 2954 6880 f8c44ba151b7ff7e716c0506f982b20b a7570ba28811be75b2f55d753b36bd815cecae72 2057-1l5/_6b
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1du
+cpath: /trunk/fceulib/utils/endian.cc
+copyfrom: 2316 /trunk/fceulib/utils/endian.cpp
+
+id: 105-1738.4y-2318.r2318/191
+type: file
+pred: 105-1738.0.r2058/492
+count: 2
+text: 2058 220 732 1055 19f9d8c2d2e80c7dba44693d1125c676 1f4bb8595a2ce22b3a2ca49765bec11752a7f25b 2057-1l5/_6d
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1dw
+cpath: /trunk/fceulib/utils/general.cc
+copyfrom: 2316 /trunk/fceulib/utils/general.cpp
+
+id: 10b-1738.4z-2318.r2318/192
+type: file
+pred: 10b-1738.0.r2058/494
+count: 2
+text: 2058 222 563 1103 458d39406a8f5a5a4caa27d4e67d688b 62876ec0f79ba725cafb3960597a30866fc3660b 2057-1l5/_6f
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1dy
+cpath: /trunk/fceulib/utils/guid.cc
+copyfrom: 2316 /trunk/fceulib/utils/guid.cpp
+
+id: 10h-1738.50-2318.r2318/193
+type: file
+pred: 10h-1738.0.r2058/496
+count: 2
+text: 2058 224 3415 6927 c85a9b9d05e6379f8c45288f48ae918d 1e42ab6c81024db2013f4149e75715d69e1a1369 2057-1l5/_6h
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1e0
+cpath: /trunk/fceulib/utils/md5.cc
+copyfrom: 2316 /trunk/fceulib/utils/md5.cpp
+
+id: 10n-1738.51-2318.r2318/194
+type: file
+pred: 10n-1738.0-2279.r2315/5
+count: 4
+text: 2315 3 312 2136 bff907fc4363f04f58d64bce3abf162d 8b81f5a6ad0e5f531c273403685ff2b67bb8363b 2314-1sa/_4
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1e2
+cpath: /trunk/fceulib/utils/memory.cc
+copyfrom: 2316 /trunk/fceulib/utils/memory.cpp
+
+id: 10t-1738.52-2318.r2318/195
+type: file
+pred: 10t-1738.0.r2058/500
+count: 3
+text: 2058 228 12155 34021 8160036289a6ce41d4cef08658259223 527a720bf95ee01229637699c8408a774488644f 2057-1l5/_6l
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1e4
+cpath: /trunk/fceulib/utils/unzip.cc
+copyfrom: 2316 /trunk/fceulib/utils/unzip.cpp
+
+id: 112-1738.53-2318.r2318/196
+type: file
+pred: 112-1738.0-2279.r2312/192
+count: 5
+text: 2312 91 76 17768 075ea3c7c9ea192417298f3d3f038556 522bdbabb4cfdc51a2a2f5ced982a3dc78f8da31 2311-1s7/_2r
+props: 15 7 42 30 4160c74de5f4e580dc15660c798ff9fc - 1737-1c9/_1e7
+cpath: /trunk/fceulib/utils/xstring.cc
+copyfrom: 2316 /trunk/fceulib/utils/xstring.cpp
+
+DELTA 2315 7 85
+SVN ÜÜ*ÉÄÖs7ÖUÖsK 8
+crc32.cc
+V 30
+file zt-1738.4w-2318.r É/189
+K 71 ch
+V 240 w0 ë0.r2058/4* ã9
+endian\ z, )4x\ 090
+ç 2 ] 5] 21022 ^ Û 91
+K 10
+general` 1/ 5/ *4ya  5 94 
+b 83 b 3Í Lguid^ b+ *4z^ R2
+K 61 
+[ e0 [ 5* <md5Z h* *50Z  ã 50 
+Y k/ Y 7· lmemory\ n- *51\ 4u3 _ 8Fq2 a0-227915/6/ \unzipa 2*52a  Ì 72 ` ’3 50†√12
+valuearraë 1 8  50s´10
+xstringë 15&53ë P8/196ENDREP
+id: zi-1738.0-2279.r2318/198
+type: dir
+pred: zi-1738.0-2279.r2315/8
+count: 8
+text: 2318 197 418 810 a800f7381b5ae21c63a43fcc948ad9e6 - -
+cpath: /trunk/fceulib/utils
+copyroot: 2279 /trunk/fceulib
+
+DELTA 2317 33 1130
+SVN û.û6#B" Ç= ù Ñ\ÇYÖ àEá:ù Å2êÖ à?ëNù Ñö(aÒ7
+dir r-1738.0-2279.r2318/1348/1468" /nh# b68/188" ,zi" P18/19ENDREP
+id: 7-1738.0-2279.r2318/200
+type: dir
+pred: 7-1738.0-2279.r2317/34
+count: 30
+text: 2318 199 112 3894 d6404cda2c21fd1d4d5af6267cee1571 - -
+props: 2290 16 82 72 fee69f43aea74966aa291b24971ad754 - 2289-1rl/_b
+cpath: /trunk/fceulib
+copyroot: 2279 /trunk/fceulib
+
+DELTA 2317 35 27
+SVN ë{ë|
+ ÜI ù ãÜe7
+dir 7-1738.0-2279.r2318/200ENDREP
+id: 0-1.0.r2318/202
+type: dir
+pred: 0-1.0.r2317/36
+count: 2306
+text: 2318 201 52 2300 84374b56b85a1fc22e3eb2135cf10c23 - -
+cpath: /trunk
+copyroot: 0 /
+
+DELTA
+SVN  '(ß'K 5
+trunk
+V 19
+dir 0-1.0.r2318/202
+END
+ENDREP
+id: 0.0.r2318/2
+type: dir
+pred: 0.0.r2317/2
+count: 2318
+text: 2318 203 51 39 a754abef2585717d4082dd21ab84ee26 - -
+cpath: /
+copyroot: 0 /
+
+s-1738._0.t2317-1sd add-file false false false /trunk/fceulib/boards/01-222.cc
+2316 /trunk/fceulib/boards/01-222.cpp
+s-1738.0.r2058/266 delete-file false false false /trunk/fceulib/boards/01-222.cpp
+
+w-1738._1.t2317-1sd add-file false false false /trunk/fceulib/boards/103.cc
+2316 /trunk/fceulib/boards/103.cpp
+w-1738.0-2279.r2312/99 delete-file false false false /trunk/fceulib/boards/103.cpp
+
+z-1738._2.t2317-1sd add-file false false false /trunk/fceulib/boards/106.cc
+2316 /trunk/fceulib/boards/106.cpp
+z-1738.0-2279.r2312/100 delete-file false false false /trunk/fceulib/boards/106.cpp
+
+12-1738._3.t2317-1sd add-file false false false /trunk/fceulib/boards/108.cc
+2316 /trunk/fceulib/boards/108.cpp
+12-1738.0.r2058/269 delete-file false false false /trunk/fceulib/boards/108.cpp
+
+15-1738._4.t2317-1sd add-file false false false /trunk/fceulib/boards/112.cc
+2316 /trunk/fceulib/boards/112.cpp
+15-1738.0-2279.r2312/101 delete-file false false false /trunk/fceulib/boards/112.cpp
+
+18-1738._5.t2317-1sd add-file false false false /trunk/fceulib/boards/116.cc
+2316 /trunk/fceulib/boards/116.cpp
+18-1738.0.r2058/270 delete-file false false false /trunk/fceulib/boards/116.cpp
+
+1b-1738._6.t2317-1sd add-file false false false /trunk/fceulib/boards/117.cc
+2316 /trunk/fceulib/boards/117.cpp
+1b-1738.0.r1738/440 delete-file false false false /trunk/fceulib/boards/117.cpp
+
+1e-1738._7.t2317-1sd add-file false false false /trunk/fceulib/boards/120.cc
+2316 /trunk/fceulib/boards/120.cpp
+1e-1738.0.r2058/271 delete-file false false false /trunk/fceulib/boards/120.cpp
+
+1h-1738._8.t2317-1sd add-file false false false /trunk/fceulib/boards/121.cc
+2316 /trunk/fceulib/boards/121.cpp
+1h-1738.0.r2058/272 delete-file false false false /trunk/fceulib/boards/121.cpp
+
+1k-1738._9.t2317-1sd add-file false false false /trunk/fceulib/boards/12in1.cc
+2316 /trunk/fceulib/boards/12in1.cpp
+1k-1738.0.r2058/273 delete-file false false false /trunk/fceulib/boards/12in1.cpp
+
+1n-1738._a.t2317-1sd add-file false false false /trunk/fceulib/boards/15.cc
+2316 /trunk/fceulib/boards/15.cpp
+1n-1738.0-2279.r2312/102 delete-file false false false /trunk/fceulib/boards/15.cpp
+
+1q-1738._b.t2317-1sd add-file false false false /trunk/fceulib/boards/151.cc
+2316 /trunk/fceulib/boards/151.cpp
+1q-1738.0.r2058/275 delete-file false false false /trunk/fceulib/boards/151.cpp
+
+1t-1738._c.t2317-1sd add-file false false false /trunk/fceulib/boards/156.cc
+2316 /trunk/fceulib/boards/156.cpp
+1t-1738.0-2279.r2312/103 delete-file false false false /trunk/fceulib/boards/156.cpp
+
+1w-1738._d.t2317-1sd add-file false false false /trunk/fceulib/boards/164.cc
+2316 /trunk/fceulib/boards/164.cpp
+1w-1738.0-2279.r2312/104 delete-file false false false /trunk/fceulib/boards/164.cpp
+
+1z-1738._e.t2317-1sd add-file false false false /trunk/fceulib/boards/168.cc
+2316 /trunk/fceulib/boards/168.cpp
+1z-1738.0-2279.r2312/105 delete-file false false false /trunk/fceulib/boards/168.cpp
+
+22-1738._f.t2317-1sd add-file false false false /trunk/fceulib/boards/17.cc
+2316 /trunk/fceulib/boards/17.cpp
+22-1738.0.r2058/278 delete-file false false false /trunk/fceulib/boards/17.cpp
+
+25-1738._g.t2317-1sd add-file false false false /trunk/fceulib/boards/170.cc
+2316 /trunk/fceulib/boards/170.cpp
+25-1738.0.r2058/279 delete-file false false false /trunk/fceulib/boards/170.cpp
+
+28-1738._h.t2317-1sd add-file false false false /trunk/fceulib/boards/175.cc
+2316 /trunk/fceulib/boards/175.cpp
+28-1738.0.r2058/280 delete-file false false false /trunk/fceulib/boards/175.cpp
+
+2b-1738._i.t2317-1sd add-file false false false /trunk/fceulib/boards/176.cc
+2316 /trunk/fceulib/boards/176.cpp
+2b-1738.0-2279.r2312/106 delete-file false false false /trunk/fceulib/boards/176.cpp
+
+2e-1738._j.t2317-1sd add-file false false false /trunk/fceulib/boards/177.cc
+2316 /trunk/fceulib/boards/177.cpp
+2e-1738.0-2279.r2312/107 delete-file false false false /trunk/fceulib/boards/177.cpp
+
+2h-1738._k.t2317-1sd add-file false false false /trunk/fceulib/boards/178.cc
+2316 /trunk/fceulib/boards/178.cpp
+2h-1738.0-2279.r2312/108 delete-file false false false /trunk/fceulib/boards/178.cpp
+
+2k-1738._l.t2317-1sd add-file false false false /trunk/fceulib/boards/179.cc
+2316 /trunk/fceulib/boards/179.cpp
+2k-1738.0-2279.r2312/109 delete-file false false false /trunk/fceulib/boards/179.cpp
+
+2n-1738._m.t2317-1sd add-file false false false /trunk/fceulib/boards/18.cc
+2316 /trunk/fceulib/boards/18.cpp
+2n-1738.0.r2058/285 delete-file false false false /trunk/fceulib/boards/18.cpp
+
+2q-1738._n.t2317-1sd add-file false false false /trunk/fceulib/boards/183.cc
+2316 /trunk/fceulib/boards/183.cpp
+2q-1738.0.r2058/286 delete-file false false false /trunk/fceulib/boards/183.cpp
+
+2t-1738._o.t2317-1sd add-file false false false /trunk/fceulib/boards/185.cc
+2316 /trunk/fceulib/boards/185.cpp
+2t-1738.0-2279.r2312/110 delete-file false false false /trunk/fceulib/boards/185.cpp
+
+2w-1738._p.t2317-1sd add-file false false false /trunk/fceulib/boards/186.cc
+2316 /trunk/fceulib/boards/186.cpp
+2w-1738.0-2279.r2312/111 delete-file false false false /trunk/fceulib/boards/186.cpp
+
+2z-1738._q.t2317-1sd add-file false false false /trunk/fceulib/boards/187.cc
+2316 /trunk/fceulib/boards/187.cpp
+2z-1738.0.r2058/289 delete-file false false false /trunk/fceulib/boards/187.cpp
+
+32-1738._r.t2317-1sd add-file false false false /trunk/fceulib/boards/189.cc
+2316 /trunk/fceulib/boards/189.cpp
+32-1738.0.r2058/290 delete-file false false false /trunk/fceulib/boards/189.cpp
+
+35-1738._s.t2317-1sd add-file false false false /trunk/fceulib/boards/193.cc
+2316 /trunk/fceulib/boards/193.cpp
+35-1738.0.r2058/291 delete-file false false false /trunk/fceulib/boards/193.cpp
+
+38-1738._t.t2317-1sd add-file false false false /trunk/fceulib/boards/199.cc
+2316 /trunk/fceulib/boards/199.cpp
+38-1738.0-2279.r2312/112 delete-file false false false /trunk/fceulib/boards/199.cpp
+
+3b-1738._u.t2317-1sd add-file false false false /trunk/fceulib/boards/208.cc
+2316 /trunk/fceulib/boards/208.cpp
+3b-1738.0.r2058/293 delete-file false false false /trunk/fceulib/boards/208.cpp
+
+3e-1738._v.t2317-1sd add-file false false false /trunk/fceulib/boards/222.cc
+2316 /trunk/fceulib/boards/222.cpp
+3e-1738.0.r2058/294 delete-file false false false /trunk/fceulib/boards/222.cpp
+
+3h-1738._w.t2317-1sd add-file false false false /trunk/fceulib/boards/225.cc
+2316 /trunk/fceulib/boards/225.cpp
+3h-1738.0.r2058/295 delete-file false false false /trunk/fceulib/boards/225.cpp
+
+3k-1738._x.t2317-1sd add-file false false false /trunk/fceulib/boards/228.cc
+2316 /trunk/fceulib/boards/228.cpp
+3k-1738.0.r2058/296 delete-file false false false /trunk/fceulib/boards/228.cpp
+
+3n-1738._y.t2317-1sd add-file false false false /trunk/fceulib/boards/230.cc
+2316 /trunk/fceulib/boards/230.cpp
+3n-1738.0.r2058/297 delete-file false false false /trunk/fceulib/boards/230.cpp
+
+3q-1738._z.t2317-1sd add-file false false false /trunk/fceulib/boards/232.cc
+2316 /trunk/fceulib/boards/232.cpp
+3q-1738.0.r2058/298 delete-file false false false /trunk/fceulib/boards/232.cpp
+
+3t-1738._10.t2317-1sd add-file false false false /trunk/fceulib/boards/234.cc
+2316 /trunk/fceulib/boards/234.cpp
+3t-1738.0.r2058/299 delete-file false false false /trunk/fceulib/boards/234.cpp
+
+3w-1738._11.t2317-1sd add-file false false false /trunk/fceulib/boards/235.cc
+2316 /trunk/fceulib/boards/235.cpp
+3w-1738.0.r2058/300 delete-file false false false /trunk/fceulib/boards/235.cpp
+
+3z-1738._12.t2317-1sd add-file false false false /trunk/fceulib/boards/244.cc
+2316 /trunk/fceulib/boards/244.cpp
+3z-1738.0.r2058/301 delete-file false false false /trunk/fceulib/boards/244.cpp
+
+42-1738._13.t2317-1sd add-file false false false /trunk/fceulib/boards/246.cc
+2316 /trunk/fceulib/boards/246.cpp
+42-1738.0-2279.r2312/113 delete-file false false false /trunk/fceulib/boards/246.cpp
+
+45-1738._14.t2317-1sd add-file false false false /trunk/fceulib/boards/252.cc
+2316 /trunk/fceulib/boards/252.cpp
+45-1738.0-2279.r2312/114 delete-file false false false /trunk/fceulib/boards/252.cpp
+
+48-1738._15.t2317-1sd add-file false false false /trunk/fceulib/boards/253.cc
+2316 /trunk/fceulib/boards/253.cpp
+48-1738.0-2279.r2312/115 delete-file false false false /trunk/fceulib/boards/253.cpp
+
+4b-1738._16.t2317-1sd add-file false false false /trunk/fceulib/boards/28.cc
+2316 /trunk/fceulib/boards/28.cpp
+4b-1738.0-2279.r2312/116 delete-file false false false /trunk/fceulib/boards/28.cpp
+
+4e-1738._17.t2317-1sd add-file false false false /trunk/fceulib/boards/32.cc
+2316 /trunk/fceulib/boards/32.cpp
+4e-1738.0-2279.r2312/117 delete-file false false false /trunk/fceulib/boards/32.cpp
+
+4h-1738._18.t2317-1sd add-file false false false /trunk/fceulib/boards/33.cc
+2316 /trunk/fceulib/boards/33.cpp
+4h-1738.0.r2058/307 delete-file false false false /trunk/fceulib/boards/33.cpp
+
+4k-1738._19.t2317-1sd add-file false false false /trunk/fceulib/boards/34.cc
+2316 /trunk/fceulib/boards/34.cpp
+4k-1738.0-2279.r2312/118 delete-file false false false /trunk/fceulib/boards/34.cpp
+
+4n-1738._1a.t2317-1sd add-file false false false /trunk/fceulib/boards/3d-block.cc
+2316 /trunk/fceulib/boards/3d-block.cpp
+4n-1738.0.r2058/309 delete-file false false false /trunk/fceulib/boards/3d-block.cpp
+
+4q-1738._1b.t2317-1sd add-file false false false /trunk/fceulib/boards/411120-c.cc
+2316 /trunk/fceulib/boards/411120-c.cpp
+4q-1738.0.r2058/310 delete-file false false false /trunk/fceulib/boards/411120-c.cpp
+
+4t-1738._1c.t2317-1sd add-file false false false /trunk/fceulib/boards/43.cc
+2316 /trunk/fceulib/boards/43.cpp
+4t-1738.0.r2058/311 delete-file false false false /trunk/fceulib/boards/43.cpp
+
+4w-1738._1d.t2317-1sd add-file false false false /trunk/fceulib/boards/57.cc
+2316 /trunk/fceulib/boards/57.cpp
+4w-1738.0.r2058/312 delete-file false false false /trunk/fceulib/boards/57.cpp
+
+4z-1738._1e.t2317-1sd add-file false false false /trunk/fceulib/boards/603-5052.cc
+2316 /trunk/fceulib/boards/603-5052.cpp
+4z-1738.0.r2058/313 delete-file false false false /trunk/fceulib/boards/603-5052.cpp
+
+52-1738._1f.t2317-1sd add-file false false false /trunk/fceulib/boards/68.cc
+2316 /trunk/fceulib/boards/68.cpp
+52-1738.0-2279.r2312/119 delete-file false false false /trunk/fceulib/boards/68.cpp
+
+55-1738._1g.t2317-1sd add-file false false false /trunk/fceulib/boards/8157.cc
+2316 /trunk/fceulib/boards/8157.cpp
+55-1738.0.r2058/315 delete-file false false false /trunk/fceulib/boards/8157.cpp
+
+58-1738._1h.t2317-1sd add-file false false false /trunk/fceulib/boards/82.cc
+2316 /trunk/fceulib/boards/82.cpp
+58-1738.0-2279.r2312/120 delete-file false false false /trunk/fceulib/boards/82.cpp
+
+5b-1738._1i.t2317-1sd add-file false false false /trunk/fceulib/boards/8237.cc
+2316 /trunk/fceulib/boards/8237.cpp
+5b-1738.0.r2058/317 delete-file false false false /trunk/fceulib/boards/8237.cpp
+
+5e-1738._1j.t2317-1sd add-file false false false /trunk/fceulib/boards/830118C.cc
+2316 /trunk/fceulib/boards/830118C.cpp
+5e-1738.0.r2058/318 delete-file false false false /trunk/fceulib/boards/830118C.cpp
+
+5h-1738._1k.t2317-1sd add-file false false false /trunk/fceulib/boards/88.cc
+2316 /trunk/fceulib/boards/88.cpp
+5h-1738.0.r1738/490 delete-file false false false /trunk/fceulib/boards/88.cpp
+
+5k-1738._1l.t2317-1sd add-file false false false /trunk/fceulib/boards/90.cc
+2316 /trunk/fceulib/boards/90.cpp
+5k-1738.0.r1738/491 delete-file false false false /trunk/fceulib/boards/90.cpp
+
+5n-1738._1m.t2317-1sd add-file false false false /trunk/fceulib/boards/91.cc
+2316 /trunk/fceulib/boards/91.cpp
+5n-1738.0.r2058/319 delete-file false false false /trunk/fceulib/boards/91.cpp
+
+5q-1738._1n.t2317-1sd add-file false false false /trunk/fceulib/boards/95.cc
+2316 /trunk/fceulib/boards/95.cpp
+5q-1738.0.r1738/493 delete-file false false false /trunk/fceulib/boards/95.cpp
+
+5t-1738._1o.t2317-1sd add-file false false false /trunk/fceulib/boards/96.cc
+2316 /trunk/fceulib/boards/96.cpp
+5t-1738.0.r2058/320 delete-file false false false /trunk/fceulib/boards/96.cpp
+
+5w-1738._1p.t2317-1sd add-file false false false /trunk/fceulib/boards/99.cc
+2316 /trunk/fceulib/boards/99.cpp
+5w-1738.0.r2058/321 delete-file false false false /trunk/fceulib/boards/99.cpp
+
+62-1738._1q.t2317-1sd add-file false false false /trunk/fceulib/boards/__dummy_mapper.cc
+2316 /trunk/fceulib/boards/__dummy_mapper.cpp
+62-1738.0-2279.r2312/121 delete-file false false false /trunk/fceulib/boards/__dummy_mapper.cpp
+
+65-1738._1r.t2317-1sd add-file false false false /trunk/fceulib/boards/a9711.cc
+2316 /trunk/fceulib/boards/a9711.cpp
+65-1738.0.r2058/323 delete-file false false false /trunk/fceulib/boards/a9711.cpp
+
+68-1738._1s.t2317-1sd add-file false false false /trunk/fceulib/boards/a9746.cc
+2316 /trunk/fceulib/boards/a9746.cpp
+68-1738.0.r2058/324 delete-file false false false /trunk/fceulib/boards/a9746.cpp
+
+6b-1738._1t.t2317-1sd add-file false false false /trunk/fceulib/boards/ac-08.cc
+2316 /trunk/fceulib/boards/ac-08.cpp
+6b-1738.0.r2058/325 delete-file false false false /trunk/fceulib/boards/ac-08.cpp
+
+6e-1738._1u.t2317-1sd add-file false false false /trunk/fceulib/boards/addrlatch.cc
+2316 /trunk/fceulib/boards/addrlatch.cpp
+6e-1738.0-2279.r2312/122 delete-file false false false /trunk/fceulib/boards/addrlatch.cpp
+
+6h-1738._1v.t2317-1sd add-file false false false /trunk/fceulib/boards/ax5705.cc
+2316 /trunk/fceulib/boards/ax5705.cpp
+6h-1738.0.r2058/327 delete-file false false false /trunk/fceulib/boards/ax5705.cpp
+
+6k-1738._1w.t2317-1sd add-file false false false /trunk/fceulib/boards/bandai.cc
+2316 /trunk/fceulib/boards/bandai.cpp
+6k-1738.0-2279.r2312/123 delete-file false false false /trunk/fceulib/boards/bandai.cpp
+
+6n-1738._1x.t2317-1sd add-file false false false /trunk/fceulib/boards/bb.cc
+2316 /trunk/fceulib/boards/bb.cpp
+6n-1738.0.r2058/329 delete-file false false false /trunk/fceulib/boards/bb.cpp
+
+6q-1738._1y.t2317-1sd add-file false false false /trunk/fceulib/boards/bmc13in1jy110.cc
+2316 /trunk/fceulib/boards/bmc13in1jy110.cpp
+6q-1738.0.r2058/330 delete-file false false false /trunk/fceulib/boards/bmc13in1jy110.cpp
+
+6t-1738._1z.t2317-1sd add-file false false false /trunk/fceulib/boards/bmc42in1r.cc
+2316 /trunk/fceulib/boards/bmc42in1r.cpp
+6t-1738.0.r2058/331 delete-file false false false /trunk/fceulib/boards/bmc42in1r.cpp
+
+6w-1738._20.t2317-1sd add-file false false false /trunk/fceulib/boards/bmc64in1nr.cc
+2316 /trunk/fceulib/boards/bmc64in1nr.cpp
+6w-1738.0.r2058/332 delete-file false false false /trunk/fceulib/boards/bmc64in1nr.cpp
+
+6z-1738._21.t2317-1sd add-file false false false /trunk/fceulib/boards/bmc70in1.cc
+2316 /trunk/fceulib/boards/bmc70in1.cpp
+6z-1738.0.r2058/333 delete-file false false false /trunk/fceulib/boards/bmc70in1.cpp
+
+72-1738._22.t2317-1sd add-file false false false /trunk/fceulib/boards/bonza.cc
+2316 /trunk/fceulib/boards/bonza.cpp
+72-1738.0.r2058/334 delete-file false false false /trunk/fceulib/boards/bonza.cpp
+
+75-1738._23.t2317-1sd add-file false false false /trunk/fceulib/boards/bs-5.cc
+2316 /trunk/fceulib/boards/bs-5.cpp
+75-1738.0.r2058/335 delete-file false false false /trunk/fceulib/boards/bs-5.cpp
+
+78-1738._24.t2317-1sd add-file false false false /trunk/fceulib/boards/cityfighter.cc
+2316 /trunk/fceulib/boards/cityfighter.cpp
+78-1738.0.r2058/336 delete-file false false false /trunk/fceulib/boards/cityfighter.cpp
+
+7b-1738._25.t2317-1sd add-file false false false /trunk/fceulib/boards/dance2000.cc
+2316 /trunk/fceulib/boards/dance2000.cpp
+7b-1738.0-2279.r2312/124 delete-file false false false /trunk/fceulib/boards/dance2000.cpp
+
+7e-1738._26.t2317-1sd add-file false false false /trunk/fceulib/boards/datalatch.cc
+2316 /trunk/fceulib/boards/datalatch.cpp
+7e-1738.0-2279.r2312/125 delete-file false false false /trunk/fceulib/boards/datalatch.cpp
+
+7h-1738._27.t2317-1sd add-file false false false /trunk/fceulib/boards/deirom.cc
+2316 /trunk/fceulib/boards/deirom.cpp
+7h-1738.0.r1738/514 delete-file false false false /trunk/fceulib/boards/deirom.cpp
+
+7k-1738._28.t2317-1sd add-file false false false /trunk/fceulib/boards/dream.cc
+2316 /trunk/fceulib/boards/dream.cpp
+7k-1738.0.r2058/338 delete-file false false false /trunk/fceulib/boards/dream.cpp
+
+7n-1738._29.t2317-1sd add-file false false false /trunk/fceulib/boards/edu2000.cc
+2316 /trunk/fceulib/boards/edu2000.cpp
+7n-1738.0-2279.r2312/126 delete-file false false false /trunk/fceulib/boards/edu2000.cpp
+
+7q-1738._2a.t2317-1sd add-file false false false /trunk/fceulib/boards/famicombox.cc
+2316 /trunk/fceulib/boards/famicombox.cpp
+7q-1738.0-2279.r2312/127 delete-file false false false /trunk/fceulib/boards/famicombox.cpp
+
+7t-1738._2b.t2317-1sd add-file false false false /trunk/fceulib/boards/fk23c.cc
+2316 /trunk/fceulib/boards/fk23c.cpp
+7t-1738.0-2279.r2312/128 delete-file false false false /trunk/fceulib/boards/fk23c.cpp
+
+7w-1738._2c.t2317-1sd add-file false false false /trunk/fceulib/boards/ghostbusters63in1.cc
+2316 /trunk/fceulib/boards/ghostbusters63in1.cpp
+7w-1738.0-2279.r2312/129 delete-file false false false /trunk/fceulib/boards/ghostbusters63in1.cpp
+
+7z-1738._2d.t2317-1sd add-file false false false /trunk/fceulib/boards/gs-2004.cc
+2316 /trunk/fceulib/boards/gs-2004.cpp
+7z-1738.0.r2058/342 delete-file false false false /trunk/fceulib/boards/gs-2004.cpp
+
+82-1738._2e.t2317-1sd add-file false false false /trunk/fceulib/boards/gs-2013.cc
+2316 /trunk/fceulib/boards/gs-2013.cpp
+82-1738.0.r2058/343 delete-file false false false /trunk/fceulib/boards/gs-2013.cpp
+
+85-1738._2f.t2317-1sd add-file false false false /trunk/fceulib/boards/h2288.cc
+2316 /trunk/fceulib/boards/h2288.cpp
+85-1738.0.r2058/344 delete-file false false false /trunk/fceulib/boards/h2288.cpp
+
+88-1738._2g.t2317-1sd add-file false false false /trunk/fceulib/boards/karaoke.cc
+2316 /trunk/fceulib/boards/karaoke.cpp
+88-1738.0.r1738/523 delete-file false false false /trunk/fceulib/boards/karaoke.cpp
+
+8b-1738._2h.t2317-1sd add-file false false false /trunk/fceulib/boards/kof97.cc
+2316 /trunk/fceulib/boards/kof97.cpp
+8b-1738.0.r2058/345 delete-file false false false /trunk/fceulib/boards/kof97.cpp
+
+8e-1738._2i.t2317-1sd add-file false false false /trunk/fceulib/boards/konami-qtai.cc
+2316 /trunk/fceulib/boards/konami-qtai.cpp
+8e-1738.0-2279.r2312/130 delete-file false false false /trunk/fceulib/boards/konami-qtai.cpp
+
+8h-1738._2j.t2317-1sd add-file false false false /trunk/fceulib/boards/ks7012.cc
+2316 /trunk/fceulib/boards/ks7012.cpp
+8h-1738.0-2279.r2312/131 delete-file false false false /trunk/fceulib/boards/ks7012.cpp
+
+8k-1738._2k.t2317-1sd add-file false false false /trunk/fceulib/boards/ks7013.cc
+2316 /trunk/fceulib/boards/ks7013.cpp
+8k-1738.0.r2058/348 delete-file false false false /trunk/fceulib/boards/ks7013.cpp
+
+8n-1738._2l.t2317-1sd add-file false false false /trunk/fceulib/boards/ks7017.cc
+2316 /trunk/fceulib/boards/ks7017.cpp
+8n-1738.0-2279.r2312/132 delete-file false false false /trunk/fceulib/boards/ks7017.cpp
+
+8q-1738._2m.t2317-1sd add-file false false false /trunk/fceulib/boards/ks7030.cc
+2316 /trunk/fceulib/boards/ks7030.cpp
+8q-1738.0-2279.r2312/133 delete-file false false false /trunk/fceulib/boards/ks7030.cpp
+
+8t-1738._2n.t2317-1sd add-file false false false /trunk/fceulib/boards/ks7031.cc
+2316 /trunk/fceulib/boards/ks7031.cpp
+8t-1738.0.r2058/351 delete-file false false false /trunk/fceulib/boards/ks7031.cpp
+
+8w-1738._2o.t2317-1sd add-file false false false /trunk/fceulib/boards/ks7032.cc
+2316 /trunk/fceulib/boards/ks7032.cpp
+8w-1738.0.r2058/352 delete-file false false false /trunk/fceulib/boards/ks7032.cpp
+
+8z-1738._2p.t2317-1sd add-file false false false /trunk/fceulib/boards/ks7037.cc
+2316 /trunk/fceulib/boards/ks7037.cpp
+8z-1738.0-2279.r2312/134 delete-file false false false /trunk/fceulib/boards/ks7037.cpp
+
+92-1738._2q.t2317-1sd add-file false false false /trunk/fceulib/boards/ks7057.cc
+2316 /trunk/fceulib/boards/ks7057.cpp
+92-1738.0.r2058/354 delete-file false false false /trunk/fceulib/boards/ks7057.cpp
+
+95-1738._2r.t2317-1sd add-file false false false /trunk/fceulib/boards/le05.cc
+2316 /trunk/fceulib/boards/le05.cpp
+95-1738.0.r2058/355 delete-file false false false /trunk/fceulib/boards/le05.cpp
+
+98-1738._2s.t2317-1sd add-file false false false /trunk/fceulib/boards/lh32.cc
+2316 /trunk/fceulib/boards/lh32.cpp
+98-1738.0-2279.r2312/135 delete-file false false false /trunk/fceulib/boards/lh32.cpp
+
+9b-1738._2t.t2317-1sd add-file false false false /trunk/fceulib/boards/lh53.cc
+2316 /trunk/fceulib/boards/lh53.cpp
+9b-1738.0-2279.r2312/136 delete-file false false false /trunk/fceulib/boards/lh53.cpp
+
+9e-1738._2u.t2317-1sd add-file false false false /trunk/fceulib/boards/malee.cc
+2316 /trunk/fceulib/boards/malee.cpp
+9e-1738.0.r1738/537 delete-file false false false /trunk/fceulib/boards/malee.cpp
+
+9k-1738._2v.t2317-1sd add-file false false false /trunk/fceulib/boards/mmc1.cc
+2316 /trunk/fceulib/boards/mmc1.cpp
+9k-1738.0-2279.r2312/138 delete-file false false false /trunk/fceulib/boards/mmc1.cpp
+
+9n-1738._2w.t2317-1sd add-file false false false /trunk/fceulib/boards/mmc3.cc
+2316 /trunk/fceulib/boards/mmc3.cpp
+9n-1738.0-2279.r2312/139 delete-file false false false /trunk/fceulib/boards/mmc3.cpp
+
+9q-1738._2x.t2317-1sd add-file false false false /trunk/fceulib/boards/mmc3c
+2316 /trunk/fceulib/boards/mmc3.h
+9t-1738._2y.t2317-1sd add-file false false false /trunk/fceulib/boards/mmc5.cc
+2316 /trunk/fceulib/boards/mmc5.cpp
+9t-1738.0-2279.r2312/140 delete-file false false false /trunk/fceulib/boards/mmc5.cpp
+
+9w-1738._2z.t2317-1sd add-file false false false /trunk/fceulib/boards/n-c22m.cc
+2316 /trunk/fceulib/boards/n-c22m.cpp
+9w-1738.0.r2058/362 delete-file false false false /trunk/fceulib/boards/n-c22m.cpp
+
+9z-1738._30.t2317-1sd add-file false false false /trunk/fceulib/boards/n106.cc
+2316 /trunk/fceulib/boards/n106.cpp
+9z-1738.0-2279.r2312/141 delete-file false false false /trunk/fceulib/boards/n106.cpp
+
+a2-1738._31.t2317-1sd add-file false false false /trunk/fceulib/boards/n625092.cc
+2316 /trunk/fceulib/boards/n625092.cpp
+a2-1738.0.r2058/363 delete-file false false false /trunk/fceulib/boards/n625092.cpp
+
+a5-1738._32.t2317-1sd add-file false false false /trunk/fceulib/boards/novel.cc
+2316 /trunk/fceulib/boards/novel.cpp
+a5-1738.0.r1738/546 delete-file false false false /trunk/fceulib/boards/novel.cpp
+
+a8-1738._33.t2317-1sd add-file false false false /trunk/fceulib/boards/onebus.cc
+2316 /trunk/fceulib/boards/onebus.cpp
+a8-1738.0.r2058/364 delete-file false false false /trunk/fceulib/boards/onebus.cpp
+
+ab-1738._34.t2317-1sd add-file false false false /trunk/fceulib/boards/pec-586.cc
+2316 /trunk/fceulib/boards/pec-586.cpp
+ab-1738.0-2279.r2312/142 delete-file false false false /trunk/fceulib/boards/pec-586.cpp
+
+ae-1738._35.t2317-1sd add-file false false false /trunk/fceulib/boards/sa-9602b.cc
+2316 /trunk/fceulib/boards/sa-9602b.cpp
+ae-1738.0.r2058/366 delete-file false false false /trunk/fceulib/boards/sa-9602b.cpp
+
+ah-1738._36.t2317-1sd add-file false false false /trunk/fceulib/boards/sachen.cc
+2316 /trunk/fceulib/boards/sachen.cpp
+ah-1738.0.r1738/550 delete-file false false false /trunk/fceulib/boards/sachen.cpp
+
+ak-1738._37.t2317-1sd add-file false false false /trunk/fceulib/boards/sc-127.cc
+2316 /trunk/fceulib/boards/sc-127.cpp
+ak-1738.0-2279.r2312/143 delete-file false false false /trunk/fceulib/boards/sc-127.cpp
+
+an-1738._38.t2317-1sd add-file false false false /trunk/fceulib/boards/sheroes.cc
+2316 /trunk/fceulib/boards/sheroes.cpp
+an-1738.0-2279.r2312/144 delete-file false false false /trunk/fceulib/boards/sheroes.cpp
+
+aq-1738._39.t2317-1sd add-file false false false /trunk/fceulib/boards/sl1632.cc
+2316 /trunk/fceulib/boards/sl1632.cpp
+aq-1738.0.r2058/369 delete-file false false false /trunk/fceulib/boards/sl1632.cpp
+
+at-1738._3a.t2317-1sd add-file false false false /trunk/fceulib/boards/smb2j.cc
+2316 /trunk/fceulib/boards/smb2j.cpp
+at-1738.0.r2058/370 delete-file false false false /trunk/fceulib/boards/smb2j.cpp
+
+aw-1738._3b.t2317-1sd add-file false false false /trunk/fceulib/boards/subor.cc
+2316 /trunk/fceulib/boards/subor.cpp
+aw-1738.0.r2058/371 delete-file false false false /trunk/fceulib/boards/subor.cpp
+
+az-1738._3c.t2317-1sd add-file false false false /trunk/fceulib/boards/super24.cc
+2316 /trunk/fceulib/boards/super24.cpp
+az-1738.0-2279.r2312/145 delete-file false false false /trunk/fceulib/boards/super24.cpp
+
+b2-1738._3d.t2317-1sd add-file false false false /trunk/fceulib/boards/supervision.cc
+2316 /trunk/fceulib/boards/supervision.cpp
+b2-1738.0.r1738/557 delete-file false false false /trunk/fceulib/boards/supervision.cpp
+
+b5-1738._3e.t2317-1sd add-file false false false /trunk/fceulib/boards/t-227-1.cc
+2316 /trunk/fceulib/boards/t-227-1.cpp
+b5-1738.0.r2058/372 delete-file false false false /trunk/fceulib/boards/t-227-1.cpp
+
+b8-1738._3f.t2317-1sd add-file false false false /trunk/fceulib/boards/t-262.cc
+2316 /trunk/fceulib/boards/t-262.cpp
+b8-1738.0.r2058/373 delete-file false false false /trunk/fceulib/boards/t-262.cpp
+
+bb-1738._3g.t2317-1sd add-file false false false /trunk/fceulib/boards/tengen.cc
+2316 /trunk/fceulib/boards/tengen.cpp
+bb-1738.0.r1738/560 delete-file false false false /trunk/fceulib/boards/tengen.cpp
+
+be-1738._3h.t2317-1sd add-file false false false /trunk/fceulib/boards/tf-1201.cc
+2316 /trunk/fceulib/boards/tf-1201.cpp
+be-1738.0.r2058/374 delete-file false false false /trunk/fceulib/boards/tf-1201.cpp
+
+bh-1738._3i.t2317-1sd add-file false false false /trunk/fceulib/boards/transformer.cc
+2316 /trunk/fceulib/boards/transformer.cpp
+bh-1738.0-2279.r2312/146 delete-file false false false /trunk/fceulib/boards/transformer.cpp
+
+bk-1738._3j.t2317-1sd add-file false false false /trunk/fceulib/boards/vrc2and4.cc
+2316 /trunk/fceulib/boards/vrc2and4.cpp
+bk-1738.0-2279.r2312/147 delete-file false false false /trunk/fceulib/boards/vrc2and4.cpp
+
+bn-1738._3k.t2317-1sd add-file false false false /trunk/fceulib/boards/vrc7.cc
+2316 /trunk/fceulib/boards/vrc7.cpp
+bn-1738.0.r2058/377 delete-file false false false /trunk/fceulib/boards/vrc7.cpp
+
+bq-1738._3l.t2317-1sd add-file false false false /trunk/fceulib/boards/yoko.cc
+2316 /trunk/fceulib/boards/yoko.cpp
+bq-1738.0-2279.r2312/148 delete-file false false false /trunk/fceulib/boards/yoko.cpp
+
+d6-1738._3m.t2317-1sd add-file false false false /trunk/fceulib/drivers/common/args.cc
+2316 /trunk/fceulib/drivers/common/args.cpp
+d6-1738.0.r2058/391 delete-file false false false /trunk/fceulib/drivers/common/args.cpp
+
+dc-1738._3n.t2317-1sd add-file false false false /trunk/fceulib/drivers/common/cheat.cc
+2316 /trunk/fceulib/drivers/common/cheat.cpp
+dc-1738.0.r2058/393 delete-file false false false /trunk/fceulib/drivers/common/cheat.cpp
+
+du-1738._3o.t2317-1sd add-file false false false /trunk/fceulib/drivers/common/hq2x.cc
+2316 /trunk/fceulib/drivers/common/hq2x.cpp
+du-1738.0-2279.r2312/158 delete-file false false false /trunk/fceulib/drivers/common/hq2x.cpp
+
+e0-1738._3p.t2317-1sd add-file false false false /trunk/fceulib/drivers/common/hq3x.cc
+2316 /trunk/fceulib/drivers/common/hq3x.cpp
+e0-1738.0.r2058/397 delete-file false false false /trunk/fceulib/drivers/common/hq3x.cpp
+
+ei-1738._3q.t2317-1sd add-file false false false /trunk/fceulib/drivers/common/scale2x.cc
+2316 /trunk/fceulib/drivers/common/scale2x.cpp
+ei-1738.0.r2058/399 delete-file false false false /trunk/fceulib/drivers/common/scale2x.cpp
+
+eo-1738._3r.t2317-1sd add-file false false false /trunk/fceulib/drivers/common/scale3x.cc
+2316 /trunk/fceulib/drivers/common/scale3x.cpp
+eo-1738.0.r2058/401 delete-file false false false /trunk/fceulib/drivers/common/scale3x.cpp
+
+eu-1738._3s.t2317-1sd add-file false false false /trunk/fceulib/drivers/common/scalebit.cc
+2316 /trunk/fceulib/drivers/common/scalebit.cpp
+eu-1738.0.r2058/403 delete-file false false false /trunk/fceulib/drivers/common/scalebit.cpp
+
+f0-1738._3t.t2317-1sd add-file false false false /trunk/fceulib/drivers/common/vidblit.cc
+2316 /trunk/fceulib/drivers/common/vidblit.cpp
+f0-1738.0-2279.r2312/160 delete-file false false false /trunk/fceulib/drivers/common/vidblit.cpp
+
+nm-1738._3u.t2317-1sd add-file false false false /trunk/fceulib/input/arkanoid.cc
+2316 /trunk/fceulib/input/arkanoid.cpp
+nm-1738.0.r2058/435 delete-file false false false /trunk/fceulib/input/arkanoid.cpp
+
+np-1738._3v.t2317-1sd add-file false false false /trunk/fceulib/input/bworld.cc
+2316 /trunk/fceulib/input/bworld.cpp
+np-1738.0.r2058/436 delete-file false false false /trunk/fceulib/input/bworld.cpp
+
+ns-1738._3w.t2317-1sd add-file false false false /trunk/fceulib/input/cursor.cc
+2316 /trunk/fceulib/input/cursor.cpp
+ns-1738.0.r2058/437 delete-file false false false /trunk/fceulib/input/cursor.cpp
+
+nv-1738._3x.t2317-1sd add-file false false false /trunk/fceulib/input/fkb.cc
+2316 /trunk/fceulib/input/fkb.cpp
+nv-1738.0.r2058/438 delete-file false false false /trunk/fceulib/input/fkb.cpp
+
+o1-1738._3y.t2317-1sd add-file false false false /trunk/fceulib/input/ftrainer.cc
+2316 /trunk/fceulib/input/ftrainer.cpp
+o1-1738.0.r2058/440 delete-file false false false /trunk/fceulib/input/ftrainer.cpp
+
+o4-1738._3z.t2317-1sd add-file false false false /trunk/fceulib/input/hypershot.cc
+2316 /trunk/fceulib/input/hypershot.cpp
+o4-1738.0.r2058/441 delete-file false false false /trunk/fceulib/input/hypershot.cpp
+
+o7-1738._40.t2317-1sd add-file false false false /trunk/fceulib/input/mahjong.cc
+2316 /trunk/fceulib/input/mahjong.cpp
+o7-1738.0.r2058/442 delete-file false false false /trunk/fceulib/input/mahjong.cpp
+
+oa-1738._41.t2317-1sd add-file false false false /trunk/fceulib/input/mouse.cc
+2316 /trunk/fceulib/input/mouse.cpp
+oa-1738.0.r2058/443 delete-file false false false /trunk/fceulib/input/mouse.cpp
+
+od-1738._42.t2317-1sd add-file false false false /trunk/fceulib/input/oekakids.cc
+2316 /trunk/fceulib/input/oekakids.cpp
+od-1738.0.r2058/444 delete-file false false false /trunk/fceulib/input/oekakids.cpp
+
+og-1738._43.t2317-1sd add-file false false false /trunk/fceulib/input/powerpad.cc
+2316 /trunk/fceulib/input/powerpad.cpp
+og-1738.0.r2058/445 delete-file false false false /trunk/fceulib/input/powerpad.cpp
+
+oj-1738._44.t2317-1sd add-file false false false /trunk/fceulib/input/quiz.cc
+2316 /trunk/fceulib/input/quiz.cpp
+oj-1738.0.r2058/446 delete-file false false false /trunk/fceulib/input/quiz.cpp
+
+om-1738._45.t2317-1sd add-file false false false /trunk/fceulib/input/shadow.cc
+2316 /trunk/fceulib/input/shadow.cpp
+om-1738.0.r2058/447 delete-file false false false /trunk/fceulib/input/shadow.cpp
+
+os-1738._46.t2317-1sd add-file false false false /trunk/fceulib/input/suborkb.cc
+2316 /trunk/fceulib/input/suborkb.cpp
+os-1738.0.r1738/732 delete-file false false false /trunk/fceulib/input/suborkb.cpp
+
+oy-1738._47.t2317-1sd add-file false false false /trunk/fceulib/input/toprider.cc
+2316 /trunk/fceulib/input/toprider.cpp
+oy-1738.0.r2058/449 delete-file false false false /trunk/fceulib/input/toprider.cpp
+
+p1-1738._48.t2317-1sd add-file false false false /trunk/fceulib/input/zapper.cc
+2316 /trunk/fceulib/input/zapper.cpp
+p1-1738.0.r2058/450 delete-file false false false /trunk/fceulib/input/zapper.cpp
+
+ur-1738._49.t2317-1sd add-file false false false /trunk/fceulib/mappers/24and26.cc
+2316 /trunk/fceulib/mappers/24and26.cpp
+ur-1738.0.r1738/809 delete-file false false false /trunk/fceulib/mappers/24and26.cpp
+
+uv-1738._4a.t2317-1sd add-file false false false /trunk/fceulib/mappers/40.cc
+2316 /trunk/fceulib/mappers/40.cpp
+uv-1738.0.r1738/810 delete-file false false false /trunk/fceulib/mappers/40.cpp
+
+uy-1738._4b.t2317-1sd add-file false false false /trunk/fceulib/mappers/41.cc
+2316 /trunk/fceulib/mappers/41.cpp
+uy-1738.0.r1738/811 delete-file false false false /trunk/fceulib/mappers/41.cpp
+
+v1-1738._4c.t2317-1sd add-file false false false /trunk/fceulib/mappers/42.cc
+2316 /trunk/fceulib/mappers/42.cpp
+v1-1738.0.r1738/812 delete-file false false false /trunk/fceulib/mappers/42.cpp
+
+v4-1738._4d.t2317-1sd add-file false false false /trunk/fceulib/mappers/46.cc
+2316 /trunk/fceulib/mappers/46.cpp
+v4-1738.0.r1738/813 delete-file false false false /trunk/fceulib/mappers/46.cpp
+
+v7-1738._4e.t2317-1sd add-file false false false /trunk/fceulib/mappers/50.cc
+2316 /trunk/fceulib/mappers/50.cpp
+v7-1738.0.r1738/814 delete-file false false false /trunk/fceulib/mappers/50.cpp
+
+va-1738._4f.t2317-1sd add-file false false false /trunk/fceulib/mappers/51.cc
+2316 /trunk/fceulib/mappers/51.cpp
+va-1738.0.r1738/815 delete-file false false false /trunk/fceulib/mappers/51.cpp
+
+vd-1738._4g.t2317-1sd add-file false false false /trunk/fceulib/mappers/6.cc
+2316 /trunk/fceulib/mappers/6.cpp
+vd-1738.0.r1738/816 delete-file false false false /trunk/fceulib/mappers/6.cpp
+
+vg-1738._4h.t2317-1sd add-file false false false /trunk/fceulib/mappers/61.cc
+2316 /trunk/fceulib/mappers/61.cpp
+vg-1738.0.r1738/817 delete-file false false false /trunk/fceulib/mappers/61.cpp
+
+vj-1738._4i.t2317-1sd add-file false false false /trunk/fceulib/mappers/62.cc
+2316 /trunk/fceulib/mappers/62.cpp
+vj-1738.0.r1738/818 delete-file false false false /trunk/fceulib/mappers/62.cpp
+
+vm-1738._4j.t2317-1sd add-file false false false /trunk/fceulib/mappers/65.cc
+2316 /trunk/fceulib/mappers/65.cpp
+vm-1738.0.r1738/819 delete-file false false false /trunk/fceulib/mappers/65.cpp
+
+vp-1738._4k.t2317-1sd add-file false false false /trunk/fceulib/mappers/67.cc
+2316 /trunk/fceulib/mappers/67.cpp
+vp-1738.0.r1738/820 delete-file false false false /trunk/fceulib/mappers/67.cpp
+
+vs-1738._4l.t2317-1sd add-file false false false /trunk/fceulib/mappers/69.cc
+2316 /trunk/fceulib/mappers/69.cpp
+vs-1738.0.r1738/821 delete-file false false false /trunk/fceulib/mappers/69.cpp
+
+vv-1738._4m.t2317-1sd add-file false false false /trunk/fceulib/mappers/71.cc
+2316 /trunk/fceulib/mappers/71.cpp
+vv-1738.0.r1738/822 delete-file false false false /trunk/fceulib/mappers/71.cpp
+
+vy-1738._4n.t2317-1sd add-file false false false /trunk/fceulib/mappers/72.cc
+2316 /trunk/fceulib/mappers/72.cpp
+vy-1738.0.r1738/823 delete-file false false false /trunk/fceulib/mappers/72.cpp
+
+w1-1738._4o.t2317-1sd add-file false false false /trunk/fceulib/mappers/73.cc
+2316 /trunk/fceulib/mappers/73.cpp
+w1-1738.0.r2058/456 delete-file false false false /trunk/fceulib/mappers/73.cpp
+
+w4-1738._4p.t2317-1sd add-file false false false /trunk/fceulib/mappers/75.cc
+2316 /trunk/fceulib/mappers/75.cpp
+w4-1738.0.r1738/825 delete-file false false false /trunk/fceulib/mappers/75.cpp
+
+w7-1738._4q.t2317-1sd add-file false false false /trunk/fceulib/mappers/76.cc
+2316 /trunk/fceulib/mappers/76.cpp
+w7-1738.0.r1738/826 delete-file false false false /trunk/fceulib/mappers/76.cpp
+
+wa-1738._4r.t2317-1sd add-file false false false /trunk/fceulib/mappers/77.cc
+2316 /trunk/fceulib/mappers/77.cpp
+wa-1738.0.r1738/827 delete-file false false false /trunk/fceulib/mappers/77.cpp
+
+wd-1738._4s.t2317-1sd add-file false false false /trunk/fceulib/mappers/79.cc
+2316 /trunk/fceulib/mappers/79.cpp
+wd-1738.0.r1738/828 delete-file false false false /trunk/fceulib/mappers/79.cpp
+
+wg-1738._4t.t2317-1sd add-file false false false /trunk/fceulib/mappers/80.cc
+2316 /trunk/fceulib/mappers/80.cpp
+wg-1738.0.r2058/457 delete-file false false false /trunk/fceulib/mappers/80.cpp
+
+wj-1738._4u.t2317-1sd add-file false false false /trunk/fceulib/mappers/85.cc
+2316 /trunk/fceulib/mappers/85.cpp
+wj-1738.0.r1738/830 delete-file false false false /trunk/fceulib/mappers/85.cpp
+
+wy-1738._4v.t2317-1sd add-file false false false /trunk/fceulib/mappers/mmc2and4.cc
+2316 /trunk/fceulib/mappers/mmc2and4.cpp
+wy-1738.0.r1738/835 delete-file false false false /trunk/fceulib/mappers/mmc2and4.cpp
+
+zt-1738._4w.t2317-1sd add-file false false false /trunk/fceulib/utils/crc32.cc
+2316 /trunk/fceulib/utils/crc32.cpp
+zt-1738.0.r2058/488 delete-file false false false /trunk/fceulib/utils/crc32.cpp
+
+zz-1738._4x.t2317-1sd add-file false false false /trunk/fceulib/utils/endian.cc
+2316 /trunk/fceulib/utils/endian.cpp
+zz-1738.0.r2058/490 delete-file false false false /trunk/fceulib/utils/endian.cpp
+
+105-1738._4y.t2317-1sd add-file false false false /trunk/fceulib/utils/general.cc
+2316 /trunk/fceulib/utils/general.cpp
+105-1738.0.r2058/492 delete-file false false false /trunk/fceulib/utils/general.cpp
+
+10b-1738._4z.t2317-1sd add-file false false false /trunk/fceulib/utils/guid.cc
+2316 /trunk/fceulib/utils/guid.cpp
+10b-1738.0.r2058/494 delete-file false false false /trunk/fceulib/utils/guid.cpp
+
+10h-1738._50.t2317-1sd add-file false false false /trunk/fceulib/utils/md5.cc
+2316 /trunk/fceulib/utils/md5.cpp
+10h-1738.0.r2058/496 delete-file false false false /trunk/fceulib/utils/md5.cpp
+
+10n-1738._51.t2317-1sd add-file false false false /trunk/fceulib/utils/memory.cc
+2316 /trunk/fceulib/utils/memory.cpp
+10n-1738.0-2279.r2315/5 delete-file false false false /trunk/fceulib/utils/memory.cpp
+
+10t-1738._52.t2317-1sd add-file false false false /trunk/fceulib/utils/unzip.cc
+2316 /trunk/fceulib/utils/unzip.cpp
+10t-1738.0.r2058/500 delete-file false false false /trunk/fceulib/utils/unzip.cpp
+
+112-1738._53.t2317-1sd add-file false false false /trunk/fceulib/utils/xstring.cc
+2316 /trunk/fceulib/utils/xstring.cpp
+112-1738.0-2279.r2312/192 delete-file false false false /trunk/fceulib/utils/xstring.cpp
+
+
+L2P-INDEX
+éÄ@ôÃ ∫ìŸ∏ûñòòúòöòö¢öò†††ñöö††††ñö††öòö†úúúúúúûûû¢¢¢ûûöû≤≤öö∞û¢û¢ÆöúööööŒ¶¶¶º™Æö∆∂∫≤¶¢æ∫º™§¥¿¨‹ÆÆ¶Æ§ƒ∞™∞∞™™≤¨¢™™®™¨ö¨Æ™≤™Æ∂∂Æ≤∂Æ™™∂¬≤™Æ≤∆∫¶™¨+å∆ Ã ‘‘ÿ⁄Íûîå≤™®û≤¥Æ¶≤≤¢™Æ∞™ÍÇ∂¢¢¢†¢¢û¢†¢¢¢†††¢¢¢†û¢∫ûí§™∞§¢¨Æ∏ÚàîÜò∞P2L-INDEX
+éæÄÄ@° œ: µ≈÷¶À ≥ıå…Ã Òﬂ¸ñ	Ã íÀõøŒ «ÇÛÆÃ é‰ûò
+Õ “ª◊ªÃ î®ñËÕ ÜÑ˙˛— €Ã´ Õ Ë∑âÎÃ êΩÌÙ– öﬁé„– Ãè¢≥– ∫ê˜À ƒ†·‹Õ ¿≤¿›Õ …¬Á7– ≈ºâÁ– ¡Å∫µ– ±Ñ˚´– èËﬁçÀ óﬂ”ÙÕ ÖÙ⁄…– ıÅÄÆ– ˚Ññ˚Õ ‚≈ì≤Ã €∞º∆
+Õ ß˙∫Å– ∑¸™›Œ Øí˝∏
+Œ äë»”
+Œ ÷ÊÔ≥Œ Ïı√Œ †»‹úŒ ≥¡˛«œ ©ÇÚ°œ ◊º„Ïœ ìﬁâ›— ÓÊÙë— ≥Ìùß— ®Ùﬁúœ Öê…ôœ ÷Óƒ¥Õ Æ˙πˇœ Ì≤ÕÅŸ ÿµàÕŸ ÉΩÒÑÕ Øñ°ŒÕ ∫ÇÄ†ÿ Ä¬˚åœ ≥Üù†— ˝˙º¡œ ¬Ôô∆— ÍæÌˆ◊ ÉÖì∫Õ ƒÀÉ≤	Œ Æ˙ˇ¢Õ …‹ß≠Õ ûåôûÕ Õ≠∞ü
+Õ ∏¢∞ŸÁ ›÷Ù´” Óº€ø” £‰ß«” ‘¨ï±	ﬁ ö˙üå’ –•’»◊ Ÿ†‹õÕ ÙëÒø„ €≠é¬€ €”≥‡› ù•∂±Ÿ ˜Í’¸” ™¿‚¢— æå˛ ﬂ ß‰„€› €‘€Æﬁ ÍÏöé’ ÔÖë°“ ﬂ∞¯§⁄ ø®⁄∫‡ ìì§˜
+÷ æ—∑⁄Ó ’Œ•Å◊ ∫¯ÑÄ◊ òôßõ” ∫îΩÏ◊ æà˙é“ •≥Ê¸	‚ ˚¥ôÚÿ ∫‡‹ö	’ ØˆŒ∫ÿ µàã≈	ÿ Œ≠áã’ ∆–ò ’ ˆËæ¸Ÿ ÃêåÓ÷ ﬂí◊√	— ¿Ú˚¨’ Ç÷ﬂÀ’ ÿª¿≥‘ Ëç® ’ ê•‚ñ÷ ËàªöÕ ÒÁåë	÷ ‹ÙÃ—◊ ïÚ…©’ ≥Øí˚Ÿ Ωçèˇ
+’ ≥Û≈ﬁ◊ ¨”÷õ€ àƒÖ€€ ‘çΩ=◊ Ç∑ÅÑŸ ÚÛ†Ó€ «éˇÊ◊ î¢ö˛’ óÀ«Ì’ ˛‚„Õ	€ ¢Ì’ª· ˘‹ ≥
+Ÿ ˜ˆÇ¬’ ¯ÔﬂÊ◊ ¡Ô∞–Ÿ ‘”Õœ„ ô•„ˇ› à¬Áõ” óÕ•Ç’ ªÙ¬÷÷
+ ‘¯Ì»	∆ ≥¿∆∆„ ¡˝ÙˆÂ ∂ü®€	Ê Ø†íÆÂ ≠Ó ÒÍ √‰»∑	Í Åº÷ÄÏ ±ë…ôÌ €“Õæ	ı
+ ê•˝œœ †Å≠⁄J
+ ÷è≤≈	∆ πÄ˛|Ÿ  ®ß†’ õ¡Æ¡	‘ ±ôß¢œ ≥È∏UŸ â±¸ú⁄ ﬂñıô◊ ã®ûæ” Îﬂ–ëŸ õÊÖƒŸ ∏◊Ìı— ≈û¸∏’ ›Õ∏†◊ îﬁ¯œÿ ﬁ¯¶Ñ	’ ∆ßÏΩı
+ Åõ∑Ç¡ ˙Õ¥€ Ø≈ﬂï— …˚ìÈ— ìÓæı— ·ƒü∏– ’¡çË
+— ¨Ëªπ— ãâ˛	œ ö◊ñ±— Û˜¡Ü– °∑Îë— ãÍØ£— ó‘≥»— ‡π©π– ˛ëﬁë– ¨∆ÿ–– ù√¶è— ﬁÊÌ˛— èÖ˙ß— «≤⁄ 
+– ‡¸ïäœ ⁄›¬£— √õÄä› ¸Èﬂœ
+ ¯Ò±›… ª¨°ã“ Ÿ˜÷Ê’ ¶öﬂéÿ ∏¯Åﬂ
+“ ª¨§‹— íÇü∏÷ µ˙àÚ◊ °Ï…‹ ﬂÕÃáπ
+ óàç0ƒ úπË°ä
+ ‡ﬂ‰ìÉ ÃÎ¸„L
+ èçÒè
+ò µÚïÎ@
+ »ﬂ™Ôäâ œÏ˙ÿπ° ⁄ªæ¢
+ê¡9  106352 a618929ac0de32038a260982fc9388c4 106782 6b5b6d4e48db2626a199c7dd3ed2a919O

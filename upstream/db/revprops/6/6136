@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-30T04:38:07.026704Z
+K 7
+svn:log
+V 82
+Add a simple standalone CRC32 calculator so there is one fewer dependency on zlib.
+END

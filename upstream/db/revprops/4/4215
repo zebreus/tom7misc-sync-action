@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-28T17:15:54.134156Z
+K 7
+svn:log
+V 230
+Some more uses of autoparallel, fix bugs there. Clean out verbose round from train.cc. Try a more forgiving loss function, but after a bunch of careful thought, realize that my approach to computing it is just buggy, so abandon it
+END

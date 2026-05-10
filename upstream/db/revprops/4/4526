@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-05T15:52:44.453478Z
+K 7
+svn:log
+V 99
+Rearrange code and add tests for standalone tetris (and fix some bugs oops). Improve makefile deps.
+END

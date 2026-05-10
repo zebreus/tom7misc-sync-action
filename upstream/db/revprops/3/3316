@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-09-03T14:10:14.714221Z
+K 7
+svn:log
+V 222
+Reformat some old code in njlib. Make the list versions compile but mark as likely deprecated. Compilation tests. Add pop and related to map/set. Add tovector and fromvector to setutil, using these. Update COPYRIGHT notice
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-05-16T18:21:05.108320Z
+K 7
+svn:log
+V 143
+Deal with stuck state when the server has a stale offer (e.g. after rejoin). Should be faster ways to recover but at least we eventually do now
+END

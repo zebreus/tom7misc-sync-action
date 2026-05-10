@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-03-12T18:35:12.738920Z
+K 7
+svn:log
+V 132
+Hallucinate uses cache (huge speedup) and outputs 64 bit mask in bitmap mode. Generate (traced) bitmap SFDs. Little bit in the paper
+END

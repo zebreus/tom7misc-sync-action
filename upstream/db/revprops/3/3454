@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-03-18T16:12:55.859083Z
+K 7
+svn:log
+V 62
+Demonstrate that it can be done with numeric literals at least
+END

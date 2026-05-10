@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-08T01:41:05.594975Z
+K 7
+svn:log
+V 50
+I forgot to check in the 2D convex hull, it seems!
+END

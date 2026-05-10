@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-08-07T18:03:26.888680Z
+K 7
+svn:log
+V 104
+Finally confirmed that this version passes the full bigcrush suite. Add arbitrary color 'ansi' sequences
+END

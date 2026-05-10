@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-09-06T18:40:10.393875Z
+K 7
+svn:log
+V 58
+more AST optimizations. runs at same speed as Monday, sigh
+END

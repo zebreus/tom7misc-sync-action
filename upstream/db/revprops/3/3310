@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-09-02T14:18:25.433662Z
+K 7
+svn:log
+V 123
+Does not compile. Triggers an unhandled Subscript error internal to mlton, though, so might be useful for reproducing a bug
+END

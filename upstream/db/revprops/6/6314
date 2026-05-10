@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-15T16:14:14.552265Z
+K 7
+svn:log
+V 164
+BigMakeHole now returns the simplified mesh. Added optimization by clearance to imperts and fixed a few issues (could optimize to zero quaternion, which is invalid)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-03T23:48:55.856217Z
+K 7
+svn:log
+V 60
+Generate bounding discs, and fix visualization of them (ugh)
+END

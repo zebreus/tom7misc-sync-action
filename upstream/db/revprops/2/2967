@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-09-06T23:24:07.160182Z
+K 7
+svn:log
+V 295
+Code cleanup: Delete commented-out code in smanage, rename to SolutionUploading. Make a header for textbox, which was in its own .cc file. Capitalize some class names. Standardize on Class_ for private implementations. Delete trailing whitespace and untabify. Some internal anonymous namespaces.
+END

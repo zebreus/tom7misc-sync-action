@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-03-31T14:17:54.365748Z
+K 7
+svn:log
+V 61
+round trip implemented, but of course it does not match trace
+END

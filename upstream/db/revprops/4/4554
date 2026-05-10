@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-19T19:53:10.892940Z
+K 7
+svn:log
+V 89
+Better approach to tracking RNG state. Fix bug about holding D across drops in rare cases
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-11-23T15:59:33.097151Z
+K 7
+svn:log
+V 53
+figured out how to set, but doesn't work in make hook
+END

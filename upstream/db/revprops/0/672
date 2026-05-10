@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-11-27T16:33:34.960686Z
+K 7
+svn:log
+V 102
+support world var in extern valid declaration (cleans up CPS code a bit), even though it is never used
+END

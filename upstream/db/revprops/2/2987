@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-10-18T04:38:10.174682Z
+K 7
+svn:log
+V 105
+Lots of code cleanup and modernization. Finally delete hashtable and extent templates, and good riddance!
+END

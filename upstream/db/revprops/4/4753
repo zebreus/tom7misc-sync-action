@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-11-14T05:16:59.484908Z
+K 7
+svn:log
+V 150
+Switch to double math, which is not much slower, but the thing that actually fixed the seams is explicitly testing for starting inside the tetrahedron
+END

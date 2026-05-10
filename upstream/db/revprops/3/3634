@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-08-04T13:29:28.610940Z
+K 7
+svn:log
+V 68
+Switch back to mingw/win64 compiler. Notes for rewrite of autocamera
+END

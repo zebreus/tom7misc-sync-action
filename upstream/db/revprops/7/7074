@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-10T03:20:24.937799Z
+K 7
+svn:log
+V 100
+Hide cursor when redrawing console. Note easy-to-make error. Add ASCII serialization for bit-string.
+END

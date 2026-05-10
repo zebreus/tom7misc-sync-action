@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-21T21:54:11.059488Z
+K 7
+svn:log
+V 47
+Fix release process on OSX and bug in mkupgrade
+END

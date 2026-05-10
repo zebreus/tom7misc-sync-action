@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-02T15:47:05.922197Z
+K 7
+svn:log
+V 47
+Skeleton of compiler guts and bytecode/executor
+END

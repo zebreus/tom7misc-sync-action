@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-12-20T19:37:01.679676Z
+K 7
+svn:log
+V 81
+Working on initialization. Initial experiment to compute per-node variance on GPU
+END

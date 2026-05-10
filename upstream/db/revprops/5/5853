@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-28T14:54:19.497388Z
+K 7
+svn:log
+V 133
+Working on (currently disabled) datatype->enum optimization. But fixed a bug in il-typed-pass (fn variable not translated in context)
+END

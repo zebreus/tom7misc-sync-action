@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-09-22T02:16:45.458392Z
+K 7
+svn:log
+V 71
+Make it possible to have multiple tabled transfer functions. Not tested
+END

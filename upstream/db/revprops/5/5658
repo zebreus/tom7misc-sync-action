@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-12T23:26:07.866907Z
+K 7
+svn:log
+V 149
+The problem was that field names were not being tagged when converting to/from document. Fixed. Now, I achieved the document circularity achievement.
+END

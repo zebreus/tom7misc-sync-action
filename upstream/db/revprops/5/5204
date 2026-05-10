@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-13T21:43:27.753221Z
+K 7
+svn:log
+V 96
+Delete some more state. Looks like I,U,V are also uninitialized in Negative/PositiveDiscriminant
+END

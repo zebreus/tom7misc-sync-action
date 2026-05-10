@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-05-09T21:33:50.275535Z
+K 7
+svn:log
+V 143
+Better way to do comprehensive test. Prevents the working copy from looking modified just because we started modifying the log before checking.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-05T20:59:33.357585Z
+K 7
+svn:log
+V 179
+Use liveness to coalesce tmps that appear in mov instructions. Helps on arithmetic ops. Guard against the case that a tactic gets the same temporary as its source and destination.
+END

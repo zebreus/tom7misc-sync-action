@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-29T04:11:20.116251Z
+K 7
+svn:log
+V 37
+This should obsolete divbymaxpowerof2
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-10-27T19:41:07.204973Z
+K 7
+svn:log
+V 84
+Add back SPI support in bcm header. Font tweak. Fix some corruption (?) in wordlist.
+END

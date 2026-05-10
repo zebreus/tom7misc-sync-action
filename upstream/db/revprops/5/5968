@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-08-17T16:51:10.991906Z
+K 7
+svn:log
+V 52
+Make it easy to encode ImageRGBA as PNG using zip.h.
+END

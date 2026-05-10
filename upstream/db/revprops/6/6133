@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-29T14:21:07.702247Z
+K 7
+svn:log
+V 241
+Fix memory leaks in biteopt. I never figured out precisely what was wrong, but switching to std::vector instead of manual new/delete did the trick and is preferable to me anyway. Fixed a bunch of g++ and ASAN warnings while I'm on linux too.
+END

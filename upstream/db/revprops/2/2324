@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-12-20T23:39:15.893389Z
+K 7
+svn:log
+V 83
+Fix some warnings. Kill useless complexity in version.h. Add arkanoid to test suite
+END

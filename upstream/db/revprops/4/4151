@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-08-10T04:02:50.890279Z
+K 7
+svn:log
+V 44
+This can open an image from the command-line
+END

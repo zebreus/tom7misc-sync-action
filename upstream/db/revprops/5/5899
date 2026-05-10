@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-04T04:32:21.934252Z
+K 7
+svn:log
+V 183
+Add left shift / right shift operators. Add rejection sampling RNG. Add progressive reveal for slides. Might be a bug though? (making video seems to crash, but it works with ASAN on?)
+END

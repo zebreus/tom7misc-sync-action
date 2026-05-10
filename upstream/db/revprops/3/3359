@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-12-30T04:15:16.277870Z
+K 7
+svn:log
+V 106
+Clean up and document a bit more. Move Contra-specific death visualization into mainline TwoPlayerProblem.
+END

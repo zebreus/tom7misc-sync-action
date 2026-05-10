@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-12-21T04:57:04.512180Z
+K 7
+svn:log
+V 66
+Handle client alerts, and more non-fatal errors from send syscall.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-01-20T13:21:54.372457Z
+K 7
+svn:log
+V 129
+Alternate version of renderhero that generates 'bitmaps' for each track. Works but doesn't do anything interesting with them yet.
+END

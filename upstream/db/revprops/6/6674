@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-16T21:37:57.853878Z
+K 7
+svn:log
+V 296
+Fix StringWidth in ANSI (should be utf8-aware) and add ColorSubstring. Also add TerminalWidth, which isn't really about ANSI but this seems like the best place for it because we already have OS-level #defines. Use these to implement truncation for the status bar so that it never overflows again!
+END

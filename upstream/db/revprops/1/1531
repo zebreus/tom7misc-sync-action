@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2011-04-30T03:07:33.853518Z
+K 7
+svn:log
+V 45
+Fork from discovery; remove junk I won't need
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-30T13:31:40.666855Z
+K 7
+svn:log
+V 61
+Remove deprecated top-level functions from widely-used ansi.h
+END

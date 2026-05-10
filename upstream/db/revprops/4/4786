@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-01-01T20:11:30.460142Z
+K 7
+svn:log
+V 19
+Decode hex literals
+END

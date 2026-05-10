@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-03-14T00:50:38.516515Z
+K 7
+svn:log
+V 96
+Fix bug in remapping that meant it didn't affect most of the image, ugh. Some additions to paper
+END

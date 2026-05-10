@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-17T18:06:28.511070Z
+K 7
+svn:log
+V 78
+Fix another bug producing nondeterminism (and, wrong results) in letter-player
+END

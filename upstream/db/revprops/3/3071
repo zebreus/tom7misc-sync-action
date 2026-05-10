@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-01-16T16:27:43.007568Z
+K 7
+svn:log
+V 79
+Let's try having the temporaries store their size, but the ops are not explicit
+END

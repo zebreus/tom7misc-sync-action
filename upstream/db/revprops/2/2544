@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-07-14T21:04:57.663689Z
+K 7
+svn:log
+V 96
+Sound object uses fc exclusively. Fix SOUNDTS macro. Replace old-style (void) args with just ().
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-15T06:03:13.931452Z
+K 7
+svn:log
+V 120
+Benchmark showing that the new implementation is like 10x faster:
+
+Total time (old): 3.434s
+Total time (new): 402.93ms
+
+
+END

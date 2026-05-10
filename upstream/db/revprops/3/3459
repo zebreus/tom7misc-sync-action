@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-03-24T22:44:19.599616Z
+K 7
+svn:log
+V 62
+Some improvements to the test, and optimization of bcm library
+END

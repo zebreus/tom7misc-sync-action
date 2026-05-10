@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-05-05T09:59:11.937260Z
+K 7
+svn:log
+V 95
+Add multiple commands, way to detect if file was decrypted successfully, intermediate file wipe
+END

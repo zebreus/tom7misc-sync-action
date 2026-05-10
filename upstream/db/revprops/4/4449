@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-17T03:09:04.187357Z
+K 7
+svn:log
+V 84
+Make tempo work with AM2320 chips, which among other issues don't report a valid id.
+END

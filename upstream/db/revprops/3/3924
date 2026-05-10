@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-04-21T19:10:10.729264Z
+K 7
+svn:log
+V 68
+Reduce reliance on conditional compilation; moving towards templates
+END

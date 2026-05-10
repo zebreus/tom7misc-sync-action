@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-02-16T22:23:56.646535Z
+K 7
+svn:log
+V 30
+Note oddity in fceulib/types.h
+END

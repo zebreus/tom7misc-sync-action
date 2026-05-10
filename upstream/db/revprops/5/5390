@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-24T21:40:49.701658Z
+K 7
+svn:log
+V 83
+Add do-not-optimize macro with test. Experimental explore-locally code in optimizer
+END

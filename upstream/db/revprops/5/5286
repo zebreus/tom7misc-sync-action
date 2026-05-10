@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-04T22:43:48.366328Z
+K 7
+svn:log
+V 113
+Clean up some debugging crap. Faster power of 2 test in GetMontgomeryParams. Ignore modulus array arg to ModMult.
+END

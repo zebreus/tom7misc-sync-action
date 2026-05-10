@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-19T15:15:35.586748Z
+K 7
+svn:log
+V 183
+Clean up file code a bit. Fixed some file descriptor leaks. Reduce dependency on broken endianness macro. Add a test case (no particular reason for this one; just want more coverage).
+END

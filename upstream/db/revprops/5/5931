@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-20T02:43:58.026090Z
+K 7
+svn:log
+V 171
+Trying to get this to compile with gcc 11.4; maybe hopeless. At least some of these are improvements to the code. Also, added test that I think will fail due to known bug.
+END

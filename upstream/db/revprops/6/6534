@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-06-12T15:28:58.000432Z
+K 7
+svn:log
+V 34
+Fix compilation on OS X; modernize
+END

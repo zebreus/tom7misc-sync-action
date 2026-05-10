@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-22T22:51:06.220010Z
+K 7
+svn:log
+V 41
+Got basic ARMSNES working, with benchmark
+END

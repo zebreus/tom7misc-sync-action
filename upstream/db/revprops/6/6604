@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-24T22:58:33.925408Z
+K 7
+svn:log
+V 187
+In progress and possibly bonkers version of jcreed's idea, which is 'just' approximating the transcendental functions and sqrts that you need to implement things the computer graphics way
+END

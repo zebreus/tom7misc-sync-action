@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-27T19:27:33.754645Z
+K 7
+svn:log
+V 81
+Fix long-standing bugs in ANSI::ProgressBar, and extend ANSI::Time to cover years
+END

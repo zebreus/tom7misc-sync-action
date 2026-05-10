@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sirmob
+K 8
+svn:date
+V 27
+2007-11-02T14:21:22.869879Z
+K 7
+svn:log
+V 101
+Move lambdasheets.mlh to lambdasheet.mlh, and create reasonable behavior for multiplying invalid data
+END

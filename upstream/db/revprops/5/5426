@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-12-09T20:58:09.827191Z
+K 7
+svn:log
+V 125
+Debug some oddities when rewinding in chat. But I think it is actually an issue with llama.cpp tokenization. Added workaround
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-07-02T17:01:07.690674Z
+K 7
+svn:log
+V 140
+Since IslandFinder is used in a stylized way, hide all its methods and instead just a static method that returns the results with helpers.
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-11-11T02:04:56.682656Z
+K 7
+svn:log
+V 30
+Drop privileges. Clean up some
+END

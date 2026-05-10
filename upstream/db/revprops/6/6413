@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-04-06T03:44:07.423497Z
+K 7
+svn:log
+V 154
+Fix some cases where I was translating before rotating, which is worse for optimization and can produce nonzero o.z in frames. Add README and churro plots
+END

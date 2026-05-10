@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-01T00:10:52.907251Z
+K 7
+svn:log
+V 290
+BoVeX: Use InlineVector in places where the vector is likely small, and move to span<> for constructors in some places. Add support for glue-min with defaults that will prevent overlapping text in most documents. Add freelist support in allocator, but it is disabled because it didn't help.
+END

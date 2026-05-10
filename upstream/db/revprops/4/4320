@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-04-03T18:38:09.725721Z
+K 7
+svn:log
+V 126
+Try just including SDL_net in the source for escapex; it's pretty small and can maybe save me some linking/including headaches
+END

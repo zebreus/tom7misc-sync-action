@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-06-11T13:56:27.668004Z
+K 7
+svn:log
+V 95
+Add vector-util. Improve performance and correctness in randutil. Clean up code, documentation.
+END

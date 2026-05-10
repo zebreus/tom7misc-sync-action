@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-14T17:05:35.181666Z
+K 7
+svn:log
+V 64
+Don't need video. Move into fceu. Make emulator more thread-safe
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-26T21:27:04.146776Z
+K 7
+svn:log
+V 121
+Enhancements in 2017 for ABC video. Rotate around the center of the cube; specify output file; generate them in a loop...
+END

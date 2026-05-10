@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-08-03T03:04:40.723005Z
+K 7
+svn:log
+V 88
+Add super-simple prime factorization by trial division. These all should be inlined, too
+END

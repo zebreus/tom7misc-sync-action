@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-20T15:07:56.045596Z
+K 7
+svn:log
+V 57
+Since installing eglot I cannot help but fix the warnings
+END

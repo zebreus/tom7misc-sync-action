@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-18T16:42:36.862053Z
+K 7
+svn:log
+V 110
+Use rational coefficients and bignums; move most implementation to cc file. Not testing the rational stuff yet
+END

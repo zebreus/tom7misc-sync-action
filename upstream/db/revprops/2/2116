@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-12-28T03:11:25.468021Z
+K 7
+svn:log
+V 113
+Made thing that can plot sampled grids. Made powerhour properly honor symmetry when filling in the grid, at least
+END

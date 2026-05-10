@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-04-09T10:51:49.635692Z
+K 7
+svn:log
+V 47
+Remove unused field of X6502. Clean up x6502.cc
+END

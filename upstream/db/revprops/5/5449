@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-12-20T00:58:28.643283Z
+K 7
+svn:log
+V 107
+Fix bug due to negative modulus. Implemented OpenCL version, but not tested yet. Gonna reorganize the code.
+END

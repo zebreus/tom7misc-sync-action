@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-08T13:10:49.045893Z
+K 7
+svn:log
+V 86
+Visualize more during validation, exposing and fixing some bugs (there is still a bug)
+END

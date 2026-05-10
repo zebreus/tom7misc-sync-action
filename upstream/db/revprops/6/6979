@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-20T13:31:04.323473Z
+K 7
+svn:log
+V 81
+Make a clean little cross-platform networking wrapper, with example 'wget' clone.
+END

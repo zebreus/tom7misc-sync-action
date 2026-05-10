@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-12-29T16:19:43.614273Z
+K 7
+svn:log
+V 232
+Use relative elevation, aka, relevation. Print the last date at the end. Add 'shady sprint' segment, and make several gates a lot wider since you could see in debug.svg some activities noisily exceeding their bounds or getting close
+END

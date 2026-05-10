@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-02-16T22:20:03.374799Z
+K 7
+svn:log
+V 109
+Fix old bug in randutil (Shuffle does not produce permutations uniformly), add test, some other minor cleanup
+END

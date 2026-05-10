@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-09-10T22:41:55.030613Z
+K 7
+svn:log
+V 55
+halt should not be initial environment; it doesn't work
+END

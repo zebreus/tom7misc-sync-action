@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-05-16T17:44:37.772033Z
+K 7
+svn:log
+V 87
+move TextSVG here from PacTom. Correct typo in svg-sig. Add incomplete PES file parser.
+END

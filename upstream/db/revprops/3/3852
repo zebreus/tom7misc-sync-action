@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-02-09T18:34:49.660154Z
+K 7
+svn:log
+V 100
+Import migoya chess as an example of a mediocre chess engine; needs to be ported to Player interface
+END

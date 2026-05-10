@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-26T02:34:56.015264Z
+K 7
+svn:log
+V 183
+Make 'as' patterns take patterns on both sides, and fix some bugs uncovered while testing that. Add stubs for closure conversion and typed pass, but I'm going to do these another way.
+END

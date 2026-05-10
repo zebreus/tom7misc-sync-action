@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-08-11T16:22:50.568134Z
+K 7
+svn:log
+V 179
+Encoding and decoding of iframes. The only supported things are palletization and a background color mask, although this does help enormously on certain kinds of animation frames.
+END

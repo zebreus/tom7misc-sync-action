@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-22T03:10:23.189290Z
+K 7
+svn:log
+V 106
+Fix bug with perfect square discriminant (K=0, A=0), per upstream 1be07b228e85266070a7c72b1fd2947ebba32494
+END

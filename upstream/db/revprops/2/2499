@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-05-10T22:44:31.923624Z
+K 7
+svn:log
+V 128
+Moved palette array into palette object so that headless-driver doesn't have static state. Last comprehensive test succeeded. :)
+END

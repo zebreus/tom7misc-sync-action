@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-02-15T01:08:49.791356Z
+K 7
+svn:log
+V 230
+Fix attributes. Add TraceHooks for diagnostics. Disable validation so that missing http:// DTD doesn't prevent attributes from being parsed. Was impossible to return NONE for attribute values, so get rid of option in type. cleanup
+END

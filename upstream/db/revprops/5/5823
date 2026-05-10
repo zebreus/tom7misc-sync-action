@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-18T12:53:59.041658Z
+K 7
+svn:log
+V 82
+Fix bug with scope of tyvars in datatype decl; spotted during previous refactoring
+END

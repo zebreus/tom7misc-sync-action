@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-13T21:19:50.688778Z
+K 7
+svn:log
+V 32
+Add basic flate/deflate wrapper.
+END

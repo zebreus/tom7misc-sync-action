@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-05-18T20:11:30.027665Z
+K 7
+svn:log
+V 100
+Threadutil includes support for c++17 if available. Load stockfish and draw eval/best move in viewer
+END

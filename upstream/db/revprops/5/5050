@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-07T03:21:04.349644Z
+K 7
+svn:log
+V 87
+More cleanup. BigInt conversions. Tried multiplication but it crashes; need to debug...
+END

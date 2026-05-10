@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-01-07T22:41:10.205811Z
+K 7
+svn:log
+V 179
+Fix bug where tree could grow without bound; also improves performance of tree cleanup. Integrated AOT, which is a decent win for contra (about 20%), probably worth the complexity
+END

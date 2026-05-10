@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-02T02:24:41.658743Z
+K 7
+svn:log
+V 337
+Remove pngsave, replacing it with stb_image_write. Try to expunge it and libpng, etc. from the makefile, though I did not check the windows nor linux builds. Stop using Extentd and Extentda, and delete those. Clean up code. Consolidate RLE code in level.cc, improve documentation and error checking. Split out httputil into its own file.
+END

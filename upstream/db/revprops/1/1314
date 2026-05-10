@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-06-13T18:27:07.660898Z
+K 7
+svn:log
+V 85
+strip trailing decimal zeroes in textsvg. cleanup readme. cleanup style in stringutil
+END

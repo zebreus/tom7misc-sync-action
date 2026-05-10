@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-07T17:29:45.881025Z
+K 7
+svn:log
+V 135
+Run updateweights in stripes; 34x speedup for learn-words problem. Also batch example prep in tests, which reduces overhead there a lot
+END

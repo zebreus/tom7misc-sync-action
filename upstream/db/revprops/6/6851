@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-12-25T20:04:39.795940Z
+K 7
+svn:log
+V 113
+Fix long-standing annoyance in font-image: Interpret the png file's path relative to the config file's directory.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-31T16:08:06.768301Z
+K 7
+svn:log
+V 104
+Add utilities ParseDouble and Factorize. Add simple bilinear filtering to ImageA, and Crop32. Some notes
+END

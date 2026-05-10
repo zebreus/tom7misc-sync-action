@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-07-03T15:33:17.757266Z
+K 7
+svn:log
+V 203
+Fixed nsoks, and indeed it's faster. New GPU version as well. Improved clutils for compiling multiple kernels. Pre-filter before factoring with some verification in filter.z3. More than twice as fast now
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-12-02T16:37:16.226657Z
+K 7
+svn:log
+V 152
+Implemented NOT, but there are a couple of problems: It uses MOV, and we seem to need address size prefix bytes in encoding. need to look into this more
+END

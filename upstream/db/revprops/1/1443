@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-12-06T05:54:13.947588Z
+K 7
+svn:log
+V 165
+bddanimate now can produce downsampled, crop png series for making animations. add hacked up tracing Box2D since it seems it will continue to be useful in debugging.
+END

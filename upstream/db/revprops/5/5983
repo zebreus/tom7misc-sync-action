@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-09-02T14:57:44.005327Z
+K 7
+svn:log
+V 101
+Add exhaustive check for sqrt error of 32-bit integers. Using sqrtf does work up to just shy of 2^32.
+END

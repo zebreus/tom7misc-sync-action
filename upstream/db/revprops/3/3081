@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-05T21:37:28.690965Z
+K 7
+svn:log
+V 141
+Attempted to write some authoritative description of the layout strategy and calling convention; add 32-bit literals since those will be easy
+END

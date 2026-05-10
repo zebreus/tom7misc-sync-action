@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-12T13:55:28.237115Z
+K 7
+svn:log
+V 97
+Added some debugging facilities, trying to write a working sticker-layout routine in bovex itself
+END

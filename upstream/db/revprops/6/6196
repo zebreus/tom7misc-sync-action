@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-26T22:55:07.784404Z
+K 7
+svn:log
+V 123
+Fix bug where ByteSet was not correctly initialized when using the initializer_list ctor. Actually check memory invariants.
+END

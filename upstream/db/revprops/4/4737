@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-10-09T15:40:18.851211Z
+K 7
+svn:log
+V 95
+std::lerp may be a little faster than manually computing interpolation (in any case not slower)
+END

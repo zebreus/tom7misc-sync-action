@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-05-20T00:17:34.364581Z
+K 7
+svn:log
+V 82
+Show src/dst of last move. Options to disable stockfish display, to show only bits
+END

@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-06-23T02:23:00.576630Z
+K 7
+svn:log
+V 252
+Added timers, and basically all the opencl operations are slow; I guess they just have a lot of overhead?
+
+CPU: 3.301s
+GPU: 10.914s
+sqrt: 4.88ms
+ml: 5.00ms
+clear: 3.590s
+args: 13.08ms
+kernel: 2.857s
+read: 4.361s
+ret: 9.01ms
+sort: 5.37ms
+all: 10.891s
+
+
+
+END

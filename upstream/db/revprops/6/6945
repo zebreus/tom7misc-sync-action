@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-25T03:04:56.275878Z
+K 7
+svn:log
+V 210
+Use InlinedVector in a few spots. But now I see that the real problem is repeatedly computing the free variables. Pulled this out of the 'peephole pass' to illustrate. I can compute this within the pass itself.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-25T02:43:48.495579Z
+K 7
+svn:log
+V 125
+Standardize on inv_epsilon for requesting error bounds; this is not always more natural but it is better to just use one way.
+END

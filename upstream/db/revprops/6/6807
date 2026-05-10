@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-11-17T14:00:23.666287Z
+K 7
+svn:log
+V 37
+Compile-time decoding of UTF-8 string
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-24T04:38:42.094230Z
+K 7
+svn:log
+V 106
+Just clean up some of this code, fixing clang build problems and moving some obsolete stuff out of sos.cc.
+END

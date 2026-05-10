@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-08T15:03:41.607280Z
+K 7
+svn:log
+V 303
+Really delete new PPU and some other stuff made dead by that. replace run-time initialized tables with constexprs. This was around where I had a regression failure but I think it was from running two tests simultaneously, and having one read the other's save file. Just passed a full comprehensive test.
+END

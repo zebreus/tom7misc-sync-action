@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-05-07T14:20:40.467263Z
+K 7
+svn:log
+V 124
+Tweak physical constants. Move fine to its own files. When ejecting, move to nearest subpixel, which seems to work worse. :(
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-25T14:09:05.373174Z
+K 7
+svn:log
+V 235
+Add tests for TransformVec. It was already correct, but I should be more careful about the precondition that the view not include the z-axis, since when I tried testing a view that contained that, I went down a 'debugging' rabbit hole.
+END

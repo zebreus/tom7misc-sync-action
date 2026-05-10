@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-08-04T17:45:58.799374Z
+K 7
+svn:log
+V 85
+Delete this dead var, and clean up TODO. About to do mapper rewrite, so checkpoint...
+END

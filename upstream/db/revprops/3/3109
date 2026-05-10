@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-25T23:28:16.393525Z
+K 7
+svn:log
+V 217
+Delete aforementioned badideas. ASM program needs to record where local frames start. Add x86 encoding to acc. Pipe calls through to individual command translation. Implement Init instruction. Add eicar to paper notes
+END

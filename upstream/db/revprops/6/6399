@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-29T18:32:18.643865Z
+K 7
+svn:log
+V 122
+Improve error messages by threading through position in more places; more options in layout and cite; new stdlib functions
+END

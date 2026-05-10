@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-04T15:29:05.349221Z
+K 7
+svn:log
+V 67
+Precompute sin/cos of az/an corners, since we reuse these all over.
+END

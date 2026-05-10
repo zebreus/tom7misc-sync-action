@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-02-06T02:39:47.190020Z
+K 7
+svn:log
+V 69
+Each instruction writes to its own copy of CPU state; further cleanup
+END

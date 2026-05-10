@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-02-17T18:46:01.373175Z
+K 7
+svn:log
+V 114
+Simultaneously compute stats for multiple criteria, since reading and executing games is basically the entire cost
+END

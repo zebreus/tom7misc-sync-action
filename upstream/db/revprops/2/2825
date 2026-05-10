@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-22T14:53:11.990528Z
+K 7
+svn:log
+V 79
+Remove printfs in thread util. Add another include guard to base/macros.h, sigh
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-06T13:45:31.636669Z
+K 7
+svn:log
+V 81
+Clean up BigIntModularDivision a big, although its call is not covered in quad.cc
+END

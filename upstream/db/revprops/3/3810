@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-01-04T04:26:02.495384Z
+K 7
+svn:log
+V 142
+Notes, fix stupid bug with piece display, make provisional chess font, use explicitly random training data order, highlight strong activations
+END

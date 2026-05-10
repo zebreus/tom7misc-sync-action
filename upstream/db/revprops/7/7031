@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-20T14:08:43.063970Z
+K 7
+svn:log
+V 91
+Try splitting out polyhedra from rupert-specific stuff, so that I can promote it to cc-lib.
+END

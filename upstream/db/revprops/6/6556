@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-06-18T03:32:07.186196Z
+K 7
+svn:log
+V 67
+Some stuff was missing from the makefile, sometimes for good reason
+END

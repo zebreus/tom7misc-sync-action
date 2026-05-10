@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-02-10T22:55:30.877612Z
+K 7
+svn:log
+V 70
+Better progress updates in Tournament. About to do incremental rewrite
+END

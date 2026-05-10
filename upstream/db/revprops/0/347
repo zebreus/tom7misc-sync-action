@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-07-09T23:22:41.364396Z
+K 7
+svn:log
+V 85
+improved optimizations by substituting small values. also improves code density a lot
+END

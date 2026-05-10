@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-04-20T03:15:11.397822Z
+K 7
+svn:log
+V 68
+Add (expermental) guitar chord database. Modernization in Util class
+END

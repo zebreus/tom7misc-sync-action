@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-12T13:50:37.309265Z
+K 7
+svn:log
+V 201
+Lug may have died to me: simple errors lead to runtime crashes, there's no documentation, and I don't like doing something simple like parsing a repeated element into a vector. Add CTPG experimentally.
+END

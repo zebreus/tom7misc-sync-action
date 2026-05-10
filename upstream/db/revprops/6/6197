@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-27T19:40:48.432318Z
+K 7
+svn:log
+V 129
+Simplify highlighting logic (just do it all in redraw). Add priority buffers, which always go first; highlight these differently.
+END

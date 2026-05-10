@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-03-18T16:57:17.935887Z
+K 7
+svn:log
+V 125
+Flatten all chunk types; add to eval. Add elo ratings to paper and improve text, graphs. Three-column presentation of TestU01
+END

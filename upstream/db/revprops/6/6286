@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-05T15:38:59.922128Z
+K 7
+svn:log
+V 79
+Start on test. Fix some bugs, but I am generating degenerate triangles somehow?
+END

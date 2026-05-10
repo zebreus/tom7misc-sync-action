@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-01-19T14:12:14.242950Z
+K 7
+svn:log
+V 151
+Fix bugs in type parsing and succeeding when there was unparseable stuff. Improve rendering of types in human-readable parts. Add verbose parsing mode.
+END

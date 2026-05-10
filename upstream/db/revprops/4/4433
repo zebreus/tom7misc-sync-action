@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-03T01:00:39.311449Z
+K 7
+svn:log
+V 186
+Use arithmetic in the kernel instead of sub-buffers in the updateweights pass; saves 20% wall time. Also note a bug here and how we could parallelize this part with some more complexity.
+END

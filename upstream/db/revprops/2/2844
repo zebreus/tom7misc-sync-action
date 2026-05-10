@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-06-11T19:03:41.053310Z
+K 7
+svn:log
+V 95
+Big speed improvement from running emulator in separate thread(s) to prepare training examples.
+END

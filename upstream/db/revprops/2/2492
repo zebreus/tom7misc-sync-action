@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-05-09T21:26:42.369119Z
+K 7
+svn:log
+V 96
+A bit more cleanup. Getting close to making a mega object and then solving the mapper problem...
+END

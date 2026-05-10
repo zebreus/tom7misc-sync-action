@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-08T18:59:36.520319Z
+K 7
+svn:log
+V 82
+Add collage image writing in emulator_test. Not yet checking that the values match
+END

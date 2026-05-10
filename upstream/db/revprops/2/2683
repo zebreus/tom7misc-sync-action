@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-01-18T20:58:42.421131Z
+K 7
+svn:log
+V 190
+Reference count nodes. Make endless. Remove 'active' notion since this can be done with refcount now. static_assert flag disjointness, but didn't use it. Improve icon. Delete some dead code.
+END

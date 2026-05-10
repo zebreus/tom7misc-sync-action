@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-27T16:42:40.502767Z
+K 7
+svn:log
+V 107
+Add reference in-memory plugin. Add simple benchmark. Mount with noatime so that reads don't trigger writes
+END

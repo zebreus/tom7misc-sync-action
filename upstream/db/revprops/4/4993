@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-08-18T01:17:22.306266Z
+K 7
+svn:log
+V 110
+Make ParallelComp2D row-major (when called on (x,y)), which is more likely what we want. Add UnParallelComp2D.
+END

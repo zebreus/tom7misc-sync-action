@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-21T04:52:13.719598Z
+K 7
+svn:log
+V 123
+Now working with replaced PRG. Hacked around with timing and this looks slightly better, but also worse than it used to be?
+END

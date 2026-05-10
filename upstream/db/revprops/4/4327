@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-04-04T14:37:12.197122Z
+K 7
+svn:log
+V 111
+Use Font from cc-lib/sdl, which originally came from escape anyway. Some more header cleanup and modernization.
+END

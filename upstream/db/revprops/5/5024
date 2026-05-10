@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-03T17:49:29.363039Z
+K 7
+svn:log
+V 96
+Delete FACTORIZATION_APP preprocessor macro (always on) and some EMSCRIPTEN stuff (more remains)
+END

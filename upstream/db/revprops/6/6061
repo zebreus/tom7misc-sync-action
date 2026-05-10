@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-31T04:39:01.549427Z
+K 7
+svn:log
+V 52
+Add post-hoc sprite renderer, also fixing a dumb bug
+END

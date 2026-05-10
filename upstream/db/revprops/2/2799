@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-09T18:24:30.822684Z
+K 7
+svn:log
+V 86
+basic start on AOT. GCC shits the bed for 7MB function, so better do chunking up front
+END

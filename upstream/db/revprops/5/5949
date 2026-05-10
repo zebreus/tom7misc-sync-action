@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-07-14T03:33:44.747713Z
+K 7
+svn:log
+V 84
+Oops, feof does not do what I thought it does. This can now dump a reference file ok
+END

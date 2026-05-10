@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-10-23T15:11:45.601172Z
+K 7
+svn:log
+V 113
+Only use unit on rhs of otherwise/andalso, to facilitate language change. Reformat some source while I'm in there
+END

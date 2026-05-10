@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-26T16:00:21.532349Z
+K 7
+svn:log
+V 197
+OK, got tough and used a type parameter for Named/Explicit in asm. Some parts get more verbose but it's much cleaner. Add such a thing for the frame size, which writes itself. Fix compile in SML/NJ
+END

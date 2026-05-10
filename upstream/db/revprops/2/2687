@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-01-19T14:45:30.287206Z
+K 7
+svn:log
+V 150
+Make state non-optional. I was assuming this in a few places and wasn't using the flexibility/complexity anyway. Can always go back if it seems useful
+END

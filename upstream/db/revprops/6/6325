@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-17T19:22:13.423781Z
+K 7
+svn:log
+V 112
+Also loop on BUSY result at statement prep time. Use busy timeouts, which might be more ergonomic. Thx dwrensha@
+END

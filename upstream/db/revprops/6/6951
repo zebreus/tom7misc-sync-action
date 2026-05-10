@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-01T00:04:19.656340Z
+K 7
+svn:log
+V 88
+Support std::pair<>, avoiding some strict UB issues by calling construct_at and similar.
+END

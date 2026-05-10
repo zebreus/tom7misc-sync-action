@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-04-26T13:10:16.866568Z
+K 7
+svn:log
+V 277
+Refactor patch stuff a little. Add z3 attempt to just bound edge length. It works a little (on this revision, I can determine that the min is 0 <= x <= 3.0517578125 and the max is 2.288818359375 <= x < 3.0517578125). But z3 is stuck and doesn't even observe its own timeout. :(
+END

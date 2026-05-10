@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-04T22:03:31.297397Z
+K 7
+svn:log
+V 116
+Pull out parsing code, which works but is crazy slow (I guess it is doing too much initialization work on each call)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-12-31T21:06:18.516312Z
+K 7
+svn:log
+V 141
+Move stateinfo decls to their own headers, which fixes the problem where they couldn't be const (? don't understand that one). Clean up style
+END

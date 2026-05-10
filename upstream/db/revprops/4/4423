@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-10-31T02:55:50.318656Z
+K 7
+svn:log
+V 71
+Implement Adam weight updates, which seems to work but is not a panacea
+END

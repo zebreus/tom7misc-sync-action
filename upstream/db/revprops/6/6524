@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-06-06T13:17:21.359537Z
+K 7
+svn:log
+V 129
+Make dynamic optimizer work with std::span to avoid copies. Fix existing deadlock during destruction of opt-seq. Other miscellany
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-08-15T15:36:47.192343Z
+K 7
+svn:log
+V 74
+PPU_Reset needs to reset even more, otherwise one game can affect the next
+END

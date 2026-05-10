@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-04-06T03:52:37.750806Z
+K 7
+svn:log
+V 139
+Add a few tests for intmaths, and update comment about 'star of david' configuration (the test does work). Delete unused and crappy cursor.
+END

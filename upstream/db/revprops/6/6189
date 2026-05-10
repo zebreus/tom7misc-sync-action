@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-25T03:27:49.743804Z
+K 7
+svn:log
+V 57
+Import 3D quickhull; compiles but not ported / hooked up.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-06-27T03:40:54.064545Z
+K 7
+svn:log
+V 85
+Add multi-channel networks. Try learning from palette indices, and using color output
+END

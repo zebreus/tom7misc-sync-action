@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-03-01T00:53:17.167859Z
+K 7
+svn:log
+V 63
+Add stemming to wordnet wrapper; names list; more missing words
+END

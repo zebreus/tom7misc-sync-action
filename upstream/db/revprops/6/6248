@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-18T20:09:43.339101Z
+K 7
+svn:log
+V 90
+Modernization: Move to c++23 (optionally). Delete integral_types header. Add AppendFormat.
+END

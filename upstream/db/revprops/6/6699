@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-25T19:37:45.819486Z
+K 7
+svn:log
+V 99
+Pull out TryOneSample in filter step, which will make it straightforward to explicitly test corners
+END

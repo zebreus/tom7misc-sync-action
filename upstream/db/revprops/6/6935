@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-02-21T20:10:12.934616Z
+K 7
+svn:log
+V 36
+Fix some pedantic issues in GCC 13.3
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-03T18:08:18.074352Z
+K 7
+svn:log
+V 105
+Chipping away at session tickets, but the state machine needs to be cleaned up for abbreviated handshakes
+END

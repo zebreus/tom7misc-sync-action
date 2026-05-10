@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-01-11T21:11:22.946616Z
+K 7
+svn:log
+V 127
+beats basically working; can't do custom compound signatures yet but that is just a matter of reading the event from some label
+END

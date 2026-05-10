@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-18T16:06:58.621292Z
+K 7
+svn:log
+V 61
+Make test fit in 8.3 chars. Update paper.c to use switch, too
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-11-15T23:49:52.117436Z
+K 7
+svn:log
+V 74
+Parse UnicodeData.txt, which is included (compressed) as unicode-data.ccz.
+END

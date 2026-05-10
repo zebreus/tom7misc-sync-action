@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-05-11T14:19:00.645648Z
+K 7
+svn:log
+V 143
+About to remove DLL idea and just use an array; seems much more expedient and the cost will be small relative to all this frame blitting anyway
+END

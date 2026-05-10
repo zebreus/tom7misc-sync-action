@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-12-31T22:03:56.428400Z
+K 7
+svn:log
+V 107
+Next step is get rid of MovieRecord and MovieData, but they're intertwined with INPUTFC and so on (fn ptrs)
+END

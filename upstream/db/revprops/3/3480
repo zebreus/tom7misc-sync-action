@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-06T15:05:02.453306Z
+K 7
+svn:log
+V 156
+Add A13 decoding and take that into account. Seems to solve bus conflicts on ice hockey. Still plenty of sync jank, though, probably just scheduling latency
+END

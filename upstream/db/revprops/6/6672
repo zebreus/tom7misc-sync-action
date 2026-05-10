@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-16T13:36:39.850578Z
+K 7
+svn:log
+V 170
+Move some more stuff to hypercube.h. Add diameter and minimum width calculations, which I think are correct and should be reasonably fast, but they are not hooked up yet.
+END

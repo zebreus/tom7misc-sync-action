@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-01-02T17:43:09.344840Z
+K 7
+svn:log
+V 121
+Start block analysis optimization. Change function blocks to be more uniform. Optimization of GotoIf and some comparisons
+END

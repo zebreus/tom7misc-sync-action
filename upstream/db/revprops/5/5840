@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-24T22:58:47.525494Z
+K 7
+svn:log
+V 123
+Remove 'using std::pair' and 'using std::make_pair' in type_traits.h. We don't want these leaking into basically everything
+END

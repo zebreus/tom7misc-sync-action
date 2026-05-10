@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-02-09T05:13:14.749707Z
+K 7
+svn:log
+V 192
+Make SaveUncompressed const, so that it can be used to clone a const emulator in desperate twists. Clean up state init code to enable that. Note broken test, untabify aot.cc, fix some warnings
+END

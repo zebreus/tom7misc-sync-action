@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-07T02:11:53.574917Z
+K 7
+svn:log
+V 216
+Land new representation for BigInt (small int optimization) and several bug fixes and performance fixes for BigInt and BigRat. Adds test for underlying representation and benchmark. Benchmark is 15% with this change.
+END

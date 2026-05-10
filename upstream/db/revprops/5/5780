@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-04T03:18:13.588615Z
+K 7
+svn:log
+V 190
+From plane. Fix bug in optimization. Special case 1:1 images, e.g. for background. Render bullets in slide and quotes in slide. Implement @. Add lexing of OP keyword, but it's not hooked up.
+END

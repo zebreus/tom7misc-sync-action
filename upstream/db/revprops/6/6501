@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-05-17T03:20:31.063414Z
+K 7
+svn:log
+V 76
+Try to make performance of kd-tree reasonable for 1B points... not there yet
+END

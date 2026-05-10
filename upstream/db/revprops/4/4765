@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-12-04T18:06:30.554039Z
+K 7
+svn:log
+V 55
+Basic Lat-Lon tree, based on my similar code in sml-lib
+END

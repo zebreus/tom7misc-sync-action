@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-08-19T16:31:51.958729Z
+K 7
+svn:log
+V 42
+Add GPX parser (works?) for segment thingy
+END

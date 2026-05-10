@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-03T03:47:49.301711Z
+K 7
+svn:log
+V 65
+Improve compilation when c++20 is not ready yet, like in the past
+END

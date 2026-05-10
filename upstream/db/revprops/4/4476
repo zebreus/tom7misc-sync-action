@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-12-17T15:44:43.635447Z
+K 7
+svn:log
+V 124
+Update BiteOpt to head version. Improve interface in optimizer.h so that it can return gradients outside the feasible region
+END

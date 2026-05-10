@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-04-14T21:05:36.461678Z
+K 7
+svn:log
+V 38
+Implement snapping to nodes (in areas)
+END

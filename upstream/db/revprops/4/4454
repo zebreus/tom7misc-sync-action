@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-19T02:18:34.751076Z
+K 7
+svn:log
+V 104
+Add icon in graph to make it easier to tell a humidity sensor from a temperature sensor of the same name
+END

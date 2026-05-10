@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-07-17T04:43:35.883981Z
+K 7
+svn:log
+V 51
+This version passes smallcrush except for MaxOft 6.
+END

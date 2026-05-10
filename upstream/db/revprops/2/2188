@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-05-10T20:24:32.198645Z
+K 7
+svn:log
+V 50
+Simple program that sorts the letters in each line
+END

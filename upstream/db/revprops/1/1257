@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-04-25T05:35:41.973838Z
+K 7
+svn:log
+V 80
+secondlevel, improved physics a little more; started on death and win conditions
+END

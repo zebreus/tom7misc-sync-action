@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-14T17:08:10.074754Z
+K 7
+svn:log
+V 205
+Finish 6502 instruction set. clean out some histo crap. new longer benchmark that waits for convergence. do direct RAM read/writes for ~1.5% speedup. About to treat registers locally and explicitly export.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-17T14:43:03.903529Z
+K 7
+svn:log
+V 51
+Implement switching of text styles while rendering.
+END

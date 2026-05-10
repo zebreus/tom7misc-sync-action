@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-31T01:45:45.069098Z
+K 7
+svn:log
+V 130
+Fix bugs (line side test was backwards because of confusion between screen-cw and cartesian-cw winding orders). Add visualization.
+END

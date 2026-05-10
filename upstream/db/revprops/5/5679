@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-16T21:58:49.713749Z
+K 7
+svn:log
+V 414
+Added forall, typefn, typeapp to IL. Like existential types, these are only used by closure conversion so they are not needed in unification etc.. It is awkward that we have both prenex polymorphism and first-class now; it might make sense to try to transform prenex into these constructs after type checking. We could also try monomorphizing so that we don't need forall in closure conversion. Bug is still there.
+END

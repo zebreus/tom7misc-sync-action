@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-09-03T19:38:15.743651Z
+K 7
+svn:log
+V 153
+Implement two-pass rle compression, which can frequently use reduced-bit frames. Shaves 13% off tom7.esp. More cleanup, more channel-order fixes for OSX.
+END

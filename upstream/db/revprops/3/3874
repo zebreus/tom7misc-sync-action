@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-03-03T18:14:39.426081Z
+K 7
+svn:log
+V 151
+Tournament now works on the least-populated cells, and against a time budget. When running elo, sample a fixed number of games; this works much better.
+END

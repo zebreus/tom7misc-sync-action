@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-05-12T18:18:01.747168Z
+K 7
+svn:log
+V 132
+Trying to make BoVeX run from arbitrary directories. Renamed some ancient Util functions, which meant fixing a bunch of old programs
+END

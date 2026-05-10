@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-20T14:08:35.109227Z
+K 7
+svn:log
+V 71
+Convert some quadmodll guts to BigInt, primarily the 400-element arrays
+END

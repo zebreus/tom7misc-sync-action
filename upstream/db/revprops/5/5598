@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-24T15:27:32.462912Z
+K 7
+svn:log
+V 167
+Improve tuning: Save model name for posterity; get the number of actual layers. Try to rationalize the model-with-tuning stuff as some enums, at least for my computer.
+END

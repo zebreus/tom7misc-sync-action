@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-07-04T04:03:08.959745Z
+K 7
+svn:log
+V 259
+Start on threaded audio engine, and then spend a while tracking down a serious bug in IntervalCover. Along the way, switch to using pthreads everywhere (probably safer), write a little logging package, move sorry-layer into its own file, note some TODOs, etc.
+END

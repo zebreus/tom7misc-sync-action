@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-13T03:00:41.054669Z
+K 7
+svn:log
+V 147
+The problem is just that recursion is not allowed in OpenCL :( This version works on almost half of random 64-bit ints, but that's not that good...
+END

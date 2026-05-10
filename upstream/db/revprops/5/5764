@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-31T23:07:13.911914Z
+K 7
+svn:log
+V 54
+Add stb_image_resize with simple wrapper for ImageRGBA
+END

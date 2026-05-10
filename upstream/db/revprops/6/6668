@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-14T03:39:51.028954Z
+K 7
+svn:log
+V 72
+Perform double-based filtering before doing the expensive rational tests
+END

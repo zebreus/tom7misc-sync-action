@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-17T04:21:03.612729Z
+K 7
+svn:log
+V 39
+Reduce the number of globals in modmult
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-08T14:01:29.183286Z
+K 7
+svn:log
+V 181
+Move MMC5 hacks in cart to MMC5 mapper. Expose MMC5 interface so that PPU can do a downcast when MMC5Hack is on. Add (probably temporary) CHECKs with typeid. A bit of code cleaning.
+END

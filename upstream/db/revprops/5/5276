@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-30T22:13:53.493313Z
+K 7
+svn:log
+V 124
+Check recursive solutions. Get modulus limbs from MontgomeryParams instead of recomputing them. Some short-lived self-checks
+END

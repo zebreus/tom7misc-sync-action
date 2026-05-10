@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-25T04:37:08.749314Z
+K 7
+svn:log
+V 81
+Switch to FixederSys light. Reproduce the compiler bug and work around it for now
+END

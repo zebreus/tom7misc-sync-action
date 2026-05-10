@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-05T04:14:19.133043Z
+K 7
+svn:log
+V 53
+Move PolyhedronByName to cc-lib, since I wanna use it
+END

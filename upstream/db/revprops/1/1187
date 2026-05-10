@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2009-12-30T03:47:51.547487Z
+K 7
+svn:log
+V 56
+spaces in filenames interfere with source release script
+END

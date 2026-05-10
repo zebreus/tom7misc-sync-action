@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-15T13:34:52.173090Z
+K 7
+svn:log
+V 156
+Fix bug with generalization (free evar within bound evar). Fix bugs in list-map, ugh. Improve error messages in pattern compilation. Found a new bug, though
+END

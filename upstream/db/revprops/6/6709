@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-09-14T22:41:45.559099Z
+K 7
+svn:log
+V 40
+Fix some format strings I broke recently
+END

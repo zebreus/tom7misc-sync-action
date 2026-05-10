@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-06-08T16:04:05.734836Z
+K 7
+svn:log
+V 92
+pretty easy to make menu play noise. need to have this not affect the game timer and loop...
+END

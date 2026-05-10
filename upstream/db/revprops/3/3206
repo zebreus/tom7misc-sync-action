@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-25T16:07:33.936284Z
+K 7
+svn:log
+V 169
+Multichannel sound really working now; fixed more bugs. Program to convert midi (if in a particular simple mono-per-track normalized format) to ABC. Update plumber song.
+END

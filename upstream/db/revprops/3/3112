@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-26T19:44:50.463498Z
+K 7
+svn:log
+V 253
+Get into tox86. Implement push, pop, immediate, loadlabel, and frame adjustments. Add signature to tactics. Additional printing in x86. Debug printing during tox86. Commit to keeping EBP and EBX 32 bytes below what they nominally point to; document that
+END

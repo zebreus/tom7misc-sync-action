@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-08-08T22:39:42.842031Z
+K 7
+svn:log
+V 131
+Move top_test to cc-lib. New home-grown fixedsys default in dotemacs. Clean up mtoz code while looking at it (tabs, 80 chars, etc.)
+END

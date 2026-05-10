@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-06T22:14:14.316430Z
+K 7
+svn:log
+V 65
+xbak ybak stuff still sucks, but use bigint and explicit optional
+END

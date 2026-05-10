@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-09-03T16:07:52.701712Z
+K 7
+svn:log
+V 94
+Split out eval data into its own library. Improve eval-autocamera, including better 2p support
+END

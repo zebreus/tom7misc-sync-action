@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-03T02:50:53.024855Z
+K 7
+svn:log
+V 52
+Copy training examples in a batch. Now over 2000 eps
+END

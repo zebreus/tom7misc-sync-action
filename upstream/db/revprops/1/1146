@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2009-11-16T05:26:36.117120Z
+K 7
+svn:log
+V 60
+make everything compile again, release process, efficiencies
+END

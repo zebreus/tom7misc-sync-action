@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-12-11T18:45:13.274543Z
+K 7
+svn:log
+V 63
+fix serious bug deep in the maths; things bounce plausibly now!
+END

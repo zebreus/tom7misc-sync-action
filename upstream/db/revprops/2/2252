@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-07-04T15:39:25.257236Z
+K 7
+svn:log
+V 123
+Template specializations have to go in .cc file. Add rudimentary drawing to UI to see threaded filling of the audio buffer.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-10-16T21:25:21.568280Z
+K 7
+svn:log
+V 225
+Fix bug initializing error array (size is in bytes, not number of elements.... again). Still a bunch of weird debugging stuff in here. Now it quickly converges to zero boolean errors, maybe will also fine tune to 'converged'?
+END

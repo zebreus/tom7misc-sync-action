@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-10-08T14:35:48.908538Z
+K 7
+svn:log
+V 79
+More 'delete this' cleanup. All the remaining ones are from Hashtable template.
+END

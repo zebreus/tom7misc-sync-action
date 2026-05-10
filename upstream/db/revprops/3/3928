@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-04-24T00:07:35.207846Z
+K 7
+svn:log
+V 37
+Implement HMAC-SHA256 and PBKDF2(ish)
+END

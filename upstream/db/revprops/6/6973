@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-03-16T16:46:30.736670Z
+K 7
+svn:log
+V 92
+Try switching strings to be always in terms of codepoints, not bytes. Not all sorted out yet
+END

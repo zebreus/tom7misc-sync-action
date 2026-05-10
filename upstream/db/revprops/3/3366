@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-01-02T01:48:47.662688Z
+K 7
+svn:log
+V 100
+First attempt at explicit exploration. Has some problems (noted), and also doesn't seem to help, ugh
+END

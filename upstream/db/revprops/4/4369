@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-07-03T03:07:41.728367Z
+K 7
+svn:log
+V 170
+Add utility to generate SFD from proportional bitmap font. FontForge doesn't like the 'self-intersecting' (coincident) points, but the generated font seems to work great.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-26T22:39:05.053642Z
+K 7
+svn:log
+V 107
+This is a better way to specify the prerequisites for FixedSortN, and might work around the g++ 13 ADL bug.
+END

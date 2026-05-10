@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2012-11-30T18:32:54.401148Z
+K 7
+svn:log
+V 137
+Make Objective::Enumerate MUCHHH faster by precaching which frames are equal on the prefix. Fix some compiler warnings and strip some ^Ms
+END

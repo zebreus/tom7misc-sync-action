@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-10T20:04:29.573940Z
+K 7
+svn:log
+V 168
+Add (surprisingly involved) routine to compute the smallest sphere enclosing a point set. Then we can optimize wrt this instead of assuming the sphere is at the origin.
+END

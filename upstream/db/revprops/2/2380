@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-19T00:22:26.453973Z
+K 7
+svn:log
+V 167
+Added a bunch of tracing and discovered that 'smallcount' is not properly included in savestates (boards/tengen.cc). Added it, and now skull.nes passes savestate test.
+END

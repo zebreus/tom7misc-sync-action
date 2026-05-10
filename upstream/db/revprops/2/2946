@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-30T22:48:22.259161Z
+K 7
+svn:log
+V 133
+More move.h migration, delete deprecated old-style level support and some other unused junk, improve level sanitization, code cleanup
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-03-01T20:32:19.901064Z
+K 7
+svn:log
+V 79
+Split out headers, checkpoint the old version, parallel map, truetype rendering
+END

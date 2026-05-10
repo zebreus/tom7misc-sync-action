@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-07-07T20:25:55.714120Z
+K 7
+svn:log
+V 81
+Make it possible to seed each optimizer instance. Export the number of calls made
+END

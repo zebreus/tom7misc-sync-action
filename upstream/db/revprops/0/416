@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-06T17:27:17.761986Z
+K 7
+svn:log
+V 87
+Stab at shamdict runtime support. I think the bound var will turn out to be unnecessary
+END

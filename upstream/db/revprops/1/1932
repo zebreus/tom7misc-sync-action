@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-03-03T14:51:12.192806Z
+K 7
+svn:log
+V 98
+bad bugfix in future cropping. add future mutation. add color. add fitness score from backtracking
+END

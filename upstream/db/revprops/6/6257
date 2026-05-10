@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-25T21:24:34.761891Z
+K 7
+svn:log
+V 90
+Add nopert 'scoreboard'. Add symmetry groups to polyhedra. New adversarial nopert strategy
+END

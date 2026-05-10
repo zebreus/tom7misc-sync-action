@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-06T20:03:21.996035Z
+K 7
+svn:log
+V 126
+Fix gpio benchmark. Notes on timing. Seems we can be a lot faster than we currently are, though latency is a bit of an unknown
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2011-06-25T17:04:40.626833Z
+K 7
+svn:log
+V 93
+Metautil generates cell sig/struct that compiles. But need to gut dynamics.sml and hook it up
+END

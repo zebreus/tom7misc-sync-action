@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2012-10-28T00:08:18.743244Z
+K 7
+svn:log
+V 125
+Add public domain stb_image. Indent base/port.h to try to fix compilation on MSVC; can't figure it out. Other misc changes...
+END

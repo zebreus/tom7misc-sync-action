@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-11-15T23:48:44.950599Z
+K 7
+svn:log
+V 305
+Possibly unwise: I got rid of re2::StringPiece and I'm just using string_view now. The data=nullptr issue is weirder than I thought; apparently in c++17 the default constructor WILL produce data=nullptr, but you can't get to this state otherwise. In c++20 it might not be nullptr. I tried to stamp it out.
+END

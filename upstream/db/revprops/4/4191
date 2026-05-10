@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-07T04:32:58.499921Z
+K 7
+svn:log
+V 88
+Import BiteOpt blackbox function optimizer with wrapper and simple test. Can be improved
+END

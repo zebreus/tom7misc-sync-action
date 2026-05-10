@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-05-11T17:19:55.620416Z
+K 7
+svn:log
+V 48
+Fix bug; use next_screen for palette as designed
+END

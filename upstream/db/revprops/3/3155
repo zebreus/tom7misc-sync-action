@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-09T23:59:20.925160Z
+K 7
+svn:log
+V 46
+Implement AND as well as 16->8 bit truncation.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-24T20:03:04.138913Z
+K 7
+svn:log
+V 255
+Add 3D text. Changed type of get-boxes primop to be a better example in the paper, which also made it easier to support left justification finally. Left-justify bibliography. Added a bunch of text to the paper. Probably more stuff. I drank too much coffee
+END

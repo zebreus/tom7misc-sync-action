@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-12-10T16:11:25.061950Z
+K 7
+svn:log
+V 95
+Use byte table and delete inverse method. Slow but much better. Use multistrategy for load_ax16
+END

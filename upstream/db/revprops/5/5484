@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-10T02:56:48.124357Z
+K 7
+svn:log
+V 54
+Provisionally add lug parser combinators. MIT license.
+END

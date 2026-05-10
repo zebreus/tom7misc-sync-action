@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-09-30T20:27:34.775047Z
+K 7
+svn:log
+V 135
+Compute stats on segments, print everything for playing around in spreadsheets. 'gracefully' reject GPX without all the required fields
+END

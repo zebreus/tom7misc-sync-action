@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-02-11T20:01:58.519037Z
+K 7
+svn:log
+V 55
+Faster right shift by 7; trying new approach for IsZero
+END

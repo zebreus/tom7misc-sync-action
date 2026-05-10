@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-01-19T15:31:12.615722Z
+K 7
+svn:log
+V 62
+Add collision counter, make tree max size reasonable, clean up
+END

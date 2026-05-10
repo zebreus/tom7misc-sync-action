@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-12-03T13:45:03.941244Z
+K 7
+svn:log
+V 69
+Fix copying of the std::function in Asynchronously; add test for this
+END

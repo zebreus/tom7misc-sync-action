@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-18T14:58:23.141102Z
+K 7
+svn:log
+V 97
+Fixed bug, which was in DEAD. Now need to make sure we treat the 'kind' of variables correctly...
+END

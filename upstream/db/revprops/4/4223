@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-31T17:59:07.850288Z
+K 7
+svn:log
+V 193
+Load SDFs. sdf-info shows that these are good settings, usually falling off completely before the edge, and only dropping about 4% of fonts for not fitting in the box. Add scaled drawing to UI.
+END

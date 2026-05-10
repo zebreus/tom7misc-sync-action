@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-03-24T15:16:18.948686Z
+K 7
+svn:log
+V 69
+more startup config, plus record readings per second for benchmarking
+END

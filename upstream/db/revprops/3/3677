@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-08-19T22:51:06.571269Z
+K 7
+svn:log
+V 265
+Add FM7 format and tool to convert from FM2; lightly tested. Fix bug where second player would sometimes have uninitialized data in SimpleFM2 reader. Some documentation in PPU, and access to Y scroll pos. Switch back to mingw64 compiler. Delete obsolete fm2tocc app
+END

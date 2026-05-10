@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-16T02:08:30.245248Z
+K 7
+svn:log
+V 224
+implement a bunch of 'optimizations' to try to make direct function calls cheaper. but known (which is necessary) indiscriminately inlines all direct calls, which can cause huge explosions in program size... need to fix this
+END

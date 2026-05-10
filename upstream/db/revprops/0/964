@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-12-23T01:02:05.503433Z
+K 7
+svn:log
+V 87
+make icon appropriate for this app. workin on drawable stuff, probably should go to sdl
+END

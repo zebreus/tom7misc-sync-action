@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-10-21T21:49:19.772351Z
+K 7
+svn:log
+V 129
+Implemented 'marathon' node and strategy. Not clear it's actually a good idea. Some misc fixes and notes about contra experiments
+END

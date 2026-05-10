@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-01-02T16:39:03.165207Z
+K 7
+svn:log
+V 340
+Make N-Markov controller, which generalizes markov. Fix a typo that caused the two players to share the same model, and a bug that caused an input not necessarily in the domain to be the starting markov seed, and another that caused all the markov outputs to be generated from the same state per round, rather than depending on one another.
+END

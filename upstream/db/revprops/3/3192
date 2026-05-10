@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-18T00:21:46.325966Z
+K 7
+svn:log
+V 85
+Implement left shifts, multiplication at 8- and 32-bit width, complement and negation
+END

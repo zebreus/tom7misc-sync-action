@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-11-01T15:21:27.162222Z
+K 7
+svn:log
+V 51
+Delete old SDL frameworks. Updating for El Capitan.
+END

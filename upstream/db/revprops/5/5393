@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-25T05:43:44.360290Z
+K 7
+svn:log
+V 73
+Explicitly choose the next state in EGCD64, since gcc can't figure it out
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-14T20:46:56.785894Z
+K 7
+svn:log
+V 65
+Compress animation PNGs with zopflipng. 146817 to 112547 bytes :)
+END

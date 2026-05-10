@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-08T03:36:14.250305Z
+K 7
+svn:log
+V 75
+Fix bug in UnpackFrame (matrix was transposed); this can reverse rotations.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-11-29T15:55:40.532563Z
+K 7
+svn:log
+V 56
+Fix compilation on windows, and add signature for scene.
+END

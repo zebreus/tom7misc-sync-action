@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-14T13:07:14.135027Z
+K 7
+svn:log
+V 100
+Some cleanup / modernization / os x portability from plane. Also start draft big interval arithmetic
+END

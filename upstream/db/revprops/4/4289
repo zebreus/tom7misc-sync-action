@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-20T20:24:33.226708Z
+K 7
+svn:log
+V 200
+add float-based threshold/aa operation that does bilinear resize only once, and move to that. be clearer about scale vs quality params because I kept confusing myself. add crap prediction output in ui
+END

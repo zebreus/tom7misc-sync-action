@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-18T16:16:59.250760Z
+K 7
+svn:log
+V 63
+Use only printable characters in header; this can be improved..
+END

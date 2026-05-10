@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-06-26T15:01:52.230882Z
+K 7
+svn:log
+V 203
+Import everything from my sourceforge CVS repository that wasn't already moved somewhere else. That repository can be considered obsolete now. Add some documentation and clean up stuff like DOS newlines.
+END

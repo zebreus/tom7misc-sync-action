@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-19T00:27:39.600686Z
+K 7
+svn:log
+V 119
+Different syntactic class for references to globals. Generalize simplification pass a bit to allow for other approaches
+END

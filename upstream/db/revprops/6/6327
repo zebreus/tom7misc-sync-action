@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-18T04:13:04.142618Z
+K 7
+svn:log
+V 90
+Orient meshes using half-edges. Try backface culling in rendering, but it still looks bad?
+END

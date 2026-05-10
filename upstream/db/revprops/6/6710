@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-09-14T22:42:18.953952Z
+K 7
+svn:log
+V 65
+Fix typo. BoVeX now requires an explicit include for PDFInfo too.
+END

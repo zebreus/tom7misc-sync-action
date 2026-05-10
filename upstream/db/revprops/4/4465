@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-28T00:11:55.700500Z
+K 7
+svn:log
+V 212
+Compute conv indices in updateweights. Cleaner way to dump PTX. Write images for all layers. Add audio database and use it as training examples. Schedule chunks for backward pass to overwrite as often as possible
+END

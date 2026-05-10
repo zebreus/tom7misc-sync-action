@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-04-17T03:23:01.416951Z
+K 7
+svn:log
+V 21
+Fix makefile on linux
+END

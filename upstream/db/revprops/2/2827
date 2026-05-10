@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-28T15:41:14.163647Z
+K 7
+svn:log
+V 757
+Kill UPALRAM. Grep for 'static' and verify there are none. Make constness of md5 padding evident; fix types in interface. Clean up input/* to use final, include only the headers actually used (shared.h becomes cursor.h, use templates and using Superclass::Superclass in a few places, delete unused EMUFILE code, rename EMUFILE to look less like enum, add missing include guards, scrub uses of 'char' that should be 'uint8', remove unused custom palette loading, delete some commented-out, long-dead code, delete dummy mapper, a bit of C++ modernization, make ImageChecksum return a forced 0 if DISABLE_VIDEO is set, extend emulator_test to read/write CPU checksum, clean up goto in FCEU initialization, make DISABLE_SOUND and DISABLE_VIDEO optional defines.
+END

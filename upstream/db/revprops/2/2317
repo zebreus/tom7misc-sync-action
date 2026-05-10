@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-12-20T13:35:34.770835Z
+K 7
+svn:log
+V 74
+Rename .cpp to .cc in main directory. Clean out FIR directory and document
+END

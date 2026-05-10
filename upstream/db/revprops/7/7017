@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-18T21:37:03.836801Z
+K 7
+svn:log
+V 92
+Clean up these tools a bit. Make it work even in msys2 when a directory is on another drive.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-28T15:33:44.887618Z
+K 7
+svn:log
+V 153
+Fix exponential tail behavior with the smallest sphere code. I think the main thing is that we need to stop early when the simplex becomes a tetrahedron.
+END

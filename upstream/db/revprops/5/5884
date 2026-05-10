@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-05-19T21:39:15.508305Z
+K 7
+svn:log
+V 183
+Work around bug with integer voronoi code (wrong final column). Relax ImageF so that it stores 'HDR', and restore that behavior in the lowercase project (I hope) which may rely on it.
+END

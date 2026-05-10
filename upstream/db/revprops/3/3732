@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-10-07T16:45:11.621032Z
+K 7
+svn:log
+V 123
+Use finer-grained locking and batching in explore phase. Utilization is still pretty lumpy during that phase; unknown cause
+END

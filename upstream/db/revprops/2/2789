@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-04-24T18:06:18.490897Z
+K 7
+svn:log
+V 181
+Some code cleanup and documentation. Make bus_conflict in datalatch be constant (and so don't save it in savestates). Use final to encourage compiler to specialize stuff like WSync.
+END

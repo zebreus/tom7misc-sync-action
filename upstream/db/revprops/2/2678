@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-01-01T14:31:05.253839Z
+K 7
+svn:log
+V 114
+Tree drawing and objective debugging. Tends to get stuck (probably in local maxima) even with handmade objectives.
+END

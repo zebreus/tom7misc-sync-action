@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-07T13:08:53.650151Z
+K 7
+svn:log
+V 42
+Also split out the WIN_ANSI case ('Font8')
+END

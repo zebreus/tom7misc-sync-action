@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-01-08T22:05:27.026123Z
+K 7
+svn:log
+V 211
+about to change my mind; dictionaries are needed at 'gets' but not only for the type of the body--rather they are needed for the type of the closure. So we should do this transformation after closure conversion.
+END

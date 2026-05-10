@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-06-05T17:13:12.991662Z
+K 7
+svn:log
+V 87
+get rid of nonexhaustive warnings that show up in every program that uses this library.
+END

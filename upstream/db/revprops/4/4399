@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-09-11T15:48:44.761973Z
+K 7
+svn:log
+V 68
+Implement and use ScaleToFit instead of stretching map; beautiful!
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-17T21:34:50.535265Z
+K 7
+svn:log
+V 179
+emulator_test.cc isolates failures better. Looks like it happens at lots of steps in Skull & Crossbones. Next step is compute CPU traces for these steps to see where they diverge.
+END

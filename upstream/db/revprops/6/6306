@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-09T15:02:00.255278Z
+K 7
+svn:log
+V 43
+Clean up; add direct implementation of Sign
+END

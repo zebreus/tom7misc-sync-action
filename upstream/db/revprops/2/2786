@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-04-17T20:37:21.633979Z
+K 7
+svn:log
+V 136
+A bit of code documentation. Make a constant flag constexpr. Clarify that the PRGisRAM (etc.) are actually booleans throughout the code.
+END

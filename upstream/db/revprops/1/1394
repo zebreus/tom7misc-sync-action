@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-09-26T21:24:16.982784Z
+K 7
+svn:log
+V 102
+only Solve remains in the implementation of World. add TOI Solver stub. bunch of stubs around still...
+END

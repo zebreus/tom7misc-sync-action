@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-03-04T16:04:33.105382Z
+K 7
+svn:log
+V 212
+Short program reproducing the bug; it's just something with cerr crashing, which I don't think is this program's fault. valgrind clean on linux. switching to g++ 6.4.0 also fixes it; maybe time to abandon tdm-gcc
+END

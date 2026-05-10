@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-08-07T15:42:06.739865Z
+K 7
+svn:log
+V 208
+implement convolutional array in file format / C++ network struct, and rework Network constructor (long-standing annoyances there). Mark some places in the util code that will not work with the new layer type
+END

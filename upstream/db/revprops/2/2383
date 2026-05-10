@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-19T16:45:55.336099Z
+K 7
+svn:log
+V 118
+Fix lack of savestate repeatability in 'Ultimate Basketball', though more probably remain. Some cleanup along the way.
+END

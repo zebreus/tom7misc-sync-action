@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-02T22:58:52.775589Z
+K 7
+svn:log
+V 64
+Got this compiling, at least so I can change the stbtt interface
+END

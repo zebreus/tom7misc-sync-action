@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-05-11T15:04:06.935345Z
+K 7
+svn:log
+V 116
+Mid-debugging. Fix an issue where we could optimize forever if coalescing is turned on, but dead data removal is not
+END

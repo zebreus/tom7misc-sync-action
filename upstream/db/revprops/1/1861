@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-01-13T22:19:08.726973Z
+K 7
+svn:log
+V 91
+Making progress on textformat; output currently compiles but raises unimplemented of course
+END

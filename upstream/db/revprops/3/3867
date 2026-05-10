@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-02-23T02:33:45.525698Z
+K 7
+svn:log
+V 65
+Version using 64-bit words; much faster, but still not solving it
+END

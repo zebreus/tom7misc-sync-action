@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-02-16T23:34:31.832071Z
+K 7
+svn:log
+V 63
+First pass at auto-alignment produces the expected results, yay
+END

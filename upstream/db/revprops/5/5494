@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-14T04:24:42.641673Z
+K 7
+svn:log
+V 49
+It is more fun to write my own parser combinators
+END

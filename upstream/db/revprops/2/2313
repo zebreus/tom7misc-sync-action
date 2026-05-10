@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-12-16T01:45:58.930830Z
+K 7
+svn:log
+V 63
+More portage, avoid warning about format string in debug printf
+END

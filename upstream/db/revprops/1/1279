@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-05-23T15:15:38.194758Z
+K 7
+svn:log
+V 78
+fix makefile for linux. remove #sorry that probably isn't helping. remove ^Ms.
+END

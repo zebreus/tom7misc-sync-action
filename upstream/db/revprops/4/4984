@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-08-10T01:31:10.405489Z
+K 7
+svn:log
+V 73
+New version solves two at once; it works when they are the same, at least
+END

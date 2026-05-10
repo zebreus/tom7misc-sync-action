@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-05-30T03:26:41.388011Z
+K 7
+svn:log
+V 85
+many notes on hoisting. conversational so should probably be moved out of source file
+END

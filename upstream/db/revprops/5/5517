@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-22T03:05:05.447008Z
+K 7
+svn:log
+V 47
+Add simple functional map for compiler contexts
+END

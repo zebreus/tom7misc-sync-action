@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-07-29T23:11:22.441819Z
+K 7
+svn:log
+V 476
+Modernization and OSX fixes. Update SDL libraries. Divest of SDL_Image. Use std::unique_ptr instead of extent in a few places. Avoid conflicting with some global symbol from system libraries 'extent', and with system 'dirent.h'. Fix bug in MD5, found by clang diagnostics, nice. Switch to compiling with x86_64 only on OSX. Switch to sdlutil from cc-lib. Add some missing files from compile. Update TODO. Compiles and runs now. Byte order is wrong for loaded graphics, though.
+END

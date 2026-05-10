@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-01T13:35:18.720858Z
+K 7
+svn:log
+V 97
+Allow exact integer scaling of images, and make the talk javascript configurable for screen size.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-28T20:48:26.771397Z
+K 7
+svn:log
+V 86
+implemented mudicts and sumdicts in server. only need unmarshaling on the client, easy
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-05-11T15:27:23.006037Z
+K 7
+svn:log
+V 153
+OK, fixed that bug. It sure was wrongsvn add bc_test.cc Added test for future blunders, and improved the hash function (which would conflate some zeroes)
+END

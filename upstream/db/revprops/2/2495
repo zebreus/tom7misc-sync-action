@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-05-10T13:30:05.758937Z
+K 7
+svn:log
+V 93
+Made unif into object, but not yet its static fields. Clean up all around. Do some easy TODOs
+END

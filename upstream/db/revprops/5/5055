@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-09T13:38:55.010042Z
+K 7
+svn:log
+V 53
+Try wrapping karatsuba state in an object. It crashes
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-08-05T19:50:58.457083Z
+K 7
+svn:log
+V 124
+lesson 1. Mysterious, soul-crushing bug in Closure Conversion? Find the comment where it says 'XXX should I do Y?' and do Y.
+END

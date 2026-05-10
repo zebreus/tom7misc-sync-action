@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-30T04:59:21.935963Z
+K 7
+svn:log
+V 105
+Primop eta-expansion in place. Add projections to EL, but purely as syntactic sugar. IL has them for real
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-07-06T21:29:06.865001Z
+K 7
+svn:log
+V 60
+improved treatment of primops, just need backend support now
+END

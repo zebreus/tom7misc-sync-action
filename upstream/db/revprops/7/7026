@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-19T15:49:27.758089Z
+K 7
+svn:log
+V 54
+Use a config file to describe directories; more coming
+END

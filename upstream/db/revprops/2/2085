@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-12-15T14:07:35.045931Z
+K 7
+svn:log
+V 137
+Move music to its own file and make it build automatically with makefile. Implement infinite looping for music, with the help of dumpmidi
+END

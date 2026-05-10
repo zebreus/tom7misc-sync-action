@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-11-21T23:20:16.183186Z
+K 7
+svn:log
+V 40
+start doing parallel tests with C++, urg
+END

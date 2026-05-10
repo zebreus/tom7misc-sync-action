@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-01-06T03:38:33.123075Z
+K 7
+svn:log
+V 119
+Just use a vector instead of a hash table / linked list hybrid for simplicity (also fixing some fishy stuff). Clean up.
+END

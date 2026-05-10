@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-18T18:50:19.248558Z
+K 7
+svn:log
+V 97
+Start stuff for total badness calculation. Fix hyphenation minimum size, following what TeX does.
+END

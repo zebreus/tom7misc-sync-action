@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-09T19:27:23.233621Z
+K 7
+svn:log
+V 332
+Fix a bug and a 'bug': (1) GMP represents 0 as no limbs, but BigInteger always wants at least one. Fix that during conversion. (2) Some Alpertron code relies on the limbs being zeroed in multiplication if the result is smaller than the maximum, like when multiplying by zero. Replicate that by clearing prodlen limbs in bigmultiply.
+END

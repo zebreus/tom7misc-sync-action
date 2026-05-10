@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-03T12:12:51.081979Z
+K 7
+svn:log
+V 79
+Solve a level manually from an fm2 file. I wasn't able to get this to work yet.
+END

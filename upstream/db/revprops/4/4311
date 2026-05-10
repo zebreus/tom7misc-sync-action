@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-03-16T22:44:23.588733Z
+K 7
+svn:log
+V 132
+Fix long-standing bug in BlendImage; how did I not run into that before?? Some miscellaneous improvements there, and to opt/ as well
+END

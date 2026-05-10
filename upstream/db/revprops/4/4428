@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-02T03:14:11.604636Z
+K 7
+svn:log
+V 193
+Training round as a batch of examples. Working in place by creating sub-buffers, but this is much slower than before; hopefully it gets much faster by treating the parallelism internally (next)
+END

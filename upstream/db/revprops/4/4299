@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-03-05T05:23:28.745571Z
+K 7
+svn:log
+V 199
+Add far superior (well, faster) algorithm for cubic bezier distance from Graphics Gems, not cleaned up. Also add initial port attempt in distance.cc, but just for posterity (it has some unknown bug).
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-05-16T19:16:23.706294Z
+K 7
+svn:log
+V 104
+Make this compile again, while doing some general code backups, abandon libpng, and note thread strategy
+END

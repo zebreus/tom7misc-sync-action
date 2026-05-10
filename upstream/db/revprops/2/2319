@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-12-20T13:57:07.660120Z
+K 7
+svn:log
+V 63
+Remove thread-unsafe function. Rename valuearray, add constness
+END

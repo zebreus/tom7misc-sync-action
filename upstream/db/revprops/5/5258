@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-26T13:29:21.057217Z
+K 7
+svn:log
+V 130
+More BigInt in quadmodll. Fix some bugs in uncovered code (confusing V and VV) introduced earlier. Fix problem printout in grid.cc
+END

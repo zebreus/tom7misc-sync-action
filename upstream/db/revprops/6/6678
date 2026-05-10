@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-18T16:31:19.444408Z
+K 7
+svn:log
+V 133
+Benchmark for improved AABB calculation. Still need to verify this. Add planarity calculation for patch info. Improve iboard display.
+END

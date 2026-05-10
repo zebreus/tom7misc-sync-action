@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-09T22:19:39.689594Z
+K 7
+svn:log
+V 80
+Make the callback type static (template arg), in an attempt to rationalize it...
+END

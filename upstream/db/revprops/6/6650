@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-09T17:19:39.596706Z
+K 7
+svn:log
+V 251
+Fix recently added bug in big-interval.h. Added tests. I think this bug didn't affect any results because it would immediately check-fail in the constructor (so it's probably not being called). But this is also why I want an after-the-fact verifier :)
+END

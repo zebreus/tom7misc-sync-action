@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-07-07T20:27:01.474677Z
+K 7
+svn:log
+V 108
+Add version of HSVToRGB that returns a tuple, and verify that the hue is indeed nominally [0,1] with a test.
+END

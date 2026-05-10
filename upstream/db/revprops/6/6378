@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-16T13:31:25.948437Z
+K 7
+svn:log
+V 109
+Add float trunc. Improve error messages. Fix test that was just wrong which I guess I haven't run for a year?
+END

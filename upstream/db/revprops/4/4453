@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-18T05:48:41.567148Z
+K 7
+svn:log
+V 181
+For 'direct words' toy problem: Split out some constants/utils into header. Make program for interactively querying the model. Make program for expanding the wordlist size in place.
+END

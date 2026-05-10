@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-06-04T14:55:47.105730Z
+K 7
+svn:log
+V 51
+Delete unnecessary stuff, make compile with TDM-GCC
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-02-16T23:20:20.811227Z
+K 7
+svn:log
+V 171
+Fix bogus shuffling functions, minor problems detected by clang, and compilation on OSX (might have broken it on windows). Start on sprite rotation alignment in autocamera
+END

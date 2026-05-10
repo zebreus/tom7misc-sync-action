@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-10T13:45:40.543638Z
+K 7
+svn:log
+V 63
+Stop computing unused FrameFromViewPos. Improve timing display.
+END

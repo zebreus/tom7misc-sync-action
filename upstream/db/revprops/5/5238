@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-22T13:25:18.364588Z
+K 7
+svn:log
+V 79
+Move autohisto to its own file, and use unicode bars. Some cleanup in quadmodll
+END

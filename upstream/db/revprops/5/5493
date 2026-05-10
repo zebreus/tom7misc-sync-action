@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-13T20:10:07.593252Z
+K 7
+svn:log
+V 126
+Added some more unicode (emoji) and simple tool to insert space in the font images for more. Encoding is still totally chaotic
+END

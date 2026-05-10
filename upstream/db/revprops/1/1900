@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-01-27T04:06:48.066359Z
+K 7
+svn:log
+V 97
+Standardize on 2-space indentation (lots of spurious change). Get started on world representation
+END

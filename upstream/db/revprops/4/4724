@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-09-25T22:26:35.561127Z
+K 7
+svn:log
+V 100
+Implement Grad1 FN for CPU version, and add tests that CPU and GPU compute the same thing (or close)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-12-23T19:38:30.002901Z
+K 7
+svn:log
+V 108
+Remove code duplication in powerhour.sml, oops. Implement another performance improvement that slows it down
+END

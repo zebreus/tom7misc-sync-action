@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-12-29T16:47:30.519861Z
+K 7
+svn:log
+V 25
+Turn off warning in gcc 6
+END

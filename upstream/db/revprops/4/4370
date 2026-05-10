@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-07-03T03:08:19.721943Z
+K 7
+svn:log
+V 69
+Fix bug in font-problem where it would crash on non-square bitmaps.
+
+
+END

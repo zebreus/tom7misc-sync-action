@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-11-30T04:10:05.878723Z
+K 7
+svn:log
+V 44
+Modernize a bit. Isolate output of run-mnist
+END

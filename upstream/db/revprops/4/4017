@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-01-25T17:35:41.336759Z
+K 7
+svn:log
+V 55
+Register handlers instead of implementing free function
+END

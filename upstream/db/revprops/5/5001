@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-08-21T13:53:08.630822Z
+K 7
+svn:log
+V 90
+Iterate in the hopes of reducing error. It seems there are not really two choices, though?
+END

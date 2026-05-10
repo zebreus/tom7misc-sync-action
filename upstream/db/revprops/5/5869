@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-05-06T02:15:07.116038Z
+K 7
+svn:log
+V 113
+Much faster parallel smoothing. Automatically determine pen size and shape. Blend frames. Fix dumb ink color bug.
+END

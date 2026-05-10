@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-04T04:09:49.056556Z
+K 7
+svn:log
+V 176
+Fix bugs and add some 16-bit addressing modes (note possible large code size improvement from using these for temp addressing, etc.). builtin and simpcall tests both work, whee
+END

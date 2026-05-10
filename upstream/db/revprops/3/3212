@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-04-08T14:50:23.513372Z
+K 7
+svn:log
+V 76
+Some cleanup to SDLML code (updating callers); delete some dead old dry dust
+END

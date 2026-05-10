@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-11T21:37:56.136189Z
+K 7
+svn:log
+V 102
+Add image resizing with nearest neighbor; fix byte order issue and portability issue with process-util
+END

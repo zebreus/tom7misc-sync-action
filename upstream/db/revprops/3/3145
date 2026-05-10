@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-05T23:50:08.868565Z
+K 7
+svn:log
+V 272
+Implement 'Yet' CIL operator as improvement for dos2unix eqzero.c in translation of and/or boolean ops. Note a case where I'm generating non-printable bytes. Implement EqZero and NeZero throughout. Find that there's a bug somewhere, and made a good test case with eqzero.c
+END

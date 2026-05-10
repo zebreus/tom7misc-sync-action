@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-11-01T15:23:52.296189Z
+K 7
+svn:log
+V 91
+Update to 2015. Make it 'work' on El Capitan, but there are still weird graphical artifacts
+END

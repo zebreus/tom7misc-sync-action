@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-21T22:37:07.242256Z
+K 7
+svn:log
+V 62
+Faster 64-bit factorization in bignum; add tests and clean up.
+END

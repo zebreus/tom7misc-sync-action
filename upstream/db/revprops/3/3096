@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-20T16:47:11.792580Z
+K 7
+svn:log
+V 938
+Loads of stuff while sourceforge was down. Installation/hacking notes. Cleanup in dos_execute. Allow globals to have some initializing bytes. During 'optimization', move global initialization to a new initialization stub so that assembly doesn't need to deal with it. Assembling now outputs an initial data segment. Optimize PLUS when arguments are known. New test of globals. Move genvar to cil-util; should rally all variable generation around this struct so that we don't get accidental collisions. Fix a few cases where exceptions were inaccessible because they were generated inside some functor, and add top-level handlers. Clean out CIL expressions I'm pretty sure won't be needed. Signature for EncodeX86. Add function literal CIL value, which should have always been there. Split ASM into two phases by parameterizing tmp type. Add skeleton for remainder of compiler (tmp allocation, tox86). Some paper notes and two-column test.
+END

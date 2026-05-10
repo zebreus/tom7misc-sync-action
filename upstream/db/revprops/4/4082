@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-04-30T03:29:19.022699Z
+K 7
+svn:log
+V 105
+This hook needs to return nil (maybe new behavior in emacs since 200X) or else the save-file action fails
+END

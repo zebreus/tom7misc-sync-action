@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-09-04T02:25:41.283638Z
+K 7
+svn:log
+V 67
+Fix compilation without GMP. Fix warning in sqrt with -Wall -Wextra
+END

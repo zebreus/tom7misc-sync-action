@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-01-22T20:24:10.610124Z
+K 7
+svn:log
+V 94
+Can shift 4 at a time with the canonicalize approach (but commented-out is an even better way)
+END

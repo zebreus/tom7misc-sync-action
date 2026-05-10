@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2010-01-21T16:34:42.450078Z
+K 7
+svn:log
+V 68
+makefile was including .esp/.esd files; not sure why, but this works
+END

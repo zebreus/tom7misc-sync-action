@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-11-13T16:35:13.288214Z
+K 7
+svn:log
+V 124
+Performance improvements: Skip 'hat' step when it does nothing. Overwrite instead of accumulating when using the full width.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-02-08T15:07:28.389465Z
+K 7
+svn:log
+V 92
+And actually delete code that generates the lookup table. I can visit it here if I want too.
+END

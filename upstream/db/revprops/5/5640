@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-09T14:36:10.861324Z
+K 7
+svn:log
+V 179
+Implemented the rest of with/without. Fixed bug where stringcase wasn't compiled away. Enabled more simplifications after CC. Fixed bugs in execution (e.g. get). Objects are done?
+END

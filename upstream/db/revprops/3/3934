@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2019-05-11T15:01:49.416926Z
+K 7
+svn:log
+V 109
+Skip redundant (colinear) points when generating SVGs in progress.exe; 350x size reduction in the depth graph
+END

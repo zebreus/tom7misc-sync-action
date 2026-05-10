@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-19T00:20:45.160613Z
+K 7
+svn:log
+V 96
+Add cull program to remove dead nodes. Seems to be working ok so far. Add missing collate-errors
+END

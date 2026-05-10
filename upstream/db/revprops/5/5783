@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-04T04:11:53.731878Z
+K 7
+svn:log
+V 109
+Make bignum constructors work on arbitrary integral types (C++20), maybe addressing the cross-platform issues
+END

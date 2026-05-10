@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-07-03T14:06:36.931273Z
+K 7
+svn:log
+V 144
+Fix long-standing bug and deficiency in RLE; it would never end its encoding with an anti-run, and the decoder would incorrectly fail if it did.
+END

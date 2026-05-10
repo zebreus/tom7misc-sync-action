@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+Tom7
+K 8
+svn:date
+V 27
+2007-06-06T04:28:33.590630Z
+K 7
+svn:log
+V 127
+I think it's again the same issue with getdict. but how in closure conversion to make sure we use the right (most recent) dict?
+END

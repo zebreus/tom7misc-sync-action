@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-11-03T03:29:04.340845Z
+K 7
+svn:log
+V 50
+It's 20x faster to do a whole scanline in a thread
+END

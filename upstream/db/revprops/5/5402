@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-26T22:52:11.804265Z
+K 7
+svn:log
+V 189
+Make multiplication in int128 constexpr. Perhaps some versions of the intrinsics are not constexpr, but it works for gcc 11.4 and we could always disable intrinsicts on deficient platforms.
+END

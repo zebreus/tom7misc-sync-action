@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-03T03:14:11.768062Z
+K 7
+svn:log
+V 116
+Make a little quick tool so I don't have to keep opening Photoshop to do this (just a stub; doesn't do anything yet)
+END

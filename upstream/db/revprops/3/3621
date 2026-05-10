@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-05-25T23:00:08.066876Z
+K 7
+svn:log
+V 50
+Restructure tests a little. Max test does not pass
+END

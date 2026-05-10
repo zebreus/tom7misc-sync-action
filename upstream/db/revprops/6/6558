@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-06-18T05:25:58.172296Z
+K 7
+svn:log
+V 63
+Fix some stuff that was missing; get using decls out of headers
+END

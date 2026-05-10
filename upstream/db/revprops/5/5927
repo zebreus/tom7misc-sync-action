@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-19T19:24:01.185458Z
+K 7
+svn:log
+V 162
+Work around gcc problems (cmath) and warnings when int64_t is not long long. Add compression option to pdf, but it is not yet honored. Add zlib routines to zip.h.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-01-18T18:48:16.244940Z
+K 7
+svn:log
+V 88
+Add output for round-trip tests, which look good. Some tips on illustrator import/export
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-10T02:17:29.802136Z
+K 7
+svn:log
+V 77
+Fixed the bugs (easy, dumb). Now this reproduces the mario ROM byte-for-byte.
+END

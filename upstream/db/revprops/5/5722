@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-21T23:29:55.201177Z
+K 7
+svn:log
+V 130
+OK, it's a hack, but just prohibiting it from picking a next path that starts right near the end of the string helps tremendously.
+END

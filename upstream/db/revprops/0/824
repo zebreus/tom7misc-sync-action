@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-06-21T23:18:47.104937Z
+K 7
+svn:log
+V 29
+allow growarray to be cleared
+END

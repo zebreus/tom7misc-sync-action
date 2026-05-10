@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-12-18T05:29:30.987113Z
+K 7
+svn:log
+V 55
+Add move enumerator (performance problems) and IsMated.
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-02-15T23:10:32.479098Z
+K 7
+svn:log
+V 69
+oops, it was a really dumb bug. Now rendering greyscale CHR on boxes
+
+END

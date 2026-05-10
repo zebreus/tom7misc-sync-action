@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-06-11T23:25:59.469709Z
+K 7
+svn:log
+V 126
+stubs for js codegen. ready to get trivial examples working. fixed bug in js lib escaping (probably from my port to std basis)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-01-31T21:21:45.432285Z
+K 7
+svn:log
+V 107
+Add phase to eliminate boolean ops (not implemented yet) and moved around some things to make this possible
+END

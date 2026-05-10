@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-01-21T04:09:40.203226Z
+K 7
+svn:log
+V 78
+Added parsing of App with a 'straightforward' way to add infix (and other) ops
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-11T18:39:51.146349Z
+K 7
+svn:log
+V 130
+Tried to fix GeneralModularDivision, but I think there's a bug in the original. Some fixes nonetheless, and lots of debugging crud
+END

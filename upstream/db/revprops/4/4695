@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-08-13T16:54:56.700819Z
+K 7
+svn:log
+V 58
+Got permutation working (was just a silly typo); add tests
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-04-19T01:28:51.015502Z
+K 7
+svn:log
+V 93
+Well, this works, but Windows bugs run deeper than I thought, so it doesn't fix my problem :(
+END

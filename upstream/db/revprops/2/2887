@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-08-14T16:55:39.407658Z
+K 7
+svn:log
+V 34
+Rewrite HACKING file, fix makefile
+END

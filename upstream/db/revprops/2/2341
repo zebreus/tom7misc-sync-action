@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2014-12-23T15:24:42.735568Z
+K 7
+svn:log
+V 23
+Modernize arcfour c++11
+END

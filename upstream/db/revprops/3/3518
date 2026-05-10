@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-04-14T20:44:39.277954Z
+K 7
+svn:log
+V 133
+Back to the approach that prepares the NEXT byte. This particular tweak can successfully set both color bits, but it's pretty fragile
+END

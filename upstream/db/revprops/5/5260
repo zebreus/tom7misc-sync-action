@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-10-27T03:36:59.485991Z
+K 7
+svn:log
+V 113
+GetSqrtDisc a proper function; way more vars become local. Note the failure in coverage.golden tracks a known bug
+END

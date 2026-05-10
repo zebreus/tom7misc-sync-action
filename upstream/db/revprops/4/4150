@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-08-09T18:52:22.798073Z
+K 7
+svn:log
+V 125
+Pre-server can show status while trying to make the initial connection to the database. Seems like a decent solution for now.
+END

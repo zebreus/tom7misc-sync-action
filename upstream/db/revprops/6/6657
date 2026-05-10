@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-10T15:00:18.711439Z
+K 7
+svn:log
+V 183
+More precomputation in RotTrig. Make Bigival constructors explicit so that I don't accidentally do interval arithmetic when I could do mixed ival/rat. Fix a few problems of that form.
+END

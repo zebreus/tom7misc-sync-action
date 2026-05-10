@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-07T14:37:33.331991Z
+K 7
+svn:log
+V 144
+Elaboration of object declarations and some more wiring; still incomplete. Removed vestigial 'DO' construct in EL (it is handled at parse time).
+END

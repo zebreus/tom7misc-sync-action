@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-06-07T01:11:46.932065Z
+K 7
+svn:log
+V 52
+Fix bug in Split, and add Fields/Tokens a la SML lib
+END

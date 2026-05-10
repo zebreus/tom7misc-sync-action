@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-03-14T22:31:45.935944Z
+K 7
+svn:log
+V 46
+make updateweights a kernel but I did it wrong
+END

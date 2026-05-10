@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-09-17T20:10:49.334820Z
+K 7
+svn:log
+V 87
+All the globals are gone except for the output string now (this change also a bit iffy)
+END

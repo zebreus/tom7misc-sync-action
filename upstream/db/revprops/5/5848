@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-27T18:29:27.368186Z
+K 7
+svn:log
+V 184
+Split bytecode into symbolic and numeric versions, although the transformation is a slight-of-hand currently. Rename bytecode.* to bc.* since I can't stop myself from making that typo.
+END

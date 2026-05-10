@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-02-17T20:24:20.617429Z
+K 7
+svn:log
+V 63
+Rather than write a simple program, why not make a new library?
+END

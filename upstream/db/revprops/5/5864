@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-05-04T19:33:04.125848Z
+K 7
+svn:log
+V 112
+Disable optimization that I realized can't really work without more care. First reasonable version of animation.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-07-08T20:46:18.937480Z
+K 7
+svn:log
+V 108
+New approach is 'choppy functions', which is an attempt to create basis functions... looks like it may work?
+END

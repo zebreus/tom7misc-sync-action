@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2007-07-06T16:49:08.982242Z
+K 7
+svn:log
+V 120
+implement allarrow dicts (aside from runtime support). fix another bug with mrec closure conversion, looking good now...
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-07-24T14:45:46.958983Z
+K 7
+svn:log
+V 174
+The old approach was working better; this fails lots of regular crush tests (and permuting bits is slow). But it was easier than I thought to make an 8-bit basis (see chop8).
+END

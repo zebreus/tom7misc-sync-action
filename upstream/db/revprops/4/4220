@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-30T17:26:22.367660Z
+K 7
+svn:log
+V 55
+Ignore startx,starty when drawing. Assume a closed loop
+END

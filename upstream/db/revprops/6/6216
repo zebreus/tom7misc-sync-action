@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-01T16:12:09.955405Z
+K 7
+svn:log
+V 229
+Add 'source' column to database (solutions, attempts). You probably need to recreate the database (or alter table add column ...) if you have one. Use better algorithm for loss function (it's about 5x faster). Imperts in progress
+END

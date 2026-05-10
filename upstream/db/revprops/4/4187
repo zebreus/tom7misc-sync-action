@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-12-06T23:13:22.892580Z
+K 7
+svn:log
+V 141
+Switch to normalized contours. Add start of code to detect fonts where the lowercase letters are just a scaled-down version of the uppercase.
+END

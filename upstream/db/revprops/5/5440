@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-12-17T01:57:08.331839Z
+K 7
+svn:log
+V 76
+Don't need factor.h in its own translation unit, as it is pretty trivial now
+END

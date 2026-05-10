@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-01-06T04:24:13.031251Z
+K 7
+svn:log
+V 54
+Finally just fix cc-mode's annoying #macro indentation
+END

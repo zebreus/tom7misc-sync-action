@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-06-27T03:03:06.067970Z
+K 7
+svn:log
+V 185
+This version just rounds to the nearest half after every math op in the forward pass. No performance advantage here, but it does converge without tweaking for most of the test problems.
+END

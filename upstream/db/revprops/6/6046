@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-10-14T21:42:22.934846Z
+K 7
+svn:log
+V 147
+Redo Movie representation in play. Now rewind/ffwd are fast. Also add level select screen at start, which is much better than doing it in Photoshop
+END

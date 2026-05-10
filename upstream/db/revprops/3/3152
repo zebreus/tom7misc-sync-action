@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-08T04:31:06.055361Z
+K 7
+svn:log
+V 138
+Implement argc/argv, though they can't really be used because load8 isn't implemented, and also I didn't test it so it might also not work
+END

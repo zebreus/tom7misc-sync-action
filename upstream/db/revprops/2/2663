@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-12-03T22:43:35.099965Z
+K 7
+svn:log
+V 118
+Clean up title.sml, wardrobe.sml, setlist, advances in minigame; interlude is more configurable now (not totally done)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-05-10T16:50:23.612853Z
+K 7
+svn:log
+V 97
+Some progress on AOT. Looks like this will work as long as it stays within GCC's modest limits...
+END

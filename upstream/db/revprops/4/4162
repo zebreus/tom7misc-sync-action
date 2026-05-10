@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-09-19T23:43:12.246928Z
+K 7
+svn:log
+V 147
+Fix paths to md5. Replace weird 'sizes, shint, shout' functions with new bytes.h with better names, in order to make level/solution more embeddable
+END

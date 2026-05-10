@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-30T03:22:31.836333Z
+K 7
+svn:log
+V 110
+Fixed post-enum optimization. It's not the homerun I hoped for, but it is about 10% faster for the chess demo.
+END

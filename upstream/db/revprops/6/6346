@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-03-04T14:10:09.411583Z
+K 7
+svn:log
+V 109
+Change stb_truetype interface to take size of buffer. Add routine for getting inverse glyph map. Update tests
+END

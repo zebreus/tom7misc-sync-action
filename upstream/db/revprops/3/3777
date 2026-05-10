@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-11-25T15:53:22.531073Z
+K 7
+svn:log
+V 68
+Add self-check and fix ascii-only mode, but there is still some bug?
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-09-14T01:35:59.384035Z
+K 7
+svn:log
+V 195
+Fix bug in large-optimizer where it passed the wrong bounds for double parameters; add some tests (but I wasn't able to make them fail, perhaps because of the other bug I found in opt.cc itself).
+END

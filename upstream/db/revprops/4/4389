@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-08-18T02:30:30.314457Z
+K 7
+svn:log
+V 213
+Fix bug in forwardlayer. Use average across all occurrences for learning rate on convolution layers. Basic support for conv in layerweights visualization. Succeeded at a trivial problem, but still no worky, though
+END

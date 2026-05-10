@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-08-21T13:06:44.713236Z
+K 7
+svn:log
+V 120
+Remove big prime delta list in factorization, which is no longer needed. Add simple adaptor for porting the Util method.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-10-18T03:00:35.367031Z
+K 7
+svn:log
+V 45
+Fix compilation with g++ 11.2.0 in c++20 mode
+END

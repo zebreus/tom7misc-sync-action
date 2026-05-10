@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-12-29T15:57:17.013227Z
+K 7
+svn:log
+V 182
+Make this compile on new machine; update to opencl 2.0; use FM7 and add training data to repository now that it's a reasonable size; benchmark results suggesting very bad utilization
+END

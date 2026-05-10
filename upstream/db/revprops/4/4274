@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-02-14T21:27:21.955294Z
+K 7
+svn:log
+V 129
+Tried implementing negative temperatures. Switched 'microdegs' to 'millidegs' everywhere (this was just wrong). Might not compile
+END

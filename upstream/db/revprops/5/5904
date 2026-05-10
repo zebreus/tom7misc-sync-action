@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-06-07T21:25:18.130685Z
+K 7
+svn:log
+V 95
+For the video; improved boxes-and-glue lib to honor justification modes in first-fit algorithm.
+END

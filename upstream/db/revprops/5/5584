@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-02-19T03:44:05.459323Z
+K 7
+svn:log
+V 147
+Polymorphic, mutually-recursive functions are working now, though there is a bug in the environment generation that will take a little rejiggering.
+END

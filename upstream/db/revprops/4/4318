@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-03-27T22:52:26.426756Z
+K 7
+svn:log
+V 111
+Breaking change: Avoid 'LoadImage' in sdlutil since windows.h redefines this sometimes. Some other small tweaks
+END

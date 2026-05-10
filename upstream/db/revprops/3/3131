@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-03-04T19:13:09.608504Z
+K 7
+svn:log
+V 70
+Implement most 16-bit conditionals and add tests for them. Works great
+END

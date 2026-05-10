@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-04-25T04:09:34.464141Z
+K 7
+svn:log
+V 144
+New version of data with '5' (power) chords. Deal with ambiguity, add lookup by fingering, command-line tool to run that. Notes on data problems
+END

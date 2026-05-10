@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2013-05-15T03:14:34.084188Z
+K 7
+svn:log
+V 145
+For demo where recompiling will be a nightmare, deprecate game.h. Long live config.txt. Note: Also reduced constants on state cache, broke base64
+END

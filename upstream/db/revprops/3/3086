@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2017-02-12T22:09:56.047551Z
+K 7
+svn:log
+V 127
+Place the data segment in the EXE too. Some sanity checking. Fix bad bug with relocations that was corrupting the data segment.
+END

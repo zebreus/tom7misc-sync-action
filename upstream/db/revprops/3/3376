@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-01-16T03:57:47.164984Z
+K 7
+svn:log
+V 73
+No frame-rate limiting, but supports rewind and is much faster than fceux
+END

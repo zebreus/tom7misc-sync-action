@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-12-11T21:25:10.736410Z
+K 7
+svn:log
+V 189
+Implement Yogi, which is no magic. Reduce learning rate per standard advice. Do configuration of update hyperparameters with a struct. Prep decay factor to be dynamic. Clean up tests a bit.
+END

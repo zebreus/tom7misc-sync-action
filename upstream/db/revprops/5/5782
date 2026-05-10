@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-04-04T03:45:04.522403Z
+K 7
+svn:log
+V 82
+Stuff I forgot to commit before trip: Strip trailing zeroes in PDF. Path utilities
+END

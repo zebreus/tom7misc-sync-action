@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2008-01-03T21:21:56.592363Z
+K 7
+svn:log
+V 159
+bars were just wrong because dts are multiples of 60, not 32 (at least star.mid). should get this info from the midi file or some configuration or something...
+END

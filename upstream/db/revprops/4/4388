@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-08-17T04:36:15.596295Z
+K 7
+svn:log
+V 136
+Implemented this and at least it doesn't crash now, but it still clearly isn't working, even with a trivial 'learn the identity' problem
+END

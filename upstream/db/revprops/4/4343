@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-04-30T17:47:07.831656Z
+K 7
+svn:log
+V 140
+Complete some of the implementation of Sim, fix some bugs, and add extremely basic tests. Enable strict typescript for this module at least.
+END

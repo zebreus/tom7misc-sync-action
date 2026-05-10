@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-03-18T13:54:06.749780Z
+K 7
+svn:log
+V 160
+Hook up best-fit algorithm, immediately demonstrating some bugs and the need for glue weighting. Move first-fit to boxes-and-glue library. Notes on hyphenation.
+END

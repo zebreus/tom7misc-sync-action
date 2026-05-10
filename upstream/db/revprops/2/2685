@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2016-01-18T21:01:13.230619Z
+K 7
+svn:log
+V 101
+New utilities in heap. Add Beta distribution sampling in randutil, based on numpy (new license added)
+END

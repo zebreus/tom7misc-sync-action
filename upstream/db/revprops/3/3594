@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2018-05-12T14:28:57.505568Z
+K 7
+svn:log
+V 90
+A few more slides, and automatically generate a javascript version for testing/emergencies
+END

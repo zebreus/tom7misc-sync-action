@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2020-11-27T16:39:13.463452Z
+K 7
+svn:log
+V 291
+Stop 'using namespace std' in headers... this probably breaks some stuff (but the fix is easy; add it to the .cc file), but there's a serious incompatibility with mingw C++17 headers and (old?) windows headers, so it's not worth the convenience, and has been bad practice for a decade anyway
+END

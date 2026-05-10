@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2022-05-30T17:23:23.413448Z
+K 7
+svn:log
+V 134
+Store as uint32_t instead of uint8_t. This is actually a little slower, but I was able to make it up with some performance assertions.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-11-30T23:38:12.625672Z
+K 7
+svn:log
+V 202
+Implemented several more instructions (so this is no longer the issue), but now the analysis blows up because it thinks it can reach a large number of addresses. Probably need subroutine splitting next.
+END

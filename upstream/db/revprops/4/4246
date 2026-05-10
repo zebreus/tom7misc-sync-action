@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-24T15:30:31.883169Z
+K 7
+svn:log
+V 227
+Possibly breaking: Explicit int64 for index parameters in Parallel* from threadutil. These are intended for big data operations so 2GB inputs are very reasonable. Implement everything in terms of ParallelComp. Add one more test
+END

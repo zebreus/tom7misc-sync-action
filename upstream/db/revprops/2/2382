@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2015-01-19T05:13:24.794004Z
+K 7
+svn:log
+V 216
+Make random sequence not depend on cart name (unless you decide to), to facilitate introducing new test cases based on comprehensive tests. Add test case for 'Ultimate Basketball' which fails savestate repeatability.
+END

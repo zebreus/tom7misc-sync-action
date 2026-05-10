@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-01-24T01:03:29.285268Z
+K 7
+svn:log
+V 40
+Implement the other bitwise ops for real
+END

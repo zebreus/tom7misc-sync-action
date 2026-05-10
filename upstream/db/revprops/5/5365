@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-15T15:01:54.113487Z
+K 7
+svn:log
+V 94
+Do some simplifications. Pack parallel arrays into struct. Some BigInt to 64 in CRT inner loop
+END

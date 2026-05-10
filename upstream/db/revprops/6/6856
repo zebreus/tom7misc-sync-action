@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2025-12-27T03:42:20.136044Z
+K 7
+svn:log
+V 89
+Allow wildcards in config file. Start on renew app. A little bit of additional hardening.
+END

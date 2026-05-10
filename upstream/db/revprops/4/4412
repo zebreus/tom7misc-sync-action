@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-10-11T03:07:34.319211Z
+K 7
+svn:log
+V 94
+Generate inverted indices for chunks. Not really tested but it runs without crashing, at least
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2023-11-19T18:41:42.107041Z
+K 7
+svn:log
+V 131
+Got this compiling again. Much needs to be fixed, though. There's something new with the tokens having a magic combining character?
+END

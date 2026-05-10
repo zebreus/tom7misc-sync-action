@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2024-09-05T02:01:44.222056Z
+K 7
+svn:log
+V 192
+Make it possible to use ANSI color codes in progress bar 'operation'. Round progress bar filled width. Add days in ANSI::Time for durations more than 24h. Decompose using UTF-8. Add some tests
+END

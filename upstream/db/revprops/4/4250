@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2021-01-25T03:50:32.638409Z
+K 7
+svn:log
+V 91
+Makefeatures generates a suite of distant features, and widen can copy them from a network.
+END
