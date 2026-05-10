@@ -1,0 +1,8 @@
+{
+  "files.watcherExclude": {
+    "svn-mirror/**": true
+  },
+  "search.exclude": {
+    "svn-mirror/**": true
+  }
+}
