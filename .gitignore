@@ -12,3 +12,6 @@
 # Lock directory used by some SVN versions
 /upstream/locks/db-logs.lock
 /upstream/locks/db.lock
+
+# downstream repo
+downstream

@@ -3,7 +3,7 @@
 
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
-    nixpkgs.url = "github:nixos/nixpkgs";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-25.05";
   };
 
   outputs =
@@ -20,13 +20,12 @@
         };
       in
       {
-        name = "rudelblinken-rs";
+        name = "sync-tom7misc";
 
         devShell = pkgs.mkShell {
           buildInputs = [
             pkgs.subversion
             pkgs.gitSVN
-
           ];
         };
 
