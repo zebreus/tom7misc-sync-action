@@ -1,8 +1,8 @@
 {
   "files.watcherExclude": {
-    "svn-mirror/**": true
+    "upstream/**": true
   },
   "search.exclude": {
-    "svn-mirror/**": true
+    "upstream/**": true
   }
 }

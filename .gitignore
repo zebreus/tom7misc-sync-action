@@ -1,14 +1,14 @@
 # Runtime locks
-/svn-mirror/db/txn-current-lock
-/svn-mirror/db/write-lock
+/upstream/db/txn-current-lock
+/upstream/db/write-lock
 
 # In-progress transactions (partial commits)
-/svn-mirror/db/txns/
-/svn-mirror/db/tmp/
+/upstream/db/txns/
+/upstream/db/tmp/
 
 # In-progress revision writes
-/svn-mirror/db/revprops/tmp/
+/upstream/db/revprops/tmp/
 
 # Lock directory used by some SVN versions
-/svn-mirror/locks/db-logs.lock
-/svn-mirror/locks/db.lock
+/upstream/locks/db-logs.lock
+/upstream/locks/db.lock
