@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-11T01:55:33.935670Z
+K 7
+svn:log
+V 116
+Add bounds on stretch_factor, but I found a counterexample that shows that this cannot be combined with the leaf IH.
+END
