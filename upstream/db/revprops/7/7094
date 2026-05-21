@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-21T03:37:53.459329Z
+K 7
+svn:log
+V 156
+Use a temporary clone of the buffer to show the diff. Not sure this is actually good, but it does prevent screwing up the real buffer, and scrolls properly.
+END
