@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-25T17:49:51.027210Z
+K 7
+svn:log
+V 160
+Fix long-standing bug in elaboration with 'ctor' field that should be instantiated with actual types when elaborating a variable that is actually a constructor.
+END
