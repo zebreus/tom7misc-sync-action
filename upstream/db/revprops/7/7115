@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-05-28T16:12:00.561993Z
+K 7
+svn:log
+V 247
+Improve the way combo-slide determines the content width, distinguishing an image overlay from one that takes space. This will break some older talks, but that's just the cost of doing business in BoVeX. (Can probably just switch them to ImageRHS)
+END
