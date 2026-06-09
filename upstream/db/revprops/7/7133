@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-08T21:22:06.384824Z
+K 7
+svn:log
+V 88
+In 2026, it should just be in C++. Move old prototype to sml; add basic input and video.
+END
