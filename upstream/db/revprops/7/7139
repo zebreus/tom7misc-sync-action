@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-12T13:37:53.650300Z
+K 7
+svn:log
+V 138
+Learned a new makefile trick for mixing headless/sdl builds in the directory. Let's see if I come to regret it. Added simple letter loader
+END
