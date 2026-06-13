@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-13T13:33:51.378065Z
+K 7
+svn:log
+V 162
+Clean up pdf and ttf code a little. We don't need the old, worse kerning table loop. codepoints should be uint32_t. Clean up polygons and polygonization a bit too
+END
