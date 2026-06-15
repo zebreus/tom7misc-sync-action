@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-15T16:36:51.270719Z
+K 7
+svn:log
+V 137
+Make TTF constructor fail gracefully. Make stb_truetype more tolerant of bad geometry. Can now make it through the SERIF fonts, at least.
+END
