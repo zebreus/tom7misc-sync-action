@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-15T21:21:23.430907Z
+K 7
+svn:log
+V 74
+'editor' which actually just loads SVGs so I can use illustrator as editor
+END
