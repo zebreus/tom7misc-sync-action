@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-18T02:17:05.342181Z
+K 7
+svn:log
+V 159
+Add the full ridiculous svg color list, since that keeps coming up (Illustrator will actually output some of these if they match). Add float sampling for pcg.h
+END
