@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-19T23:03:25.972490Z
+K 7
+svn:log
+V 114
+Current file should always be available. Try to reduce cases where it gives the filename instead of the full path.
+END
