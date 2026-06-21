@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-20T22:21:43.692312Z
+K 7
+svn:log
+V 137
+Add sepxchng, which is easy. Start on props and chess to see how big the expression is (it's deceptively complex because of check-checks)
+END
