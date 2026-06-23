@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-23T04:28:10.477493Z
+K 7
+svn:log
+V 142
+Clean up some. Make sure standard cells start at offset 0. Validation should assume standard cell layout (e.g. no input/output walls modeled).
+END
