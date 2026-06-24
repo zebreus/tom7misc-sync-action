@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-24T04:03:15.900910Z
+K 7
+svn:log
+V 119
+Fix some bugs; validate from cells. Add separated not, which should be more reliable than the somewhat pesky mixed not.
+END
