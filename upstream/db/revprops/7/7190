@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-28T19:28:57.271705Z
+K 7
+svn:log
+V 249
+Fixed a silly issue where A and B wires variants were flipping two things at once. Now it almost works, but gets stuck on some tests because it's too crowded and it needs some non-local movement to make space. I want to clean things up first though.
+END
