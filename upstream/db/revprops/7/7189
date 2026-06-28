@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-28T13:50:11.624997Z
+K 7
+svn:log
+V 97
+This is getting close, but tight wire geometry can get stuck due to some conservative settings...
+END
