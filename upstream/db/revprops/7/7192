@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-06-29T02:30:35.771383Z
+K 7
+svn:log
+V 126
+Modify some cells so that we have at least 16 blocks between inputs and outputs. It's too cramped otherwise, and we get stuck.
+END
