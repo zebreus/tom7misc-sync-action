@@ -6,7 +6,7 @@ REPO_DIR="$(pwd)"
 UPSTREAM_DIR="$REPO_DIR/$UPSTREAM_DIR_NAME"
 GIT_SVN_STATE="git-svn-state"
 
-DOWNSTREAM_URL="https://${DOWNSTREAM_SYNC_TOKEN}@github.com/zebreus/tom7misc.git"
+DOWNSTREAM_URL="https://x-access-token:${DOWNSTREAM_SYNC_TOKEN}@github.com/zebreus/tom7misc.git"
 DOWNSTREAM_DIR="$REPO_DIR/downstream"
 
 # Setup git
