@@ -44,7 +44,9 @@ cat > "$DOWNSTREAM_DIR/.git/svn/.metadata" << EOF
 	uuid = $UUID
 EOF
 mkdir -p "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk"
-cp "$REPO_DIR/$GIT_SVN_STATE/index" "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/index"
+# Rebuild the git-svn index from the downstream HEAD to ensure all referenced blobs exist
+# (using the stored index can fail if the downstream repo has diverged from the saved state)
+GIT_INDEX_FILE="$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/index" git -C "$DOWNSTREAM_DIR" read-tree HEAD
 cp "$REPO_DIR/$GIT_SVN_STATE/.rev_map" "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/.rev_map.$UUID"
 
 cd "$DOWNSTREAM_DIR" || exit 1
