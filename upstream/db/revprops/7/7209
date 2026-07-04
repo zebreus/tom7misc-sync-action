@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-03T03:11:36.331567Z
+K 7
+svn:log
+V 129
+Make it so that ImageRGBA (and friends) can have more than 2^31 pixels/channels. Unfortunately stb_image_write doesn't support it
+END

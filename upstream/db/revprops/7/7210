@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-03T14:00:59.064028Z
+K 7
+svn:log
+V 143
+Some more heuristics, but even running all night it doesn't look like the circuit will be a reasonable size. Time to try something a bit easier
+END

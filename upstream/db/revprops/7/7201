@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-01T01:43:41.983048Z
+K 7
+svn:log
+V 71
+Track text properties in SVG::GraphicsState. Add missing Scale() to TTF
+END
