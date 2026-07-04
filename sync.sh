@@ -46,9 +46,7 @@ EOF
 mkdir -p "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk"
 # Rebuild the git-svn index from the downstream HEAD to ensure all referenced blobs exist
 # (using the stored index can fail if the downstream repo has diverged from the saved state)
-if git -C "$DOWNSTREAM_DIR" rev-parse --verify HEAD &>/dev/null; then
-  GIT_INDEX_FILE="$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/index" git -C "$DOWNSTREAM_DIR" read-tree HEAD
-fi
+GIT_INDEX_FILE="$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/index" git -C "$DOWNSTREAM_DIR" read-tree HEAD
 cp "$REPO_DIR/$GIT_SVN_STATE/.rev_map" "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/.rev_map.$UUID"
 
 cd "$DOWNSTREAM_DIR" || exit 1
@@ -68,13 +66,14 @@ git add $GIT_SVN_STATE
 git commit -m "Sync SVN to r$(svnlook youngest "$UPSTREAM_DIR")"
 
 # Assert that we can push to both repos
-git push --dry-run
 cd "$DOWNSTREAM_DIR"
 git push --dry-run --force
 cd "$REPO_DIR"
+git push --dry-run
 
-# Push to both repos
-git push
+# Push downstream first: if this fails, the new git-svn-state must not be
+# persisted, since it would then no longer match the downstream repo's HEAD.
 cd "$DOWNSTREAM_DIR"
 git push --force
 cd "$REPO_DIR"
+git push
