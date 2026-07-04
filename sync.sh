@@ -13,6 +13,25 @@ DOWNSTREAM_DIR="$REPO_DIR/downstream"
 git config user.name "github-actions"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+# Clone the downstream repo early and verify we have write access to both
+# repos before doing any expensive work. A prior failure was caused by a
+# token that could read but not push to one of the repos: the sync ran to
+# completion and only failed on push, leaving git-svn-state out of sync with
+# the downstream repo.
+git clone "$DOWNSTREAM_URL" "$DOWNSTREAM_DIR"
+
+echo "Verifying write access to the downstream repo..."
+if ! git -C "$DOWNSTREAM_DIR" push --dry-run --force &>/dev/null; then
+  echo "ERROR: Unable to push to the downstream repo (zebreus/tom7misc). Check that DOWNSTREAM_SYNC_TOKEN is valid and has write access to that repo." >&2
+  exit 1
+fi
+
+echo "Verifying write access to this repo..."
+if ! git -C "$REPO_DIR" push --dry-run &>/dev/null; then
+  echo "ERROR: Unable to push to this repo. Check that the checkout credentials have write access." >&2
+  exit 1
+fi
+
 # Restore svnsync lock files (excluded from git)
 mkdir -p "$UPSTREAM_DIR"/db
 mkdir -p "$UPSTREAM_DIR"/locks
@@ -30,9 +49,6 @@ svnsync sync "file://$UPSTREAM_DIR"
 git add $UPSTREAM_DIR_NAME
 git diff --cached --quiet && echo "No SVN changes" && exit 0
 
-# Clone downstream repo
-git clone "$DOWNSTREAM_URL" "$DOWNSTREAM_DIR"
-
 # Prepare downstream for git-svn
 UUID=$(svnlook uuid "$UPSTREAM_DIR")
 mkdir -p "$DOWNSTREAM_DIR/.git/svn"
@@ -44,7 +60,9 @@ cat > "$DOWNSTREAM_DIR/.git/svn/.metadata" << EOF
 	uuid = $UUID
 EOF
 mkdir -p "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk"
-cp "$REPO_DIR/$GIT_SVN_STATE/index" "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/index"
+# Rebuild the git-svn index from the downstream HEAD to ensure all referenced blobs exist
+# (using the stored index can fail if the downstream repo has diverged from the saved state)
+GIT_INDEX_FILE="$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/index" git -C "$DOWNSTREAM_DIR" read-tree HEAD
 cp "$REPO_DIR/$GIT_SVN_STATE/.rev_map" "$DOWNSTREAM_DIR/.git/svn/refs/remotes/origin/trunk/.rev_map.$UUID"
 
 cd "$DOWNSTREAM_DIR" || exit 1
@@ -63,14 +81,9 @@ git add $GIT_SVN_STATE
 
 git commit -m "Sync SVN to r$(svnlook youngest "$UPSTREAM_DIR")"
 
-# Assert that we can push to both repos
-git push --dry-run
-cd "$DOWNSTREAM_DIR"
-git push --dry-run --force
-cd "$REPO_DIR"
-
-# Push to both repos
-git push
+# Push downstream first: if this fails, the new git-svn-state must not be
+# persisted, since it would then no longer match the downstream repo's HEAD.
 cd "$DOWNSTREAM_DIR"
 git push --force
 cd "$REPO_DIR"
+git push
