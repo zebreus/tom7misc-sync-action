@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-05T16:31:02.235555Z
+K 7
+svn:log
+V 97
+Fix flipping of level geometry, which was totally wrong. Fix small geometry problem in not01.svg.
+END
