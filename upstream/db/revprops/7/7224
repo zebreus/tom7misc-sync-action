@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-06T14:10:59.784725Z
+K 7
+svn:log
+V 258
+Shrink some cells, although for xchg we really should try to use the standard 16 block spacing for IO. Move design rules check to its own file and add layout equivalence. This is to support new optimization pass, but it doesn't really find optimizations yet.
+END
