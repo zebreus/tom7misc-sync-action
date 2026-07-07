@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-07T01:54:27.501693Z
+K 7
+svn:log
+V 82
+Get this working on Raspberry Pi 5. Forked renderer since this may be short lived.
+END
