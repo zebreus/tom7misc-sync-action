@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-10T15:37:27.622999Z
+K 7
+svn:log
+V 79
+Generate grid of S (snakes on a plane), add more options used on special slides
+END
