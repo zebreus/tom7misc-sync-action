@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-19T22:26:04.175598Z
+K 7
+svn:log
+V 39
+Add hash-consing not/and representation
+END
