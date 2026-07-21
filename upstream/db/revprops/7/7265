@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-21T01:35:29.768412Z
+K 7
+svn:log
+V 313
+New, simpler approach to CanPlaceCell. Now we keep space for a small wire in either orientation. The old approach doesn't really work because we can still get stuck (unclear how many layers we would need to look ahead); this is simpler and faster and actually results in smaller circuits anyway. Passes chessdemo.
+END
