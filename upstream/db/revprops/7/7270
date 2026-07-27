@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-27T12:43:23.441989Z
+K 7
+svn:log
+V 68
+More attempts to get this to be efficient. Added spring debug output
+END
