@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-28T02:37:01.909666Z
+K 7
+svn:log
+V 93
+Draw icons in mini circuit. Fix bug where combine/separate could alternate in some situations
+END
