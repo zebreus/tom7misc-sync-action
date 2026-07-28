@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-07-28T03:03:39.657296Z
+K 7
+svn:log
+V 75
+Rename simplification -> aig, since I might not use that for simplification
+END
