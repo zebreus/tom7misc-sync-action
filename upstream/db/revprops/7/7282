@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-02T18:25:09.277222Z
+K 7
+svn:log
+V 146
+Get rid of much complexity in switch-files (some of its behavior always confusd me); now it just rotates between header, implementation, and test.
+END

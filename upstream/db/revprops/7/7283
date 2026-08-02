@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-02T19:56:57.125661Z
+K 7
+svn:log
+V 119
+OK, chess simplification through ABC is maybe working now (though I didn't validate the output; it's at least smaller).
+END
