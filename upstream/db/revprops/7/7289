@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-03T15:37:43.638559Z
+K 7
+svn:log
+V 100
+Include this gate file as well (so that library can load) even though it is probably to be abandoned
+END
