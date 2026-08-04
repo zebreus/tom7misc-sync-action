@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-04T03:58:52.141740Z
+K 7
+svn:log
+V 120
+OK, this seems to be a good approach, and is much faster than the AIG-based original attempt (like 3s for each formula).
+END
