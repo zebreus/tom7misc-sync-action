@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-07T03:26:30.813115Z
+K 7
+svn:log
+V 53
+Chessdemo from files. Add layout support for nand/nor
+END
