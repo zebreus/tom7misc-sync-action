@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-10T02:52:49.336780Z
+K 7
+svn:log
+V 94
+Fix bug in layout where the exterior was not waiting until variables were unique (in subterms)
+END
