@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-10T16:19:33.850991Z
+K 7
+svn:log
+V 63
+New approach to chessprop, using pre-existing check information
+END
