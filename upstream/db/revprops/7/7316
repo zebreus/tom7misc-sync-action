@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-17T02:08:18.587439Z
+K 7
+svn:log
+V 116
+Hibernate scenes so that big circuit simulations won't run out of world slots. Also color active scenes differently.
+END
