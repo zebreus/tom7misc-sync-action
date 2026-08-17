@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-17T13:11:48.338951Z
+K 7
+svn:log
+V 46
+Add CCZ decompression to string; improve tests
+END
