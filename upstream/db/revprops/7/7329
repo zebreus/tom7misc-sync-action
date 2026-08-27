@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-08-27T14:34:10.732045Z
+K 7
+svn:log
+V 209
+Smaller xchg cells, with standard spacing. This should help a lot with density. Added basic LOD for rendering really zoomed-out circuits. Continuing to try approaches to optimization, but they are pretty slow.
+END
