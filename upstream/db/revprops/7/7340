@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-08T04:50:26.060647Z
+K 7
+svn:log
+V 70
+Improve heuristics in tilt_grad solver based on slowly-found solutions
+END
