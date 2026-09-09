@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-08T23:22:23.465270Z
+K 7
+svn:log
+V 71
+Add GPU version of TILT_GRAD solver. It's several hundred times faster.
+END

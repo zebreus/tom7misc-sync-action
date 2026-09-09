@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-09T01:38:39.237473Z
+K 7
+svn:log
+V 49
+Use compile-time constant for nummber of vertices
+END
