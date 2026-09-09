@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-09T13:35:04.105888Z
+K 7
+svn:log
+V 28
+Don't prematurely bottom-out
+END
