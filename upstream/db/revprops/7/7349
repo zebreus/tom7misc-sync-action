@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-09T14:55:23.799540Z
+K 7
+svn:log
+V 75
+We spend a lot of time sorting, but we don't need to sort the whole vector.
+END
