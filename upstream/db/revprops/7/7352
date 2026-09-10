@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-10T02:05:33.649032Z
+K 7
+svn:log
+V 107
+Fix bug in BuildTrianglePool (e1 and e2 were swapped). Add known hard points, similar to related solutions.
+END
