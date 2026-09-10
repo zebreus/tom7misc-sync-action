@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-10T04:10:32.374444Z
+K 7
+svn:log
+V 169
+Don't try prioritizing triangles on the CPU; just do them all on the GPU. Set higher limit on cone samples to avoid getting stuck. Add progress metric based on worklist.
+END

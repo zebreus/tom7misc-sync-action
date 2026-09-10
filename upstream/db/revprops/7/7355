@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-10T04:44:27.289147Z
+K 7
+svn:log
+V 172
+Some fixes needed to keep memory usage under control for chart 0. The silliest thing is that we were still computing the valid_triples, which we aren't even using any more.
+END
