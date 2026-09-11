@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-11T20:04:20.471902Z
+K 7
+svn:log
+V 220
+Performance improvements in lean229 kernel, mainly from hoisting stuff out of inner loops and some algebraic simplifications that require storing less local memory. Confirmed that lean can validate some known-hard boxes.
+END
