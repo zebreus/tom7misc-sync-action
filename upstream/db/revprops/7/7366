@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-12T05:00:21.063425Z
+K 7
+svn:log
+V 230
+Fix bug with initializing priority points and performance remoing them from the stack. Add early exist after fp32 filter if there's no way it will succeed. Schedule the CPU fallback deeper (not sure if this is a good idea though).
+END
