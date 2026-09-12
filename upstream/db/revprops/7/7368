@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-12T12:46:12.136157Z
+K 7
+svn:log
+V 177
+Choose split direction dynamically once we get fine-grained enough. This was very biased before, due to the greedy spatial splitting (for coarse rejections). Add new hard point.
+END

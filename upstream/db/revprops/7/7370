@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-12T13:48:24.333977Z
+K 7
+svn:log
+V 77
+Cap batch size when we have many distinct triangle pools. Collate by pool id.
+END
