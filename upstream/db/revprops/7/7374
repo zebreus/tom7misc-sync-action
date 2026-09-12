@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-12T17:58:28.632769Z
+K 7
+svn:log
+V 204
+Increase max depth, since it looks like we have only very scattered dust, so we might be able to still make progress at higher depths. Compute a histogram (probably overkill) and improve debugging output.
+END

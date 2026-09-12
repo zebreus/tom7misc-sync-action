@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-12T19:31:47.363413Z
+K 7
+svn:log
+V 125
+Don't need to sort triangles with float32 pre-pass. Reduce reallocations when prepping GPU buffers. Immediately report phase.
+END

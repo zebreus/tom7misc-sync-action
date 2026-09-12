@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-12T14:18:46.598485Z
+K 7
+svn:log
+V 137
+Better way of precomputing cross products for the fast pass, which lets us keep less work/memory from the CPU. Pack contact ids to bytes.
+END
