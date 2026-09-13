@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-13T02:44:18.646410Z
+K 7
+svn:log
+V 147
+Use tighter error term since some of these cells are just really tight. Might as well check in repair214 and pack229 tools for reproducibility, too
+END

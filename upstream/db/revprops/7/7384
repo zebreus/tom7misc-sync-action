@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-13T04:03:34.062915Z
+K 7
+svn:log
+V 192
+Try again here: Use a direct LP minimization instead of starting with zero translation when we fall back to the CPU before declaring a cell difficult. But also do this at a more shallow depth.
+END
