@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-15T14:05:20.308676Z
+K 7
+svn:log
+V 78
+Add vectorized Bernstein evaluator, and Farkas cage cache for mixture approach
+END
