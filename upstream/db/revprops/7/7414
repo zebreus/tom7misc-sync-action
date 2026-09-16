@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-16T04:20:14.001392Z
+K 7
+svn:log
+V 124
+Support triangle indices when appealing to the identity tube. We currently just pass the root, maintaining the old behavior.
+END

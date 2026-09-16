@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-16T03:48:56.407323Z
+K 7
+svn:log
+V 22
+Add StatusBar::Abandon
+END
