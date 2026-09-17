@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-17T02:27:02.788811Z
+K 7
+svn:log
+V 58
+Fix some bugs/inconsistencies with the infeasibility check
+END
