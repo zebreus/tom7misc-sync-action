@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-16T22:21:59.703813Z
+K 7
+svn:log
+V 133
+Update pack229 to use identity tube atlas (old format) when it's packing the proof, choosing triangle ids that match the current view
+END
