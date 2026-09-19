@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-18T22:34:46.458825Z
+K 7
+svn:log
+V 75
+Fix bug with tube_radius parameter, and allow hierarchical 'difficult' rows
+END
