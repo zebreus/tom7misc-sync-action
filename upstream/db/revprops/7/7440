@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-19T17:44:09.495890Z
+K 7
+svn:log
+V 64
+Add simple 2D and 3D rational vectors, since those come up a lot
+END

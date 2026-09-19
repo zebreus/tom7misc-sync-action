@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-19T16:05:21.907342Z
+K 7
+svn:log
+V 175
+Move rational vertices into nopert229. We want to avoid parsing strings and allocating to construct them over and over, and we want to avoid the possibility of typos in copies
+END
