@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-20T14:56:11.871935Z
+K 7
+svn:log
+V 120
+Very simple syntax highlighting / table for Lean code, without Lean installed. Based on Apache 2 official lean-syntax.el
+END

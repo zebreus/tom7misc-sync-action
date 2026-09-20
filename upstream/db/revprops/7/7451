@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-20T18:41:43.171126Z
+K 7
+svn:log
+V 41
+Parse codepoint categories in UnicodeData
+END

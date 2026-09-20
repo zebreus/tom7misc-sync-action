@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-20T14:56:46.044502Z
+K 7
+svn:log
+V 130
+Enable lexical scope everywhere, which is obviously what I want and now emacs 31 complains if you don't. Didn't test much, though.
+END
