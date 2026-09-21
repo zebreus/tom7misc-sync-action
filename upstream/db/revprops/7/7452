@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-20T20:06:10.242914Z
+K 7
+svn:log
+V 144
+Some fixes in fixedersys (super/subscript parens were backwards); a few new glyphs and improvements. Started adding support for combining chars.
+END
