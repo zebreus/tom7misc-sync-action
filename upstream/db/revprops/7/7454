@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-21T02:16:42.495665Z
+K 7
+svn:log
+V 126
+Try to generate more correct headers and metrics for monospace fonts that have combining marks. Seems to work on Windows 11 :)
+END
