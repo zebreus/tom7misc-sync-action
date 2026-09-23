@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-23T00:52:42.862421Z
+K 7
+svn:log
+V 126
+Add improved rational vertex export (exact planar faces, coded decision diagram). Make sure difficult229 enables mixture mode.
+END
