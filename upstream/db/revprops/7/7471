@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-09-28T15:58:34.931815Z
+K 7
+svn:log
+V 121
+Promote net to cc-lib and add test; works ok on Mac OS. Search more locations in model-util; add disabled debug printing.
+END
