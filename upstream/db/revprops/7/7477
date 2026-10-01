@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-10-01T15:16:13.357419Z
+K 7
+svn:log
+V 70
+Just use net.h instead of SDL_net, and successfully enable the network
+END
