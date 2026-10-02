@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-10-02T15:09:09.279277Z
+K 7
+svn:log
+V 146
+Also move tls-client to cc-lib, which is the point. I don't love the cert parsing stuff in crypt/ but it seems better than also requiring csr lib.
+END

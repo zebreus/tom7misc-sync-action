@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-10-02T14:39:50.199203Z
+K 7
+svn:log
+V 101
+Use relative scale when testing clearance (etc.), since some of these push the limits of doubles even
+END
