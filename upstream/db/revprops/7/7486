@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-10-05T20:33:09.239965Z
+K 7
+svn:log
+V 49
+Rename HTTP -> HTTPS and some modernization/style
+END
