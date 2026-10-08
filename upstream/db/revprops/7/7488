@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-10-08T12:45:07.454238Z
+K 7
+svn:log
+V 46
+Clean up / numeric stability fix from vacation
+END
