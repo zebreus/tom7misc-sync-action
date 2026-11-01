@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-10-31T20:17:08.140313Z
+K 7
+svn:log
+V 67
+Fix an annoying old warning in this library (non-gmp mode) as well.
+END

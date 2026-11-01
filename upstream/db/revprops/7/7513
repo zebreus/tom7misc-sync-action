@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-10-31T20:08:11.920648Z
+K 7
+svn:log
+V 47
+Fix gcc warning (false positive) in re2 prog.cc
+END
