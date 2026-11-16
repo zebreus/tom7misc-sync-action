@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-11-16T03:52:56.130328Z
+K 7
+svn:log
+V 18
+Fix build on linux
+END
