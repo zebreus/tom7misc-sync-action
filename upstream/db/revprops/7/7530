@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-11-16T23:41:44.154722Z
+K 7
+svn:log
+V 98
+Attempt to set limits in consult, since Carbon sometimes just thinks itself to death and costs me 
+END
