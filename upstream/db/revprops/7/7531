@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-11-20T04:09:28.037025Z
+K 7
+svn:log
+V 130
+Using 'throw' here means that we can't compile with -fno-exceptions, which aphasia does. Looks like assert just works fine though.
+END
