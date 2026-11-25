@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-11-25T15:26:18.374073Z
+K 7
+svn:log
+V 57
+Do a better job of wiping secrets in SHA-1 implementation
+END
