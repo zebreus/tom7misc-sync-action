@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-11-26T15:38:50.340320Z
+K 7
+svn:log
+V 94
+Do PERF to use realloc; check malloc for null since this is used in memory-limited situations.
+END
