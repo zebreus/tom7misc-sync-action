@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-11-28T02:42:17.988349Z
+K 7
+svn:log
+V 64
+Fix font mixup on mac OS, and allow greek from read-only buffers
+END

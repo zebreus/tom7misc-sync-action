@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+tom7
+K 8
+svn:date
+V 27
+2026-11-28T03:24:37.713428Z
+K 7
+svn:log
+V 133
+Also apply backpressure when client send buffer is full, since we write directly in response to some client messages (e.g. heartbeat)
+END
